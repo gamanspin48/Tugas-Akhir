@@ -213,8 +213,8 @@ public class NewMain {
              else
                  dataGagal.add(arabHasil);             
          }
-        writeToCsv(dataHasil,header,"All Fi'il Shahih Result good.csv");
-        writeToCsv(dataGagal,header,"gagal.csv");
+        //writeToCsv(dataHasil,header,"All Fi'il Shahih Result good.csv");
+        //writeToCsv(dataGagal,header,"gagal.csv");
         float totalFiil = dataTestObj2.size(); 
         float totalGagal = totalFiil - dataHasil.size();
         float totalGagalP = totalGagal / totalFiil;
