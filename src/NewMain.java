@@ -190,7 +190,7 @@ public class NewMain {
         System.out.println("salah input = "+salahInput);
         
          String header = "No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern\n";
-         writeToCsv(dataTestObj,header,"test result.csv");
+         writeToCsv(dataTestObj,header,"Test Result.csv");
          
          ArrayList<String> dataTest2 =  new Kamus().getFiilShahih();
          ArrayList<ArabicTeks> dataTestObj2 = new ArrayList<>();
@@ -201,7 +201,7 @@ public class NewMain {
              dataTestObj2.add(new ArabicTeks(arabTest));
              
          }
-         writeToCsv(dataTestObj2,header,"hasil2.csv");
+         writeToCsv(dataTestObj2,header,"All Fi'il Shahih Result.csv");
          
          ArrayList<ArabicTeks> dataHasil = new ArrayList<>();
          ArrayList<ArabicTeks> dataGagal = new ArrayList<>();
@@ -213,7 +213,7 @@ public class NewMain {
              else
                  dataGagal.add(arabHasil);             
          }
-        writeToCsv(dataHasil,header,"All Fi'il Shahih Result.csv");
+        writeToCsv(dataHasil,header,"All Fi'il Shahih Result good.csv");
         writeToCsv(dataGagal,header,"gagal.csv");
         float totalFiil = dataTestObj2.size(); 
         float totalGagal = totalFiil - dataHasil.size();
@@ -224,27 +224,27 @@ public class NewMain {
         System.out.println("Fiil Gagal = "+totalGagal+" ("+(totalGagalP*100)+") %");
         System.out.println("Fiil Berhasil = "+(totalBerhasil)+" ("+(totalBerhasilP*100)+") %");
         
-        ArrayList<ArabicTeks> dataGagalPasif = new ArrayList<>();
-        ArrayList<ArabicTeks> dataGagalAktif = new ArrayList<>();
-        
-        for (ArabicTeks gagal : dataGagal){
-            
-            //System.out.println(gagal.getTokenBuck());
-            if (Kamus.isPassive(gagal.getTokenBuck())){
-                
-                dataGagalPasif.add(gagal);
-                //System.out.println("pasif");
-                
-            }else{
-                
-                dataGagalAktif.add(gagal);
-               // System.out.println("bukan pasif");
-                
-            }
-            
-        }
-        writeToCsv(dataGagalPasif,header,"gagal pasif.csv");
-        writeToCsv(dataGagalAktif,header,"gagal bukan pasif.csv");
+//        ArrayList<ArabicTeks> dataGagalPasif = new ArrayList<>();
+//        ArrayList<ArabicTeks> dataGagalAktif = new ArrayList<>();
+//        
+//        for (ArabicTeks gagal : dataGagal){
+//            
+//            //System.out.println(gagal.getTokenBuck());
+//            if (Kamus.isPassive(gagal.getTokenBuck())){
+//                
+//                dataGagalPasif.add(gagal);
+//                //System.out.println("pasif");
+//                
+//            }else{
+//                
+//                dataGagalAktif.add(gagal);
+//               // System.out.println("bukan pasif");
+//                
+//            }
+//            
+//        }
+//        writeToCsv(dataGagalPasif,header,"gagal pasif.csv");
+//        writeToCsv(dataGagalAktif,header,"gagal bukan pasif.csv");
         
    //     System.out.println(new Buckwalter().buckwalterToUnicode("SadaquwA@"));
         //ArabicTeks tes = new ArabicTeks("nafidato");

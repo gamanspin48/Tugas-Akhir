@@ -635,7 +635,7 @@ public class ArabicTeks {
                 this.wazan+','+
                 bw.buckwalterToUnicode(this.dhomir)+','+
                 this.fiil+','+
-                listWazan[indexWazan].getPola()+',';
+                listWazan[indexWazan].getPola()+','+'\n';
             
         }catch(NullPointerException e){
             
@@ -651,7 +651,7 @@ public class ArabicTeks {
                 this.wazan+','+
                 this.dhomir+','+
                 this.fiil+','+
-                listWazan[indexWazan].getPola()+',';
+                listWazan[indexWazan].getPola()+','+'\n';
             
         }
         
