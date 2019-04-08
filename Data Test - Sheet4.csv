@@ -1,0 +1,314 @@
+No,Index (surat:ayat:frase),Arab/Root,Buckwalter,Arti,Jenis Fi'il,Dhomir,Wazan
+,2:13:19,|يَعْلَمُونَ/ع ل م,yaEolamuwna/Elm,they know,Mudhari,humo,4
+,2:22:23,تَعْلَمُونَ/ع ل م,taEolamuwna/Elm,[you] know,Mudhari,>anotumo,4
+,2:30:25,أَعْلَمُ/ع ل م,>aEolamu/Elm,[I] know,Mudhari,>anaA,4
+,0.125173611,عَلِمَ/ع ل م,Ealima/Elm,knew,Madhi,huwa,4
+,0.12849537,عَلِمْتُمْ/ع ل م,Ealimotumo/Elm,you knew,Madhi,>anotumo,4
+,0.136863426,يَعْلَمُ/ع ل م,yaEolamu/Elm,knows,Mudhari,huwa,4
+,0.241145833, نَعْلَمُ/ع ل م,naEolamu/Elm,we knew,Mudhari,naHonu,4
+,0.513229167,عَلِمْتَ/ع ل م,Ealimota/Elm,you know,Madhi,>anota,4
+,12:51:13,عَلِمْنَا/ع ل م,EalimonaA/Elm,we know,Madhi,naHonu,4
+,81:14:01,عَلِمَتْ/ع ل م,Ealimato/Elm,Will know,Madhi,hiya,4
+,2:19:09,يَجْعَلُونَ/ج ع ل,yajoEaluwona/jEl,They put,Mudhari,humo,3
+,2:22:02,جَعَلَ/ج ع ل,jaEala/jEl,made,Madhi,huwa,3
+,0.170162037,جَعَلْنَا/ج ع ل,jaEalonaA/jEl,We made,Madhi,naHonu,3
+,0.33630787,يَجْعَلُ/ج ع ل,yajoEalu/jEl,He places,Mudhari,huwa,3
+,2:28:02,تَكْفُرُونَ/ك ف ر,takofuruwna/kfr,(can) you disbelieve,Mudhari,>anotumo,1
+,0.12625,يَكْفُرُونَ/ك ف ر,yakofuruwona/kfr,disbelieve,Mudhari,humo,1
+,0.152164352,يَكْفُرُ/ك ف ر,yakofuru/kfr,disbelieves,Mudhari,huwa,1
+,0.154270833,كَفَرَ/ك ف ر,kafara/kfr,disbelieved,Madhi,huwa,1
+,14:09:27,كَفَرْنَا/ك ف ر,kafaronaA/kfr,[we] disbelieve,Madhi,naHonu,1
+,14:22:35,كَفَرْتُ/ك ف ر,kafarotu/kfr,deny,Madhi,>anaA,1
+,41:52:09,كَفَرْتُمْ/ك ف ر,kafarotumo/kfr,you disbelieve,Madhi,>anotumo,1
+,61:14:27,كَفَرَتْ/ك ف ر,kafarato/kfr,disbelieved,Madhi,hiya,1
+,0.126539352,عَمِلَ/ع م ل,Eamila/Eml,did,Madhi,huwa,4
+,0.135150463,تَعْمَلُونَ/ع م ل,taEomaluwona/Eml,you do,Mudhari,>anotumo,4
+,0.150289352,يَعْمَلُونَ/ع م ل,yaEomaluwna/Eml,do,Mudhari,humo,4
+,3:30:06,عَمِلَتْ/ع م ل,Eamilato/Eml,it did,Madhi,hiya,4
+,7:53:30,نَعْمَلُ/ع م ل,naEomalu/Eml,do,Mudhari,naHonu,4
+,0.397939815,عَمِلُوا/ع م ل,EamiluwoA/Eml,do,Madhi,humo,4
+,10:41:11,أَعْمَلُ/ع م ل,>aEomalu/Eml,I do,Mudhari,>anaA,4
+,64:07:14,عَمِلْتُمْ/ع م ل,Eamilotumo/Eml,you did,Madhi,>anotumo,4
+,2:29:03,خَلَقَ/خ ل ق,xalaqa/xlq,created,Madhi,huwa,1
+,3:47:13,يَخْلُقُ/خ ل ق,yaxoluqu/xlq,creates,Mudhari,huwa,1
+,3:49:12,أَخْلُقُ/خ ل ق,>axoluqu/xlq,[I] design,Mudhari,>anaA,1
+,0.2578125,خَلَقْتَ/خ ل ق,xalaqota/xlq,You have created,Madhi,>anota,1
+,0.285046296,تَخْلُقُ/خ ل ق,taxoluqu/xlq,you make,Mudhari,>anota/hiya,1
+,13:16:33,خَلَقُوا/خ ل ق,xalaquwA/xlq,who created,Madhi,humo,1
+,15:26:02,خَلَقْنَا/خ ل ق,xalaqonaA/xlq,We created,Madhi,naHonu,1
+,51:56:02,خَلَقْتُ/خ ل ق,xalaqotu/xlq,I created,Madhi,>anaA,1
+,2:10:12,يَكْذِبُونَ/ك ذ ب,yako*ibuwona/k*b,[they] lie,Mudhari,humo,2
+,6:24:03,كَذَبُوا/ك ذ ب,ka*abuwoA/k*b,they lied,Madhi,humo,2
+,36:15:15,تَكْذِبُونَ/ك ذ ب,tako*ibuwona/k*b,lying,Mudhari,>anotumo,2
+,1:05:02,نَعْبُدُ/ع ب د,naEobudu/Ebd,we worship,Mudhari,naHonu,1
+,,,taEobuduwna/Ebd,,Mudhari,>anotumo,1
+,,,yaEobudu/Ebd,,Mudhari,huwa,1
+,,,>aEobudu/Ebd,,Mudhari,>anaA,1
+,,,yaZolimuwna/Zlm,,Mudhari,humo,2
+,,,Zalama/Zlm,,Madhi,huwa,2
+,,,ZalamuwA/Zlm,,Madhi,humo,2
+,,,taZolimuwna/Zlm,,Mudhari,>anotumo,2
+,,,ZalamonaA/Zlm,,Madhi,naHonu,2
+,,,Zalamato/Zlm,,Madhi,hiya,2
+,,,Zalamotu/Zlm,,Madhi,>anaA,2
+,,,Zalamotumo/Zlm,,Madhi,>anotumo,2
+,,,xarajota/xrj,,Madhi,>anota,1
+,,,xarajuwA/xrj,,Madhi,humo,1
+,,,yaxoruju/xrj,,Mudhari,huwa,1
+,,,taxoruju/xrj,,Mudhari,>anota/hiya,1
+,,,taxorujuwna/xrj,,Mudhari,>anotumo,1
+,,,yaxorujuwna/xrj,,Mudhari,humo,1
+,,,xarajotumo/xrj,,Madhi,>anotumo,1
+,,,yafoEaluwna/fEl,,Mudhari,humo,3
+,,,yafoEalu/Efl,,Mudhari,huwa,3
+,,,faEalona/Efl,,Madhi,hun~a,3
+,,,faEala/Efl,,Madhi,huwa,3
+,,,faEalota/Efl,,Madhi,>anota,3
+,,,faEalotumo/Efl,,Madhi,>anotumo,3
+,,,faEalonaA/Efl,,Madhi,naHonu,3
+,,,tafoEaluwna/fEl,,Mudhari,>anotumo,3
+,,,nafoEalu/fEl,,Mudhari,naHonu,3
+,,,ya*okuruwna/*kr,,Mudhari,humo,1
+,,,ta*okuru/*kr,,Mudhari,>anota/hiya,1
+,,,*akarota/*kr,,Madhi,>anota,1
+,,,ya*okuru/*kr,,Mudhari,huwa,1
+,,,qatalotumo/qtl,,Madhi,>anotumo,1
+,,,taqotuluwna/qtl,,Mudhari,>anotumo,1
+,,,qatala/qtl,,Madhi,huwa,1
+,,,qatalonaA/qtl,,Madhi,naHonu,1
+,,,yaqotuluwna/qtl,,Mudhari,humo,1
+,,,yaqotulona/qtl,,Mudhari,hun~a,1
+,,,qatalota/qtl,,Madhi,>anota,1
+,,,yarojiEuwna/rjE,,Mudhari,humo,2
+,,,rajaEotumo/rjE,,Madhi,>anotumo,2
+,,,rajaEa/rjE,,Madhi,huwa,2
+,,,rajaEuwA/rjE,,Madhi,humo,2
+,,,>arojiEu/rjE,,Mudhari,>anaA,2
+,,,yarojiEu/rjE,,Mudhari,huwa,2
+,,,rajaEonaA/rjE,,Madhi,naHonu,2
+,,,yasomaEuwna/smE,,Mudhari,humo,4
+,,,samiEonaA/smE,,Madhi,naHonu,4
+,,,yasomaEu/smE,,Mudhari,huwa,4
+,,,samiEa/smE,,Madhi,huwa,4
+,,,samiEotumo/smE,,Madhi,>anotumo,4
+,,,samiEuwA/smE,,Madhi,humo,4
+,,,tasomaEuwna/smE,,Mudhari,>anotumo,4
+,,,samiEato/smE,,Madhi,hiya,4
+,,,tasomaEu/smE,,Mudhari,>anota/hiya,4
+,,,>asomaEu/smE,,Mudhari,>anaA,4
+,,,nasomaEu/smE,,Mudhari,naHonu,4
+,,,daxala/dxl,,Madhi,huwa,1
+,,,daxalotumo/dxl,,Madhi,>anotumo,1
+,,,yadoxuluwna/dxl,,Mudhari,humo,1
+,,,daxaluwA/dxl,,Madhi,humo,1
+,,,daxalota/dxl,,Madhi,>anota,1
+,,,yagofiru/gfr,,Mudhari,huwa,2
+,,,gafara/gfr,,Madhi,huwa,2
+,,,yakosibuwna/ksb,,Mudhari,humo,2
+,,,kasaba/ksb,,Madhi,huwa,2
+,,,kasabato/ksb,,Madhi,hiya,2
+,,,kasabotumo/ksb,,Madhi,>anotumo,2
+,,,kasabuwA/ksb,,Madhi,humo,2
+,,,kasabaA/ksb,,Madhi,humaA,2
+,,,takosibuwna/ksb,,Mudhari,>anotumo,2
+,,,takosibu/ksb,,Mudhari,>anota/hiya,2
+,,,yarozuqu/rzq,,Mudhari,huwa,1
+,,,yaDoribu/Drb,,Mudhari,huwa,2
+,,,yanoSuruwna/nSr,,Mudhari,humo,1
+,,,yanoSuru/nSr,,Mudhari,huwa,1
+,,,DarabuwA/Drb,,Madhi,humo,2
+,,,Darabotumo/Drb,,Madhi,>anotumo,2
+,,,yaDoribuwna/Drb,,Mudhari,humo,2
+,,,Daraba/Drb,,Madhi,huwa,2
+,,,DarabonaA/Drb,,Madhi,naHonu,2
+,,,baEava/bEv,,Madhi,huwa,3
+,,,yaboEavu/bEv,,Mudhari,huwa,3
+,,,baEavonaA/bEv,,Madhi,naHonu,3
+,,,naboEavu/bEv,,Mudhari,naHonu,3
+,,,yakotubuwna/ktb,,Mudhari,humo,1
+,,,katabato/ktb,,Madhi,hiya,1
+,,,kataba/ktb,,Madhi,huwa,1
+,,,katabonaA/ktb,,Madhi,naHonu,1
+,,,katabota/ktb,,Madhi,>anota,1
+,,,ta$okuruwna/$kr,,Mudhari,>anotumo,1
+,,,ya$okuruwna/$kr,,Mudhari,humo,1
+,,,$akarotumo/$kr,,Madhi,>anotumo,1
+,,,$akara/$kr,,Madhi,huwa,1
+,,,ya$okuru/$kr,,Mudhari,huwa,1
+,,,yaHokumu/Hkm,,Mudhari,huwa,1
+,,,Hakamotumo/Hkm,,Madhi,>anotumo,1
+,,,Hakamota/Hkm,,Madhi,>anota,1
+,,,yaHokumuwna/Hkm,,Mudhari,humo,1
+,,,yaHokumaAni/Hkm,,Mudhari,humaA,1
+,,,taHokumu/Hkm,,Mudhari,>anota/hiya,1
+,,,Hasibotumo/Hsb,,Madhi,>anotumo,4
+,,,Hasibota/Hsb,,Madhi,>anota,4
+,,,taHosabu/Hsb,,Mudhari,>anota/hiya,4
+,,,Hasiba/Hsb,,Madhi,huwa,4
+,,,yaHosabuwna/Hsb,,Mudhari,humo,4
+,,,ta$ohaduwna/$hd,,Mudhari,>anotumo,4
+,,,$ahida/$hd,,Madhi,huwa,4
+,,,ya$ohadu/$hd,,Mudhari,huwa,4
+,,,ya$ohaduwna/$hd,,Mudhari,humo,4
+,,,>a$ohadu/$hd,,Mudhari,>anaA,4
+,,,$ahidonaA/$hd,,Madhi,naHonu,4
+,,,ta$ohadu/$hd,,Mudhari,>anota/hiya,4
+,,,Hasuna/Hsn,,Madhi,huwa,5
+,,,Hasunato/Hsn,,Madhi,hiya,5
+,,,balagona/blg,,Madhi,hun~a,1
+,,,balaga/blg,,Madhi,huwa,1
+,,,balagaA/blg,,Madhi,humaA,1
+,,,balagota/blg,,Madhi,>anota,1
+,,,balagotu/blg,,Madhi,>anaA,1
+,,,balaguwA/blg,,Madhi,humo,1
+,,,>abolugu/blg,,Mudhari,>anaA,1
+,,,naHo$uru/H$r,,Mudhari,naHonu,1
+,,,*ahaba/*hb,,Madhi,huwa,3
+,,,*ahabuwA/*hb,,Madhi,humo,3
+,,,*ahabonaA/*hb,,Madhi,naHonu,3
+,,,ya*ohabu/*hb,,Mudhari,huwa,3
+,,,*ahabato/*hb,,Madhi,hiya,3
+,,,ta*ohabuwna/*hb,,Mudhari,>anotumo,3
+,,,nazala/nzl,,Madhi,huwa,2
+,,,yanozilu/nzl,,Mudhari,huwa,2
+,,,yasojuduwna/sjd,,Mudhari,humo,1
+,,,sajaduwA/sjd,,Madhi,humo,1
+,,,yasojudu/sjd,,Mudhari,huwa,1
+,,,yasojudaAni/sjd,,Mudhari,humaA,1
+,,,labivota/lbv,,Madhi,>anota,4
+,,,labivotu/lbv,,Madhi,>anaA,4
+,,,labiva/lbv,,Madhi,huwa,4
+,,,labivotumo/lbv,,Madhi,>anotumo,4
+,,,yalobavuwna/lbv,,Mudhari,humo,4
+,,,labivuwA/lbv,,Madhi,humo,4
+,,,labivonaA/lbv,,Madhi,naHonu,4
+,,,yaqodiruwna/qdr,,Mudhari,humo,2
+,,,qadaruwA/qdr,,Madhi,humo,2
+,,,yaqodiru/qdr,,Mudhari,huwa,2
+,,,yajomaEuwna/jmE,,Mudhari,humo,3
+,,,jamaEuwA/jmE,,Madhi,humo,3
+,,,yajomaEu/jmE,,Mudhari,huwa,3
+,,,jamaEa/jmE,,Madhi,huwa,3
+,,,yarofaEu/rfE,,Mudhari,huwa,3
+,,,narofaEu/rfE,,Mudhari,naHonu,3
+,,,rafaEa/rfE,,Madhi,huwa,3
+,,,yamokuruwna/ykr,,Mudhari,humo,1
+,,,yamokuru/ykr,,Mudhari,huwa,1
+,,,tamokuruwna/ykr,,Mudhari,>anotumo,1
+,,,makara/mkr,,Madhi,huwa,1
+,,,makaruwA/mkr,,Madhi,humo,1
+,,,takotumuwna/ktm,,Mudhari,>anotumo,1
+,,,katama/ktm,,Madhi,huwa,1
+,,,yakotumuwna/ktm,,Mudhari,humo,1
+,,,yakotumona/ktm,,Mudhari,hun~a,1
+,,,nakotumu/ktm,,Mudhari,naHonu,1
+,,,yakotumu/ktm,,Mudhari,huwa,1
+,,,EarafuwA/Erf,,Madhi,humo,2
+,,,yaEorifuwna/Erf,,Mudhari,humo,2
+,,,taEorifu/Erf,,Mudhari,>anota/hiya,2
+,,,kariha/krh,,Madhi,huwa,4
+,,,yakorahuwna/krh,,Mudhari,humo,4
+,,,karihuwA/krh,,Madhi,humo,4
+,,,basaTota/bsT,,Madhi,>anota,1
+,,,yabosuTu/bsT,,Mudhari,huwa,1
+,,,basaTa/bsT,,Madhi,huwa,1
+,,,xasira/xsr,,Madhi,huwa,4
+,,,xasiruwA/xsr,,Madhi,humo,4
+,,,yaxosaru/xsr,,Mudhari,huwa,4
+,,,fataHa/ftH,,Madhi,huwa,3
+,,,fataHonaA/ftH,,Madhi,naHonu,3
+,,,fataHuwA/ftH,,Madhi,humo,3
+,,,yafotaHu/ftH,,Mudhari,huwa,3
+,,,sakana/skn,,Madhi,huwa,1
+,,,tasokunuwna/skn,,Mudhari,>anotumo,1
+,,,sakanotumo/skn,,Madhi,>anotumo,1
+,,,$ariba/$rb,,Madhi,huwa,4
+,,,ta$orabuwna/$rb,,Mudhari,>anotumo,4
+,,,ya$orabuwna/$rb,,Mudhari,humo,4
+,,,ya$orabu/$rb,,Mudhari,huwa,4
+,,,yaEodiluwna/Edl,,Mudhari,humo,2
+,,,yanokiHona/nkH,,Mudhari,hun~a,2
+,,,nakaHa/nkH,,Madhi,huwa,2
+,,,yanokiHu/nkH,,Mudhari,huwa,2
+,,,yazoEumuwna/zEm,,Mudhari,humo,1
+,,,tazoEumuwna/zEm,,Mudhari,>anotumo,1
+,,,zaEamotumo/zEm,,Madhi,>anotumo,1
+,,,zaEamota/zEm,,Madhi,>anota,1
+,,,zaEama/zEm,,Madhi,huwa,1
+,,,yasoluku/slk,,Mudhari,huwa,1
+,,,naqoEudu/qEd,,Mudhari,naHonu,1
+,,,saxiruwA/sxr,,Madhi,humo,4
+,,,saxira/sxr,,Madhi,huwa,4
+,,,nasoxaru/sxr,,Mudhari,naHonu,4
+,,,tasoxaruwna/sxr,,Mudhari,>anotumo,4
+,,,TabaEa/TbE,,Madhi,huwa,3
+,,,yaTobaEu/TbE,,Mudhari,huwa,3
+,,,naTobaEu/TbE,,Mudhari,naHonu,3
+,,,yaboxaluwna/bxl,,Mudhari,humo,4
+,,,baxiluwA/bxl,,Madhi,humo,4
+,,,yaboxalu/bxl,,Mudhari,huwa,4
+,,,baxila/bxl,,Madhi,huwa,4
+,,,Zahara/Zhr,,Madhi,huwa,3
+,,,yaZoharuwna/Zhr,,Mudhari,humo,3
+,,,yafosuquwna/fsq,,Mudhari,humo,1
+,,,fasaquwA/fsq,,Madhi,humo,1
+,,,tafosuquwna/fsq,,Mudhari,>anotumo,1
+,,,yanoziEu/nzE,,Mudhari,huwa,2
+,,,rakibaA/rkb,,Madhi,humaA,4
+,,,rakibuwA/rkb,,Madhi,humo,4
+,,,yarokabuwna/rkb,,Mudhari,humo,4
+,,,tarokabuwna/rkb,,Mudhari,>anotumo,4
+,,,naqo*ifu/q*f,,Mudhari,naHonu,2
+,,,yaqo*ifu/q*f,,Mudhari,huwa,2
+,,,taDoHakuwna/DHk,,Mudhari,>anotumo,4
+,,,yaDoHakuwna/DHk,,Mudhari,humo,4
+,,,yaxolufuwna/xlf,,Mudhari,humo,1
+,,,faSala/fSl,,Madhi,huwa,2
+,,,yafoSilu/fSl,,Mudhari,huwa,2
+,,,saraqa/srq,,Madhi,huwa,2
+,,,yasoriqona/srq,,Mudhari,hun~a,2
+,,,yaSodifuwna/Sdf,,Mudhari,humo,2
+,,,yanofadu/nfd,,Mudhari,huwa,4
+,,,nafidato/nfd,,Madhi,hiya,4
+,,,yaHosuduwna/Hsd,,Mudhari,humo,1
+,,,Hasada/Hsd,,Madhi,huwa,1
+,,,xaTifa/xTf,,Madhi,huwa,4
+,,,yaxoTafu/xTf,,Mudhari,huwa,4
+,,,saxiTa/sxT,,Madhi,huwa,4
+,,,yasoxaTuwna/sxT,,Mudhari,humo,4
+,,,kavura/kvr,,Madhi,huwa,5
+,,,kavurato/kvr,,Madhi,hiya,5
+,,,nakaSa/nkS,,Madhi,huwa,2
+,,,tanokiSuwna/nkS,,Mudhari,>anotumo,2
+,,,SabaruwA/Sbr,,Madhi,humo,1
+,,,SabaronaA/Sbr,,Madhi,naHonu,1
+,,,Sabarotumo/Sbr,,Madhi,>anotumo,1
+,,,taraka/trk,,Madhi,huwa,1
+,,,laEana/lEn,,Madhi,huwa,1
+,,,sabaqa/sbq,,Madhi,huwa,1
+,,,Sadaqa/Sdq,,Madhi,huwa,1
+,,,Sarafa/Srf,,Madhi,huwa,1
+,,,ka$afa/k$f,,Madhi,huwa,1
+,,,HabiTato/HbT,,Madhi,hiya,1
+,,,EaraDonaA/ErD,,Madhi,naHonu,1
+,,,Eahida/Ehd,,Madhi,huwa,1
+,,,faTara/fTr,,Madhi,huwa,1
+,,,naba*a/nb*,,Madhi,huwa,1
+,,,tabiEa/tbE,,Madhi,huwa,1
+,,,faraDa/frD,,Madhi,huwa,1
+,,,xasafonaA/xsf,,Madhi,naHonu,1
+,,,nafara/nfr,,Madhi,huwa,1
+,,,HaDara/HDr,,Madhi,huwa,1
+,,,HafiZa/HfZ,,Madhi,huwa,1
+,,,gaDiba/gDb,,Madhi,huwa,1
+,,,barazuwA/brz,,Madhi,humo,1
+,,,jahara/jhr,,Madhi,huwa,1
+,,,xatama/xtm,,Madhi,huwa,1
+,,,salafa/slf,,Madhi,huwa,1
+,,,$araha/$rh,,Madhi,huwa,1
+,,,halaka/hlk,,Madhi,huwa,1
+,,,Eazama/Ezm,,Madhi,huwa,1
+,,,$araEa/$rE,,Madhi,huwa,1
+,,,SalaHa/SlH,,Madhi,huwa,1
+,,,Eabasa/Ebs,,Madhi,huwa,1
+,,,maraja/mrj,,Madhi,huwa,1
