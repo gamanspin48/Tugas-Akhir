@@ -430,7 +430,7 @@ public class ArabicTeks {
     
     private String calcWazan(){
         
-        String hasil = "tidak terdefinisi";
+        String hasil = "not defined";
         
         
         String[] w = calcTempWazan();
@@ -542,7 +542,7 @@ public class ArabicTeks {
     
     public String getWazanAsli(String polaMadhi,String polaMudhari){
         
-        String hasil = "tidak terdefinisi";
+        String hasil = "not defined";
         
         for (int i = 0; i < listWazan.length; i++) {
             
@@ -652,6 +652,55 @@ public class ArabicTeks {
                 this.dhomir+','+
                 this.fiil+','+
                 listWazan[indexWazan].getPola()+'\n';
+            
+        }
+        
+        
+        
+        return hasil1;
+    }
+    
+    public String toCsv2(String no){
+        Buckwalter bw = new Buckwalter();
+        
+        String hasil1;
+        
+        if (this.wazan == "not defined")
+            ket = "not correct";
+        else
+            ket = "correct";
+        
+        try{
+            
+            hasil1 = no+','+
+                tokenArab+','+
+                tokenBuck+','+
+                bw.buckwalterToUnicode(awalan)+','+
+                bw.buckwalterToUnicode(akhiran)+','+
+                awalan+"|"+harokat+"|"+akhiran+','+
+                bw.buckwalterToUnicode(root)+','+
+                this.wazan+','+
+                bw.buckwalterToUnicode(this.dhomir)+','+
+                this.fiil+','+
+                listWazan[indexWazan].getPola()+','+
+                ket+'\n';
+            
+        }catch(NullPointerException e){
+            
+     
+            
+            hasil1 = no+','+
+                tokenArab+','+
+                tokenBuck+','+
+                bw.buckwalterToUnicode(awalan)+','+
+                bw.buckwalterToUnicode(akhiran)+','+
+                awalan+"|"+harokat+"|"+akhiran+','+
+                root+','+
+                this.wazan+','+
+                this.dhomir+','+
+                this.fiil+','+
+                listWazan[indexWazan].getPola()+','+
+                ket+'\n';
             
         }
         

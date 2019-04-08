@@ -180,8 +180,10 @@ public class NewMain {
             dataTestObj.add(testing);
         }
         
-        System.out.println("Akurasi Streak = "+ ((float)(benar/jml))*100+"%");
-        System.out.println("Akurasi Longgar = "+((float)(benarSoft/jmlSoft))*100+"%");
+        float streak = ((float)(benar/jml))*100;
+        float soft = ((float)(benarSoft/jmlSoft))*100;
+        System.out.println("Akurasi Streak = "+ streak+"%");
+        System.out.println("Akurasi Longgar = "+soft+"%");
         System.out.println("jumlah benar = "+benar);
         System.out.println("jumlah salah = "+salah);
         System.out.println("salah dhomir = "+salahDhomir);
@@ -190,7 +192,8 @@ public class NewMain {
         System.out.println("salah input = "+salahInput);
         
          String header = "No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern\n";
-         writeToCsv(dataTestObj,header,"Test Result.csv");
+         String header2 = "No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern,Result\n";
+         writeToCsv2(dataTestObj,header2,"Test Result.csv",streak,soft);
          
          ArrayList<String> dataTest2 =  new Kamus().getFiilShahih();
          ArrayList<ArabicTeks> dataTestObj2 = new ArrayList<>();
@@ -283,6 +286,57 @@ public class NewMain {
                  
              }
              
+             writer.write(sb.toString());
+             
+//              return "Arab\t\t  "+ tokenArab+": \n"+
+//                    "BuckWalter\t : "+tokenBuck+"\n"+
+//                    "Awalan\t\t"+bw.buckwalterToUnicode(awalan)+": \n"+
+//                    "Akhiran\t\t"+bw.buckwalterToUnicode(akhiran)+": \n"+
+//                    "Pola\t\t : "+awalan+"|"+harokat+"|"+akhiran+"\n"+
+//                    "Root\t\t"+bw.buckwalterToUnicode(root)+": \n"+
+//                    "Wazan\t\t : "+this.wazan+"\n"+
+//                    "Dhomir\t\t"+bw.buckwalterToUnicode(this.dhomir)+": \n"+
+//                    "Fiil\t\t : "+this.fiil+"\n"+
+//                    "Pola Wazan\t : "+listWazan[indexWazan].getPola()
+//                    ;
+             
+//        StringBuilder sb = new StringBuilder();
+//        sb.append("id");
+//        sb.append(',');
+//        sb.append("Name");
+//        sb.append('\n');
+//
+//        sb.append("1");
+//        sb.append(',');
+//        sb.append("Prashant Ghimire");
+//        sb.append('\n');
+//
+//        writer.write(sb.toString());
+//
+//        System.out.println("done!");
+
+      } catch (FileNotFoundException e) {
+        System.out.println(e.getMessage());
+      }
+        
+    }
+     private static void writeToCsv2(ArrayList<ArabicTeks> data,String header,String fileName,float streak,float soft){
+        
+         try (PrintWriter writer = new PrintWriter(new File(fileName))) {
+           
+             StringBuilder sb = new StringBuilder();
+             
+
+             sb.append(header);
+             
+             for (int i = 0; i < data.size(); i++) {
+                 
+                 sb.append(data.get(i).toCsv2(String.valueOf(i+1)));
+                 
+             }
+             sb.append("\n");
+             sb.append(",Streak Accuracy,"+streak+" %\n");
+             sb.append(",Soft Accuracy,"+soft+"%");
              writer.write(sb.toString());
              
 //              return "Arab\t\t  "+ tokenArab+": \n"+

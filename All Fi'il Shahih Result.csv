@@ -19,8 +19,8 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 18,تَفْعَلُوا@,tafoEaluwA@,تَ,وا@,ta|oau|wA@,فعل,3,أَنْتُمْ,mudhari,aa
 19,تَفْعَلُوا@,tafoEaluwA@,تَ,وا@,ta|oau|wA@,فعل,3,أَنْتُمْ,mudhari,aa
 20,عَمِلُوا@,EamiluwA@,,وا@,|aiu|wA@,عمل,4,هُمْ,madhi,ia
-21,رُزِقُوا@,ruziquwA@,,وا@,|uiu|wA@,رزق,tidak terdefinisi,هُمْ,madhi,ia
-22,رُزِقْنَا,ruziqonaA,,نَا,|uio|naA,رزق,tidak terdefinisi,نَحْنُ,madhi,ia
+21,رُزِقُوا@,ruziquwA@,,وا@,|uiu|wA@,رزق,not defined,هُمْ,madhi,ia
+22,رُزِقْنَا,ruziqonaA,,نَا,|uio|naA,رزق,not defined,نَحْنُ,madhi,ia
 23,يَضْرِبَ,yaDoriba,يَ,,ya|oia|,ضرب,2,هُوَ,mudhari,ai
 24,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
 25,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
@@ -31,14 +31,14 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 30,تَجْعَلُ,tajoEalu,تَ,,ta|oau|,جعل,3,أَنْتَ/هِيَ,mudhari,aa
 31,أَعْلَمُ,>aEolamu,أَ,,>a|oau|,علم,4,أَنَا,mudhari,aa
 32,تَعْلَمُونَ,taEolamuwna,تَ,ونَ,ta|oau|wna,علم,4,أَنْتُمْ,mudhari,aa
-33,عَرَضَ,EaraDa,,,|aaa|,عرض,tidak terdefinisi,هُوَ,madhi,au
+33,عَرَضَ,EaraDa,,,|aaa|,عرض,not defined,هُوَ,madhi,au
 34,أَعْلَمُ,>aEolamu,أَ,,>a|oau|,علم,4,أَنَا,mudhari,aa
 35,أَعْلَمُ,>aEolamu,أَ,,>a|oau|,علم,4,أَنَا,mudhari,aa
 36,تَكْتُمُونَ,takotumuwna,تَ,ونَ,ta|ouu|wna,كتم,1,أَنْتُمْ,mudhari,au
 37,ٱسْجُدُوا@,{sojuduwA@,,وا@,|sjd|wA@,{ou,null,null,null,au
 38,سَجَدُ,sajadu,,,|aau|,sjd,null,null,null,au
 39,ٱسْكُنْ,{sokuno,,,|skn|,{ou,null,null,null,au
-40,تَبِعَ,tabiEa,,,|aia|,تبع,tidak terdefinisi,هُوَ,madhi,ia
+40,تَبِعَ,tabiEa,,,|aia|,تبع,not defined,هُوَ,madhi,ia
 41,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 42,ٱذْكُرُوا@,{*okuruwA@,,وا@,|*kr|wA@,{ou,null,null,null,au
 43,تَلْبِسُوا@,talobisuwA@,تَ,وا@,ta|oiu|wA@,لبس,2,أَنْتُمْ,mudhari,ai
@@ -115,7 +115,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 114,سَمِعْنَا,samiEonaA,,نَا,|aio|naA,سمع,4,نَحْنُ,madhi,ia
 115,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
 116,يَكْفُرُ,yakofuru,يَ,,ya|ouu|,كفر,1,هُوَ,mudhari,au
-117,نَبَذَ,naba*a,,,|aaa|,نبذ,tidak terdefinisi,هُوَ,madhi,au
+117,نَبَذَ,naba*a,,,|aaa|,نبذ,not defined,هُوَ,madhi,au
 118,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
 119,كَفَرَ,kafara,,,|aaa|,كفر,1,هُوَ,madhi,au
 120,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
@@ -147,8 +147,8 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 146,يَرْفَعُ,yarofaEu,يَ,,ya|oau|,رفع,3,هُوَ,mudhari,aa
 147,ٱجْعَلْنَا,{joEalonaA,,نَا,|jEl|naA,{oa,null,null,null,au
 148,ٱبْعَثْ,{boEavo,,,|bEv|,{oa,null,null,null,au
-149,سَفِهَ,safiha,,,|aia|,سفه,tidak terdefinisi,هُوَ,madhi,ia
-150,حَضَرَ,HaDara,,,|aaa|,حضر,tidak terdefinisi,هُوَ,madhi,au
+149,سَفِهَ,safiha,,,|aia|,سفه,not defined,هُوَ,madhi,ia
+150,حَضَرَ,HaDara,,,|aaa|,حضر,not defined,هُوَ,madhi,au
 151,تَعْبُدُونَ,taEobuduwna,تَ,ونَ,ta|ouu|wna,عبد,1,أَنْتُمْ,mudhari,au
 152,نَعْبُدُ,naEobudu,نَ,,na|ouu|,عبد,1,نَحْنُ,mudhari,au
 153,كَسَبَتْ,kasabato,,تْ,|aaa|to,كسب,2,هِيَ,madhi,au
@@ -197,13 +197,13 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 196,يَكْتُمُونَ,yakotumuwna,يَ,ونَ,ya|ouu|wna,كتم,1,هُمْ,mudhari,au
 197,أَصْبَرَ,>aSobara,أَ,,>a|oaa|,Sbr,null,null,null,au
 198,صَدَقُوا@,SadaquwA@,,وا@,|aau|wA@,صدق,3,هُمْ,madhi,au
-199,كُتِبَ,kutiba,,,|uia|,كتب,tidak terdefinisi,هُوَ,madhi,ia
-200,كُتِبَ,kutiba,,,|uia|,كتب,tidak terdefinisi,هُوَ,madhi,ia
-201,حَضَرَ,HaDara,,,|aaa|,حضر,tidak terdefinisi,هُوَ,madhi,au
+199,كُتِبَ,kutiba,,,|uia|,كتب,not defined,هُوَ,madhi,ia
+200,كُتِبَ,kutiba,,,|uia|,كتب,not defined,هُوَ,madhi,ia
+201,حَضَرَ,HaDara,,,|aaa|,حضر,not defined,هُوَ,madhi,au
 202,تَرَكَ,taraka,,,|aaa|,ترك,1,هُوَ,madhi,au
 203,سَمِعَ,samiEa,,,|aia|,سمع,4,هُوَ,madhi,ia
-204,كُتِبَ,kutiba,,,|uia|,كتب,tidak terdefinisi,هُوَ,madhi,ia
-205,كُتِبَ,kutiba,,,|uia|,كتب,tidak terdefinisi,هُوَ,madhi,ia
+204,كُتِبَ,kutiba,,,|uia|,كتب,not defined,هُوَ,madhi,ia
+205,كُتِبَ,kutiba,,,|uia|,كتب,not defined,هُوَ,madhi,ia
 206,تَعْلَمُونَ,taEolamuwna,تَ,ونَ,ta|oau|wna,علم,4,أَنْتُمْ,mudhari,aa
 207,شَهِدَ,$ahida,,,|aia|,شهد,4,هُوَ,madhi,ia
 208,تَشْكُرُونَ,ta$okuruwna,تَ,ونَ,ta|ouu|wna,شكر,1,أَنْتُمْ,mudhari,au
@@ -240,11 +240,11 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 239,حَسِبْتُمْ,Hasibotumo,,تُمْ,|aio|tumo,حسب,4,أَنْتُمْ,madhi,ia
 240,تَدْخُلُوا@,tadoxuluwA@,تَ,وا@,ta|ouu|wA@,دخل,1,أَنْتُمْ,mudhari,au
 241,تَفْعَلُوا@,tafoEaluwA@,تَ,وا@,ta|oau|wA@,فعل,3,أَنْتُمْ,mudhari,aa
-242,كُتِبَ,kutiba,,,|uia|,كتب,tidak terdefinisi,هُوَ,madhi,ia
+242,كُتِبَ,kutiba,,,|uia|,كتب,not defined,هُوَ,madhi,ia
 243,تَكْرَهُوا@,takorahuwA@,تَ,وا@,ta|oau|wA@,كره,4,أَنْتُمْ,mudhari,aa
 244,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 245,تَعْلَمُونَ,taEolamuwna,تَ,ونَ,ta|oau|wna,علم,4,أَنْتُمْ,mudhari,aa
-246,حَبِطَتْ,HabiTato,,تْ,|aia|to,حبط,tidak terdefinisi,هِيَ,madhi,ia
+246,حَبِطَتْ,HabiTato,,تْ,|aia|to,حبط,not defined,هِيَ,madhi,ia
 247,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 248,تَنكِحُوا@,tankiHuwA@,تَ,وا@,ta|null|wA@,null,null,null,null,au
 249,ٱعْلَمُ,{Eolamu,,,|Elm|,{oa,null,null,null,au
@@ -292,8 +292,8 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 291,يَبْص:ُطُ,yaboS:uTu,يَ,,ya|o:T|,bSu,null,null,null,au
 292,تُرْجَعُونَ,turojaEuwna,,ونَ,|uoa|wna,trj,null,null,null,au
 293,ٱبْعَثْ,{boEavo,,,|bEv|,{oa,null,null,null,au
-294,كُتِبَ,kutiba,,,|uia|,كتب,tidak terdefinisi,هُوَ,madhi,ia
-295,كُتِبَ,kutiba,,,|uia|,كتب,tidak terdefinisi,هُوَ,madhi,ia
+294,كُتِبَ,kutiba,,,|uia|,كتب,not defined,هُوَ,madhi,ia
+295,كُتِبَ,kutiba,,,|uia|,كتب,not defined,هُوَ,madhi,ia
 296,بَعَثَ,baEava,,,|aaa|,بعث,3,هُوَ,madhi,au
 297,تَرَكَ,taraka,,,|aaa|,ترك,1,هُوَ,madhi,au
 298,تَحْمِلُ,taHomilu,تَ,,ta|oiu|,حمل,2,أَنْتَ/هِيَ,mudhari,ai
@@ -302,7 +302,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 301,يَطْعَمْ,yaToEamo,يَ,,ya|oao|,طعم,4,هُنَّ,mudhari,aa
 302,شَرِبُوا@,$aribuwA@,,وا@,|aiu|wA@,شرب,4,هُمْ,madhi,ia
 303,غَلَبَتْ,galabato,,تْ,|aaa|to,غلب,2,هِيَ,madhi,au
-304,بَرَزُوا@,barazuwA@,,وا@,|aau|wA@,برز,tidak terdefinisi,هُمْ,madhi,au
+304,بَرَزُوا@,barazuwA@,,وا@,|aau|wA@,برز,not defined,هُمْ,madhi,au
 305,ٱنصُرْنَا,{nSuronaA,,نَا,|nuo|naA,{Sr,null,null,null,au
 306,هَزَمُ,hazamu,,,|aau|,hzm,null,null,null,au
 307,قَتَلَ,qatala,,,|aaa|,قتل,1,هُوَ,madhi,au
@@ -313,7 +313,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 312,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 313,يَكْفُرْ,yakofuro,يَ,,ya|ouo|,كفر,1,هُنَّ,mudhari,au
 314,كَفَرُ,kafaru,,,|aau|,kfr,null,null,null,au
-315,بُهِتَ,buhita,,,|uia|,بهت,tidak terdefinisi,هُوَ,madhi,ia
+315,بُهِتَ,buhita,,,|uia|,بهت,not defined,هُوَ,madhi,ia
 316,كَفَرَ,kafara,,,|aaa|,كفر,1,هُوَ,madhi,au
 317,بَعَثَ,baEava,,,|aaa|,بعث,3,هُوَ,madhi,au
 318,لَبِثْتَ,labivota,,تَ,|aio|ta,لبث,4,أَنْتَ,madhi,ia
@@ -335,7 +335,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 334,تُظْلَمُونَ,tuZolamuwna,,ونَ,|uoa|wna,tZl,null,null,null,au
 335,يَحْسَبُ,yaHosabu,يَ,,ya|oau|,حسب,4,هُوَ,mudhari,aa
 336,تَعْرِفُ,taEorifu,تَ,,ta|oiu|,عرف,2,أَنْتَ/هِيَ,mudhari,ai
-337,سَلَفَ,salafa,,,|aaa|,سلف,tidak terdefinisi,هُوَ,madhi,au
+337,سَلَفَ,salafa,,,|aaa|,سلف,not defined,هُوَ,madhi,au
 338,عَمِلُوا@,EamiluwA@,,وا@,|aiu|wA@,عمل,4,هُمْ,madhi,ia
 339,تَفْعَلُوا@,tafoEaluwA@,تَ,وا@,ta|oau|wA@,فعل,3,أَنْتُمْ,mudhari,aa
 340,تَظْلِمُونَ,taZolimuwna,تَ,ونَ,ta|oiu|wna,ظلم,2,أَنْتُمْ,mudhari,ai
@@ -373,7 +373,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 372,يَكْفُرُونَ,yakofuruwna,يَ,ونَ,ya|ouu|wna,كفر,1,هُمْ,mudhari,au
 373,يَقْتُلُونَ,yaqotuluwna,يَ,ونَ,ya|ouu|wna,قتل,1,هُمْ,mudhari,au
 374,يَقْتُلُونَ,yaqotuluwna,يَ,ونَ,ya|ouu|wna,قتل,1,هُمْ,mudhari,au
-375,حَبِطَتْ,HabiTato,,تْ,|aia|to,حبط,tidak terdefinisi,هِيَ,madhi,ia
+375,حَبِطَتْ,HabiTato,,تْ,|aia|to,حبط,not defined,هِيَ,madhi,ia
 376,يَحْكُمَ,yaHokuma,يَ,,ya|oua|,حكم,1,هُوَ,mudhari,au
 377,جَمَعْ,jamaEo,,,|aao|,jmE,null,null,null,au
 378,كَسَبَتْ,kasabato,,تْ,|aaa|to,كسب,2,هِيَ,madhi,au
@@ -386,7 +386,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 385,عَمِلَتْ,Eamilato,,تْ,|aia|to,عمل,4,هِيَ,madhi,ia
 386,عَمِلَتْ,Eamilato,,تْ,|aia|to,عمل,4,هِيَ,madhi,ia
 387,يَغْفِرْ,yagofiro,يَ,,ya|oio|,غفر,2,هُنَّ,mudhari,ai
-388,نَذَرْتُ,na*arotu,,تُ,|aao|tu,نذر,tidak terdefinisi,أَنَا,madhi,au
+388,نَذَرْتُ,na*arotu,,تُ,|aao|tu,نذر,not defined,أَنَا,madhi,au
 389,دَخَلَ,daxala,,,|aaa|,دخل,1,هُوَ,madhi,au
 390,يَرْزُقُ,yarozuqu,يَ,,ya|ouu|,رزق,1,هُوَ,mudhari,au
 391,بَلَغَ,balaga,,,|aaa|,بلغ,1,هُوَ,madhi,au
@@ -422,7 +422,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 421,تَعْلَمُونَ,taEolamuwna,تَ,ونَ,ta|oau|wna,علم,4,أَنْتُمْ,mudhari,aa
 422,ٱكْفُرُ,{kofuru,,,|kfr|,{ou,null,null,null,au
 423,يَرْجِعُونَ,yarojiEuwna,يَ,ونَ,ya|oiu|wna,رجع,2,هُمْ,mudhari,ai
-424,تَبِعَ,tabiEa,,,|aia|,تبع,tidak terdefinisi,هُوَ,madhi,ia
+424,تَبِعَ,tabiEa,,,|aia|,تبع,not defined,هُوَ,madhi,ia
 425,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
 426,تَحْسَبُ,taHosabu,تَ,,ta|oau|,حسب,4,أَنْتَ/هِيَ,mudhari,aa
 427,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
@@ -485,7 +485,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 484,تَدْخُلُوا@,tadoxuluwA@,تَ,وا@,ta|ouu|wA@,دخل,1,أَنْتُمْ,mudhari,au
 485,يَعْلَمِ,yaEolami,يَ,,ya|oai|,Elm,null,null,null,au
 486,يَعْلَمَ,yaEolama,يَ,,ya|oaa|,علم,4,هُوَ,mudhari,aa
-487,قُتِلَ,qutila,,,|uia|,قتل,tidak terdefinisi,هُوَ,madhi,ia
+487,قُتِلَ,qutila,,,|uia|,قتل,not defined,هُوَ,madhi,ia
 488,ضَعُفُوا@,DaEufuwA@,,وا@,|auu|wA@,ضعف,5,هُمْ,madhi,uu
 489,ٱغْفِرْ,{gofiro,,,|gfr|,{oi,null,null,null,au
 490,ٱنصُرْنَا,{nSuronaA,,نَا,|nuo|naA,{Sr,null,null,null,au
@@ -495,18 +495,18 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 494,فَشِلْتُمْ,fa$ilotumo,,تُمْ,|aio|tumo,فشل,4,أَنْتُمْ,madhi,ia
 495,صَرَفَ,Sarafa,,,|aaa|,صرف,2,هُوَ,madhi,au
 496,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
-497,قُتِلْنَا,qutilonaA,,نَا,|uio|naA,قتل,tidak terdefinisi,نَحْنُ,madhi,ia
-498,بَرَزَ,baraza,,,|aaa|,برز,tidak terdefinisi,هُوَ,madhi,au
-499,كُتِبَ,kutiba,,,|uia|,كتب,tidak terdefinisi,هُوَ,madhi,ia
+497,قُتِلْنَا,qutilonaA,,نَا,|uio|naA,قتل,not defined,نَحْنُ,madhi,ia
+498,بَرَزَ,baraza,,,|aaa|,برز,not defined,هُوَ,madhi,au
+499,كُتِبَ,kutiba,,,|uia|,كتب,not defined,هُوَ,madhi,ia
 500,كَسَبُوا@,kasabuwA@,,وا@,|aau|wA@,كسب,2,هُمْ,madhi,au
 501,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 502,ضَرَبُوا@,DarabuwA@,,وا@,|aau|wA@,ضرب,2,هُمْ,madhi,au
-503,قُتِلُوا@,qutiluwA@,,وا@,|uiu|wA@,قتل,tidak terdefinisi,هُمْ,madhi,ia
+503,قُتِلُوا@,qutiluwA@,,وا@,|uiu|wA@,قتل,not defined,هُمْ,madhi,ia
 504,يَجْعَلَ,yajoEala,يَ,,ya|oaa|,جعل,3,هُوَ,mudhari,aa
 505,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
-506,قُتِلْتُمْ,qutilotumo,,تُمْ,|uio|tumo,قتل,tidak terdefinisi,أَنْتُمْ,madhi,ia
+506,قُتِلْتُمْ,qutilotumo,,تُمْ,|uio|tumo,قتل,not defined,أَنْتُمْ,madhi,ia
 507,يَجْمَعُونَ,yajomaEuwna,يَ,ونَ,ya|oau|wna,جمع,3,هُمْ,mudhari,aa
-508,قُتِلْتُمْ,qutilotumo,,تُمْ,|uio|tumo,قتل,tidak terdefinisi,أَنْتُمْ,madhi,ia
+508,قُتِلْتُمْ,qutilotumo,,تُمْ,|uio|tumo,قتل,not defined,أَنْتُمْ,madhi,ia
 509,تُحْشَرُونَ,tuHo$aruwna,,ونَ,|uoa|wna,tH$,null,null,null,au
 510,عَزَمْتَ,Eazamota,,تَ,|aao|ta,عزم,2,أَنْتَ,madhi,au
 511,يَنصُرْ,yanSuro,يَ,,ya|null|,null,null,null,null,au
@@ -522,9 +522,9 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 521,نَعْلَمُ,naEolamu,نَ,,na|oau|,علم,4,نَحْنُ,mudhari,aa
 522,يَكْتُمُونَ,yakotumuwna,يَ,ونَ,ya|ouu|wna,كتم,1,هُمْ,mudhari,au
 523,قَعَدُوا@,qaEaduwA@,,وا@,|aau|wA@,قعد,1,هُمْ,madhi,au
-524,قُتِلُوا@,qutiluwA@,,وا@,|uiu|wA@,قتل,tidak terdefinisi,هُمْ,madhi,ia
+524,قُتِلُوا@,qutiluwA@,,وا@,|uiu|wA@,قتل,not defined,هُمْ,madhi,ia
 525,تَحْسَبَ,taHosaba,تَ,,ta|oaa|,Hsb,null,null,null,au
-526,قُتِلُوا@,qutiluwA@,,وا@,|uiu|wA@,قتل,tidak terdefinisi,هُمْ,madhi,ia
+526,قُتِلُوا@,qutiluwA@,,وا@,|uiu|wA@,قتل,not defined,هُمْ,madhi,ia
 527,يُرْزَقُونَ,yurozaquwna,,ونَ,|uoa|wna,yrz,null,null,null,au
 528,جَمَعُوا@,jamaEuwA@,,وا@,|aau|wA@,جمع,3,هُمْ,madhi,au
 529,نِعْمَ,niEoma,,,|ioa|,nEm,null,null,null,au
@@ -538,7 +538,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 537,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
 538,سَمِعَ,samiEa,,,|aia|,سمع,4,هُوَ,madhi,ia
 539,نَكْتُبُ,nakotubu,نَ,,na|ouu|,كتب,1,نَحْنُ,mudhari,au
-540,عَهِدَ,Eahida,,,|aia|,عهد,tidak terdefinisi,هُوَ,madhi,ia
+540,عَهِدَ,Eahida,,,|aia|,عهد,not defined,هُوَ,madhi,ia
 541,قَتَلْ,qatalo,,,|aao|,qtl,null,null,null,au
 542,تَسْمَعُ,tasomaEu,تَ,,ta|oau|,سمع,4,أَنْتَ/هِيَ,mudhari,aa
 543,تَصْبِرُوا@,taSobiruwA@,تَ,وا@,ta|oiu|wA@,صبر,2,أَنْتُمْ,mudhari,ai
@@ -552,7 +552,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 551,خَلَقْتَ,xalaqota,,تَ,|aao|ta,خلق,1,أَنْتَ,madhi,au
 552,سَمِعْنَا,samiEonaA,,نَا,|aio|naA,سمع,4,نَحْنُ,madhi,ia
 553,ٱغْفِرْ,{gofiro,,,|gfr|,{oi,null,null,null,au
-554,قُتِلُوا@,qutiluwA@,,وا@,|uiu|wA@,قتل,tidak terdefinisi,هُمْ,madhi,ia
+554,قُتِلُوا@,qutiluwA@,,وا@,|uiu|wA@,قتل,not defined,هُمْ,madhi,ia
 555,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 556,ٱصْبِرُوا@,{SobiruwA@,,وا@,|Sbr|wA@,{oi,null,null,null,au
 557,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
@@ -563,12 +563,12 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 562,ٱرْزُقُ,{rozuqu,,,|rzq|,{ou,null,null,null,au
 563,بَلَغُوا@,balaguwA@,,وا@,|aau|wA@,بلغ,1,هُمْ,madhi,au
 564,ٱدْفَعُ,{dofaEu,,,|dfE|,{oa,null,null,null,au
-565,يَكْبَرُوا@,yakobaruwA@,يَ,وا@,ya|oau|wA@,كبر,tidak terdefinisi,هُمْ,mudhari,aa
-566,دَفَعْتُمْ,dafaEotumo,,تُمْ,|aao|tumo,دفع,tidak terdefinisi,أَنْتُمْ,madhi,au
+565,يَكْبَرُوا@,yakobaruwA@,يَ,وا@,ya|oau|wA@,كبر,not defined,هُمْ,mudhari,aa
+566,دَفَعْتُمْ,dafaEotumo,,تُمْ,|aao|tumo,دفع,not defined,أَنْتُمْ,madhi,au
 567,تَرَكَ,taraka,,,|aaa|,ترك,1,هُوَ,madhi,au
 568,تَرَكَ,taraka,,,|aaa|,ترك,1,هُوَ,madhi,au
 569,كَثُرَ,kavura,,,|aua|,كثر,5,هُوَ,madhi,uu
-570,حَضَرَ,HaDara,,,|aaa|,حضر,tidak terdefinisi,هُوَ,madhi,au
+570,حَضَرَ,HaDara,,,|aaa|,حضر,not defined,هُوَ,madhi,au
 571,ٱرْزُقُ,{rozuqu,,,|rzq|,{ou,null,null,null,au
 572,تَرَكُوا@,tarakuwA@,تَ,وا@,ta|null|wA@,null,null,null,null,au
 573,تَرَكَ,taraka,,,|aaa|,ترك,1,هُوَ,madhi,au
@@ -581,27 +581,27 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 580,يَجْعَلَ,yajoEala,يَ,,ya|oaa|,جعل,3,هُوَ,mudhari,aa
 581,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
 582,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
-583,حَضَرَ,HaDara,,,|aaa|,حضر,tidak terdefinisi,هُوَ,madhi,au
+583,حَضَرَ,HaDara,,,|aaa|,حضر,not defined,هُوَ,madhi,au
 584,تَذْهَبُوا@,ta*ohabuwA@,تَ,وا@,ta|oau|wA@,ذهب,3,أَنْتُمْ,mudhari,aa
 585,كَرِهْ,kariho,,,|aio|,krh,null,null,null,au
 586,تَكْرَهُوا@,takorahuwA@,تَ,وا@,ta|oau|wA@,كره,4,أَنْتُمْ,mudhari,aa
 587,يَجْعَلَ,yajoEala,يَ,,ya|oaa|,جعل,3,هُوَ,mudhari,aa
 588,تَنكِحُوا@,tankiHuwA@,تَ,وا@,ta|null|wA@,null,null,null,null,au
 589,نَكَحَ,nakaHa,,,|aaa|,نكح,2,هُوَ,madhi,au
-590,سَلَفَ,salafa,,,|aaa|,سلف,tidak terdefinisi,هُوَ,madhi,au
+590,سَلَفَ,salafa,,,|aaa|,سلف,not defined,هُوَ,madhi,au
 591,دَخَلْ,daxalo,,,|aao|,dxl,null,null,null,au
 592,دَخَلْ,daxalo,,,|aao|,dxl,null,null,null,au
 593,تَجْمَعُوا@,tajomaEuwA@,تَ,وا@,ta|oau|wA@,جمع,3,أَنْتُمْ,mudhari,aa
-594,سَلَفَ,salafa,,,|aaa|,سلف,tidak terdefinisi,هُوَ,madhi,au
+594,سَلَفَ,salafa,,,|aaa|,سلف,not defined,هُوَ,madhi,au
 595,يَنْكِحَ,yanokiHa,يَ,,ya|oia|,نكح,2,هُوَ,mudhari,ai
 596,ٱنكِحُ,{nkiHu,,,|niu|,{kH,null,null,null,au
 597,تَصْبِرُوا@,taSobiruwA@,تَ,وا@,ta|oiu|wA@,صبر,2,أَنْتُمْ,mudhari,ai
-598,خُلِقَ,xuliqa,,,|uia|,خلق,tidak terdefinisi,هُوَ,madhi,ia
+598,خُلِقَ,xuliqa,,,|uia|,خلق,not defined,هُوَ,madhi,ia
 599,تَقْتُلُ,taqotulu,تَ,,ta|ouu|,قتل,1,أَنْتَ/هِيَ,mudhari,au
 600,يَفْعَلْ,yafoEalo,يَ,,ya|oao|,فعل,3,هُنَّ,mudhari,aa
 601,جَعَلْنَا,jaEalonaA,,نَا,|aao|naA,جعل,3,نَحْنُ,madhi,au
 602,تَرَكَ,taraka,,,|aaa|,ترك,1,هُوَ,madhi,au
-603,حَفِظَ,HafiZa,,,|aia|,حفظ,tidak terdefinisi,هُوَ,madhi,ia
+603,حَفِظَ,HafiZa,,,|aia|,حفظ,not defined,هُوَ,madhi,ia
 604,ٱضْرِبُ,{Doribu,,,|Drb|,{oi,null,null,null,au
 605,ٱبْعَثُوا@,{boEavuwA@,,وا@,|bEv|wA@,{oa,null,null,null,au
 606,ٱعْبُدُوا@,{EobuduwA@,,وا@,|Ebd|wA@,{ou,null,null,null,au
@@ -622,7 +622,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 621,يَغْفِرُ,yagofiru,يَ,,ya|oiu|,غفر,2,هُوَ,mudhari,ai
 622,يُظْلَمُونَ,yuZolamuwna,,ونَ,|uoa|wna,yZl,null,null,null,au
 623,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
-624,لَعَنَ,laEana,,,|aaa|,لعن,tidak terdefinisi,هُوَ,madhi,au
+624,لَعَنَ,laEana,,,|aaa|,لعن,not defined,هُوَ,madhi,au
 625,يَلْعَنِ,yaloEani,يَ,,ya|oai|,lEn,null,null,null,au
 626,يَحْسُدُونَ,yaHosuduwna,يَ,ونَ,ya|ouu|wna,حسد,1,هُمْ,mudhari,au
 627,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
@@ -633,7 +633,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 632,يَكْفُرُوا@,yakofuruwA@,يَ,وا@,ya|ouu|wA@,كفر,1,هُمْ,mudhari,au
 633,يَحْلِفُونَ,yaHolifuwna,يَ,ونَ,ya|oiu|wna,حلف,2,هُمْ,mudhari,ai
 634,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
-635,شَجَرَ,$ajara,,,|aaa|,شجر,tidak terdefinisi,هُوَ,madhi,au
+635,شَجَرَ,$ajara,,,|aaa|,شجر,not defined,هُوَ,madhi,au
 636,كَتَبْنَا,katabonaA,,نَا,|aao|naA,كتب,1,نَحْنُ,madhi,au
 637,ٱقْتُلُ,{qotulu,,,|qtl|,{ou,null,null,null,au
 638,ٱخْرُجُوا@,{xorujuwA@,,وا@,|xrj|wA@,{ou,null,null,null,au
@@ -647,10 +647,10 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 646,ٱجْعَل,{joEal,,,|jEl|,{oa,null,null,null,au
 647,ٱجْعَل,{joEal,,,|jEl|,{oa,null,null,null,au
 648,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
-649,كُتِبَ,kutiba,,,|uia|,كتب,tidak terdefinisi,هُوَ,madhi,ia
+649,كُتِبَ,kutiba,,,|uia|,كتب,not defined,هُوَ,madhi,ia
 650,كَتَبْتَ,katabota,,تَ,|aao|ta,كتب,1,أَنْتَ,madhi,au
 651,تُظْلَمُونَ,tuZolamuwna,,ونَ,|uoa|wna,tZl,null,null,null,au
-652,بَرَزُوا@,barazuwA@,,وا@,|aau|wA@,برز,tidak terdefinisi,هُمْ,madhi,au
+652,بَرَزُوا@,barazuwA@,,وا@,|aau|wA@,برز,not defined,هُمْ,madhi,au
 653,يَكْتُبُ,yakotubu,يَ,,ya|ouu|,كتب,1,هُوَ,mudhari,au
 654,عَلِمَ,Ealima,,,|aia|,علم,4,هُوَ,madhi,ia
 655,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
@@ -666,8 +666,8 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 665,يَقْتُلَ,yaqotula,يَ,,ya|oua|,قتل,1,هُوَ,mudhari,au
 666,قَتَلَ,qatala,,,|aaa|,قتل,1,هُوَ,madhi,au
 667,يَقْتُلْ,yaqotulo,يَ,,ya|ouo|,قتل,1,هُنَّ,mudhari,au
-668,غَضِبَ,gaDiba,,,|aia|,غضب,tidak terdefinisi,هُوَ,madhi,ia
-669,لَعَنَ,laEana,,,|aaa|,لعن,tidak terdefinisi,هُوَ,madhi,au
+668,غَضِبَ,gaDiba,,,|aia|,غضب,not defined,هُوَ,madhi,ia
+669,لَعَنَ,laEana,,,|aaa|,لعن,not defined,هُوَ,madhi,au
 670,ضَرَبْتُمْ,Darabotumo,,تُمْ,|aao|tumo,ضرب,2,أَنْتُمْ,madhi,au
 671,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
 672,يَخْرُجْ,yaxorujo,يَ,,ya|ouo|,خرج,1,هُنَّ,mudhari,au
@@ -694,7 +694,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 693,يَعْمَلْ,yaEomalo,يَ,,ya|oao|,عمل,4,هُنَّ,mudhari,aa
 694,يَدْخُلُونَ,yadoxuluwna,يَ,ونَ,ya|ouu|wna,دخل,1,هُمْ,mudhari,au
 695,يُظْلَمُونَ,yuZolamuwna,,ونَ,|uoa|wna,yZl,null,null,null,au
-696,كُتِبَ,kutiba,,,|uia|,كتب,tidak terdefinisi,هُوَ,madhi,ia
+696,كُتِبَ,kutiba,,,|uia|,كتب,not defined,هُوَ,madhi,ia
 697,تَنكِحُ,tankiHu,تَ,,ta|null|,null,null,null,null,au
 698,تَفْعَلُوا@,tafoEaluwA@,تَ,وا@,ta|oau|wA@,فعل,3,أَنْتُمْ,mudhari,aa
 699,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
@@ -737,7 +737,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 736,تَكْفُرُوا@,takofuruwA@,تَ,وا@,ta|ouu|wA@,كفر,1,أَنْتُمْ,mudhari,au
 737,يَحْشُرُ,yaHo$uru,يَ,,ya|ouu|,حشر,1,هُوَ,mudhari,au
 738,عَمِلُوا@,EamiluwA@,,وا@,|aiu|wA@,عمل,4,هُمْ,madhi,ia
-739,هَلَكَ,halaka,,,|aaa|,هلك,tidak terdefinisi,هُوَ,madhi,au
+739,هَلَكَ,halaka,,,|aaa|,هلك,not defined,هُوَ,madhi,au
 740,تَرَكَ,taraka,,,|aaa|,ترك,1,هُوَ,madhi,au
 741,تَرَكَ,taraka,,,|aaa|,ترك,1,هُوَ,madhi,au
 742,يَحْكُمُ,yaHokumu,يَ,,ya|ouu|,حكم,1,هُوَ,mudhari,au
@@ -746,7 +746,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 745,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 746,ٱذْكُرُوا@,{*okuruwA@,,وا@,|*kr|wA@,{ou,null,null,null,au
 747,يَكْفُرْ,yakofuro,يَ,,ya|ouo|,كفر,1,هُنَّ,mudhari,au
-748,حَبِطَ,HabiTa,,,|aia|,حبط,tidak terdefinisi,هُوَ,madhi,ia
+748,حَبِطَ,HabiTa,,,|aia|,حبط,not defined,هُوَ,madhi,ia
 749,لَٰمَسْ,la`maso,,,|ams|,l`a,null,null,null,au
 750,يَجْعَلَ,yajoEala,يَ,,ya|oaa|,جعل,3,هُوَ,mudhari,aa
 751,تَشْكُرُونَ,ta$okuruwna,تَ,ونَ,ta|ouu|wna,شكر,1,أَنْتُمْ,mudhari,au
@@ -782,7 +782,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 781,أَقْتُلَ,>aqotula,أَ,,>a|oua|,qtl,null,null,null,au
 782,قَتَلَ,qatala,,,|aaa|,قتل,1,هُوَ,madhi,au
 783,بَعَثَ,baEava,,,|aaa|,بعث,3,هُوَ,madhi,au
-784,عَجَزْتُ,Eajazotu,,تُ,|aao|tu,عجز,tidak terdefinisi,أَنَا,madhi,au
+784,عَجَزْتُ,Eajazotu,,تُ,|aao|tu,عجز,not defined,أَنَا,madhi,au
 785,أُوَٰرِىَ,>uwa`riYa,,,|uar|,>w`,null,null,null,au
 786,كَتَبْنَا,katabonaA,,نَا,|aao|naA,كتب,1,نَحْنُ,madhi,au
 787,قَتَلَ,qatala,,,|aaa|,قتل,1,هُوَ,madhi,au
@@ -810,17 +810,17 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 809,ٱحْكُم,{Hokum,,,|Hkm|,{ou,null,null,null,au
 810,يَفْتِنُ,yafotinu,يَ,,ya|oiu|,فتن,2,هُوَ,mudhari,ai
 811,ٱعْلَمْ,{Eolamo,,,|Elm|,{oa,null,null,null,au
-812,حَبِطَتْ,HabiTato,,تْ,|aia|to,حبط,tidak terdefinisi,هِيَ,madhi,ia
+812,حَبِطَتْ,HabiTato,,تْ,|aia|to,حبط,not defined,هِيَ,madhi,ia
 813,يَعْقِلُونَ,yaEoqiluwna,يَ,ونَ,ya|oiu|wna,عقل,2,هُمْ,mudhari,ai
 814,تَنقِمُونَ,tanqimuwna,تَ,ونَ,ta|null|wna,null,null,null,null,au
-815,غَضِبَ,gaDiba,,,|aia|,غضب,tidak terdefinisi,هُوَ,madhi,ia
+815,غَضِبَ,gaDiba,,,|aia|,غضب,not defined,هُوَ,madhi,ia
 816,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 817,عَبَدَ,Eabada,,,|aaa|,عبد,1,هُوَ,madhi,au
 818,خَرَجُوا@,xarajuwA@,,وا@,|aau|wA@,خرج,1,هُمْ,madhi,au
 819,يَكْتُمُونَ,yakotumuwna,يَ,ونَ,ya|ouu|wna,كتم,1,هُمْ,mudhari,au
 820,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
 821,يَصْنَعُونَ,yaSonaEuwna,يَ,ونَ,ya|oau|wna,صنع,3,هُمْ,mudhari,aa
-822,لُعِنُوا@,luEinuwA@,,وا@,|uiu|wA@,لعن,tidak terdefinisi,هُمْ,madhi,ia
+822,لُعِنُوا@,luEinuwA@,,وا@,|uiu|wA@,لعن,not defined,هُمْ,madhi,ia
 823,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
 824,تَفْعَلْ,tafoEalo,تَ,,ta|oao|,فعل,3,أَنْتُنَّ,mudhari,aa
 825,عَمِلَ,Eamila,,,|aia|,عمل,4,هُوَ,madhi,ia
@@ -832,7 +832,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 831,كَفَرَ,kafara,,,|aaa|,كفر,1,هُوَ,madhi,au
 832,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 833,تَعْبُدُونَ,taEobuduwna,تَ,ونَ,ta|ouu|wna,عبد,1,أَنْتُمْ,mudhari,au
-834,لُعِنَ,luEina,,,|uia|,لعن,tidak terdefinisi,هُوَ,madhi,ia
+834,لُعِنَ,luEina,,,|uia|,لعن,not defined,هُوَ,madhi,ia
 835,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 836,فَعَلُ,faEalu,,,|aau|,fEl,null,null,null,au
 837,يَفْعَلُونَ,yafoEaluwna,يَ,ونَ,ya|oau|wna,فعل,3,هُمْ,mudhari,aa
@@ -855,7 +855,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 854,قَتَلَ,qatala,,,|aaa|,قتل,1,هُوَ,madhi,au
 855,قَتَلَ,qatala,,,|aaa|,قتل,1,هُوَ,madhi,au
 856,يَحْكُمُ,yaHokumu,يَ,,ya|ouu|,حكم,1,هُوَ,mudhari,au
-857,سَلَفَ,salafa,,,|aaa|,سلف,tidak terdefinisi,هُوَ,madhi,au
+857,سَلَفَ,salafa,,,|aaa|,سلف,not defined,هُوَ,madhi,au
 858,تُحْشَرُونَ,tuHo$aruwna,,ونَ,|uoa|wna,tH$,null,null,null,au
 859,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 860,تَعْلَمُ,taEolamu,تَ,,ta|oau|,علم,4,أَنْتَ/هِيَ,mudhari,aa
@@ -868,16 +868,16 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 867,يَعْقِلُونَ,yaEoqiluwna,يَ,ونَ,ya|oiu|wna,عقل,2,هُمْ,mudhari,ai
 868,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
 869,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
-870,حَضَرَ,HaDara,,,|aaa|,حضر,tidak terdefinisi,هُوَ,madhi,au
+870,حَضَرَ,HaDara,,,|aaa|,حضر,not defined,هُوَ,madhi,au
 871,ضَرَبْتُمْ,Darabotumo,,تُمْ,|aao|tumo,ضرب,2,أَنْتُمْ,madhi,au
 872,نَكْتُمُ,nakotumu,نَ,,na|ouu|,كتم,1,نَحْنُ,mudhari,au
-873,عُثِرَ,Euvira,,,|uia|,عثر,tidak terdefinisi,هُوَ,madhi,ia
+873,عُثِرَ,Euvira,,,|uia|,عثر,not defined,هُوَ,madhi,ia
 874,ٱسْمَعُوا@,{somaEuwA@,,وا@,|smE|wA@,{oa,null,null,null,au
 875,يَجْمَعُ,yajomaEu,يَ,,ya|oau|,جمع,3,هُوَ,mudhari,aa
 876,ٱذْكُرْ,{*okuro,,,|*kr|,{ou,null,null,null,au
 877,تَخْلُقُ,taxoluqu,تَ,,ta|ouu|,خلق,1,أَنْتَ/هِيَ,mudhari,au
 878,تَنفُخُ,tanfuxu,تَ,,ta|null|,null,null,null,null,au
-879,كَفَفْتُ,kafafotu,,تُ,|aao|tu,كفف,tidak terdefinisi,أَنَا,madhi,au
+879,كَفَفْتُ,kafafotu,,تُ,|aao|tu,كفف,not defined,أَنَا,madhi,au
 880,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 881,ٱشْهَدْ,{$ohado,,,|$hd|,{oa,null,null,null,au
 882,نَعْلَمَ,naEolama,نَ,,na|oaa|,Elm,null,null,null,au
@@ -955,10 +955,10 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 954,كَتَبَ,kataba,,,|aaa|,كتب,1,هُوَ,madhi,au
 955,عَمِلَ,Eamila,,,|aia|,عمل,4,هُوَ,madhi,ia
 956,أَعْبُدَ,>aEobuda,أَ,,>a|oua|,Ebd,null,null,null,au
-957,ضَلَلْتُ,Dalalotu,,تُ,|aao|tu,ضلل,tidak terdefinisi,أَنَا,madhi,au
+957,ضَلَلْتُ,Dalalotu,,تُ,|aao|tu,ضلل,not defined,أَنَا,madhi,au
 958,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 959,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
-960,تَسْقُطُ,tasoquTu,تَ,,ta|ouu|,سقط,tidak terdefinisi,أَنْتَ/هِيَ,mudhari,au
+960,تَسْقُطُ,tasoquTu,تَ,,ta|ouu|,سقط,not defined,أَنْتَ/هِيَ,mudhari,au
 961,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 962,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 963,جَرَحْ,jaraHo,,,|aao|,jrH,null,null,null,au
@@ -976,11 +976,11 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 975,تُحْشَرُونَ,tuHo$aruwna,,ونَ,|uoa|wna,tH$,null,null,null,au
 976,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
 977,يُنفَخُ,yunfaxu,,,|ufx|,yna,null,null,null,au
-978,فَطَرَ,faTara,,,|aaa|,فطر,tidak terdefinisi,هُوَ,madhi,au
+978,فَطَرَ,faTara,,,|aaa|,فطر,not defined,هُوَ,madhi,au
 979,تَعْلَمُونَ,taEolamuwna,تَ,ونَ,ta|oau|wna,علم,4,أَنْتُمْ,mudhari,aa
 980,يَلْبِسُ,yalobisu,يَ,,ya|oiu|,لبس,2,هُوَ,mudhari,ai
 981,نَرْفَعُ,narofaEu,نَ,,na|oau|,رفع,3,نَحْنُ,mudhari,aa
-982,حَبِطَ,HabiTa,,,|aia|,حبط,tidak terdefinisi,هُوَ,madhi,ia
+982,حَبِطَ,HabiTa,,,|aia|,حبط,not defined,هُوَ,madhi,ia
 983,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
 984,يَكْفُرْ,yakofuro,يَ,,ya|ouo|,كفر,1,هُنَّ,mudhari,au
 985,قَدَرُوا@,qadaruwA@,,وا@,|aau|wA@,قدر,2,هُمْ,madhi,au
@@ -995,7 +995,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 994,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
 995,جَعَلُوا@,jaEaluwA@,,وا@,|aau|wA@,جعل,3,هُمْ,madhi,au
 996,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
-997,خَرَقُوا@,xaraquwA@,,وا@,|aau|wA@,خرق,tidak terdefinisi,هُمْ,madhi,au
+997,خَرَقُوا@,xaraquwA@,,وا@,|aau|wA@,خرق,not defined,هُمْ,madhi,au
 998,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
 999,ٱعْبُدُ,{Eobudu,,,|Ebd|,{ou,null,null,null,au
 1000,دَرَسْتَ,darasota,,تَ,|aao|ta,درس,1,أَنْتَ,madhi,au
@@ -1006,8 +1006,8 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1005,جَعَلْنَا,jaEalonaA,,نَا,|aao|naA,جعل,3,نَحْنُ,madhi,au
 1006,فَعَلُ,faEalu,,,|aau|,fEl,null,null,null,au
 1007,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
-1008,ذُكِرَ,*ukira,,,|uia|,ذكر,tidak terdefinisi,هُوَ,madhi,ia
-1009,ذُكِرَ,*ukira,,,|uia|,ذكر,tidak terdefinisi,هُوَ,madhi,ia
+1008,ذُكِرَ,*ukira,,,|uia|,ذكر,not defined,هُوَ,madhi,ia
+1009,ذُكِرَ,*ukira,,,|uia|,ذكر,not defined,هُوَ,madhi,ia
 1010,يَكْسِبُونَ,yakosibuwna,يَ,ونَ,ya|oiu|wna,كسب,2,هُمْ,mudhari,ai
 1011,يُذْكَرِ,yu*okari,,,|uoa|,y*k,null,null,null,au
 1012,جَعَلْنَا,jaEalonaA,,نَا,|aao|naA,جعل,3,نَحْنُ,madhi,au
@@ -1050,7 +1050,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1049,تَقْتُلُ,taqotulu,تَ,,ta|ouu|,قتل,1,أَنْتَ/هِيَ,mudhari,au
 1050,نَرْزُقُ,narozuqu,نَ,,na|ouu|,رزق,1,نَحْنُ,mudhari,au
 1051,ظَهَرَ,Zahara,,,|aaa|,ظهر,3,هُوَ,madhi,au
-1052,بَطَنَ,baTana,,,|aaa|,بطن,tidak terdefinisi,هُوَ,madhi,au
+1052,بَطَنَ,baTana,,,|aaa|,بطن,not defined,هُوَ,madhi,au
 1053,تَقْتُلُوا@,taqotuluwA@,تَ,وا@,ta|ouu|wA@,قتل,1,أَنْتُمْ,mudhari,au
 1054,تَعْقِلُونَ,taEoqiluwna,تَ,ونَ,ta|oiu|wna,عقل,2,أَنْتُمْ,mudhari,ai
 1055,يَبْلُغَ,yaboluga,يَ,,ya|oua|,بلغ,1,هُوَ,mudhari,au
@@ -1079,9 +1079,9 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1078,يُبْعَثُونَ,yuboEavuwna,,ونَ,|uoa|wna,ybE,null,null,null,au
 1079,أَقْعُدَ,>aqoEuda,أَ,,>a|oua|,qEd,null,null,null,au
 1080,ٱخْرُجْ,{xorujo,,,|xrj|,{ou,null,null,null,au
-1081,تَبِعَ,tabiEa,,,|aia|,تبع,tidak terdefinisi,هُوَ,madhi,ia
+1081,تَبِعَ,tabiEa,,,|aia|,تبع,not defined,هُوَ,madhi,ia
 1082,ٱسْكُنْ,{sokuno,,,|skn|,{ou,null,null,null,au
-1083,طَفِقَا,TafiqaA,,ا,|aia|A,طفق,tidak terdefinisi,هُمَا,madhi,ia
+1083,طَفِقَا,TafiqaA,,ا,|aia|A,طفق,not defined,هُمَا,madhi,ia
 1084,ظَلَمْ,Zalamo,,,|aao|,Zlm,null,null,null,au
 1085,تَغْفِرْ,tagofiro,تَ,,ta|oio|,غفر,2,أَنْتُنَّ,mudhari,ai
 1086,يُوَٰرِى,yuwa`riY,,,|uar|,yw`,null,null,null,au
@@ -1094,7 +1094,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1093,ٱشْرَبُوا@,{$orabuwA@,,وا@,|$rb|wA@,{oa,null,null,null,au
 1094,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
 1095,ظَهَرَ,Zahara,,,|aaa|,ظهر,3,هُوَ,madhi,au
-1096,بَطَنَ,baTana,,,|aaa|,بطن,tidak terdefinisi,هُوَ,madhi,au
+1096,بَطَنَ,baTana,,,|aaa|,بطن,not defined,هُوَ,madhi,au
 1097,تَعْلَمُونَ,taEolamuwna,تَ,ونَ,ta|oau|wna,علم,4,أَنْتُمْ,mudhari,aa
 1098,شَهِدُوا@,$ahiduwA@,,وا@,|aiu|wA@,شهد,4,هُمْ,madhi,ia
 1099,ٱدْخُلُوا@,{doxuluwA@,,وا@,|dxl|wA@,{ou,null,null,null,au
@@ -1140,8 +1140,8 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1139,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 1140,ٱذْكُرُ,{*okuru,,,|*kr|,{ou,null,null,null,au
 1141,تَعْلَمُونَ,taEolamuwna,تَ,ونَ,ta|oau|wna,علم,4,أَنْتُمْ,mudhari,aa
-1142,عَقَرُوا@,EaqaruwA@,,وا@,|aau|wA@,عقر,tidak terdefinisi,هُمْ,madhi,au
-1143,نَصَحْتُ,naSaHotu,,تُ,|aao|tu,نصح,tidak terdefinisi,أَنَا,madhi,au
+1142,عَقَرُوا@,EaqaruwA@,,وا@,|aau|wA@,عقر,not defined,هُمْ,madhi,au
+1143,نَصَحْتُ,naSaHotu,,تُ,|aao|tu,نصح,not defined,أَنَا,madhi,au
 1144,سَبَقَ,sabaqa,,,|aaa|,سبق,2,هُوَ,madhi,au
 1145,ٱعْبُدُوا@,{EobuduwA@,,وا@,|Ebd|wA@,{ou,null,null,null,au
 1146,تَقْعُدُوا@,taqoEuduwA@,تَ,وا@,ta|ouu|wA@,قعد,1,أَنْتُمْ,mudhari,au
@@ -1150,7 +1150,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1149,يَحْكُمَ,yaHokuma,يَ,,ya|oua|,حكم,1,هُوَ,mudhari,au
 1150,ٱفْتَحْ,{fotaHo,,,|ftH|,{oa,null,null,null,au
 1151,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
-1152,نَصَحْتُ,naSaHotu,,تُ,|aao|tu,نصح,tidak terdefinisi,أَنَا,madhi,au
+1152,نَصَحْتُ,naSaHotu,,تُ,|aao|tu,نصح,not defined,أَنَا,madhi,au
 1153,فَتَحْنَا,fataHonaA,,نَا,|aao|naA,فتح,3,نَحْنُ,madhi,au
 1154,يَكْسِبُونَ,yakosibuwna,يَ,ونَ,ya|oiu|wna,كسب,2,هُمْ,mudhari,ai
 1155,نَطْبَعُ,naTobaEu,نَ,,na|oau|,طبع,3,نَحْنُ,mudhari,aa
@@ -1160,7 +1160,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1159,ظَلَمُوا@,ZalamuwA@,,وا@,|aau|wA@,ظلم,2,هُمْ,madhi,au
 1160,نَزَعَ,nazaEa,,,|aaa|,نزع,2,هُوَ,madhi,au
 1161,سَحَرُ,saHaru,,,|aau|,sHr,null,null,null,au
-1162,بَطَلَ,baTala,,,|aaa|,بطل,tidak terdefinisi,هُوَ,madhi,au
+1162,بَطَلَ,baTala,,,|aaa|,بطل,not defined,هُوَ,madhi,au
 1163,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
 1164,غُلِبُوا@,gulibuwA@,,وا@,|uiu|wA@,غلب,6,هُمْ,madhi,ia
 1165,تَعْلَمُونَ,taEolamuwna,تَ,ونَ,ta|oau|wna,علم,4,أَنْتُمْ,mudhari,aa
@@ -1169,9 +1169,9 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1168,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
 1169,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
 1170,تَسْحَرَنَا,tasoHaranaA,تَ,نَا,ta|oaa|naA,sHr,null,null,null,au
-1171,عَهِدَ,Eahida,,,|aia|,عهد,tidak terdefinisi,هُوَ,madhi,ia
-1172,كَشَفْتَ,ka$afota,,تَ,|aao|ta,كشف,tidak terdefinisi,أَنْتَ,madhi,au
-1173,كَشَفْنَا,ka$afonaA,,نَا,|aao|naA,كشف,tidak terdefinisi,نَحْنُ,madhi,au
+1171,عَهِدَ,Eahida,,,|aia|,عهد,not defined,هُوَ,madhi,ia
+1172,كَشَفْتَ,ka$afota,,تَ,|aao|ta,كشف,not defined,أَنْتَ,madhi,au
+1173,كَشَفْنَا,ka$afonaA,,نَا,|aao|naA,كشف,not defined,نَحْنُ,madhi,au
 1174,صَبَرُوا@,SabaruwA@,,وا@,|aau|wA@,صبر,2,هُمْ,madhi,au
 1175,يَصْنَعُ,yaSonaEu,يَ,,ya|oau|,صنع,3,هُوَ,mudhari,aa
 1176,ٱجْعَل,{joEal,,,|jEl|,{oa,null,null,null,au
@@ -1180,9 +1180,9 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1179,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 1180,كَتَبْنَا,katabonaA,,نَا,|aao|naA,كتب,1,نَحْنُ,madhi,au
 1181,أَصْرِفُ,>aSorifu,أَ,,>a|oiu|,صرف,2,أَنَا,mudhari,ai
-1182,حَبِطَتْ,HabiTato,,تْ,|aia|to,حبط,tidak terdefinisi,هِيَ,madhi,ia
+1182,حَبِطَتْ,HabiTato,,تْ,|aia|to,حبط,not defined,هِيَ,madhi,ia
 1183,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
-1184,سُقِطَ,suqiTa,,,|uia|,سقط,tidak terdefinisi,هُوَ,madhi,ia
+1184,سُقِطَ,suqiTa,,,|uia|,سقط,not defined,هُوَ,madhi,ia
 1185,يَغْفِرْ,yagofiro,يَ,,ya|oio|,غفر,2,هُنَّ,mudhari,ai
 1186,رَجَعَ,rajaEa,,,|aaa|,رجع,2,هُوَ,madhi,au
 1187,خَلَفْ,xalafo,,,|aao|,xlf,null,null,null,au
@@ -1191,7 +1191,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1190,تَجْعَلْ,tajoEalo,تَ,,ta|oao|,جعل,3,أَنْتُنَّ,mudhari,aa
 1191,ٱغْفِرْ,{gofiro,,,|gfr|,{oi,null,null,null,au
 1192,عَمِلُوا@,EamiluwA@,,وا@,|aiu|wA@,عمل,4,هُمْ,madhi,ia
-1193,سَكَتَ,sakata,,,|aaa|,سكت,tidak terdefinisi,هُوَ,madhi,au
+1193,سَكَتَ,sakata,,,|aaa|,سكت,not defined,هُوَ,madhi,au
 1194,فَعَلَ,faEala,,,|aaa|,فعل,3,هُوَ,madhi,au
 1195,ٱغْفِرْ,{gofiro,,,|gfr|,{oi,null,null,null,au
 1196,ٱكْتُبْ,{kotubo,,,|ktb|,{ou,null,null,null,au
@@ -1216,7 +1216,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1215,يُغْفَرُ,yugofaru,,,|uoa|,ygf,null,null,null,au
 1216,دَرَسُوا@,darasuwA@,,وا@,|aau|wA@,درس,1,هُمْ,madhi,au
 1217,تَعْقِلُونَ,taEoqiluwna,تَ,ونَ,ta|oiu|wna,عقل,2,أَنْتُمْ,mudhari,ai
-1218,نَتَقْنَا,nataqonaA,,نَا,|aao|naA,نتق,tidak terdefinisi,نَحْنُ,madhi,au
+1218,نَتَقْنَا,nataqonaA,,نَا,|aao|naA,نتق,not defined,نَحْنُ,madhi,au
 1219,ٱذْكُرُوا@,{*okuruwA@,,وا@,|*kr|wA@,{ou,null,null,null,au
 1220,شَهِدْ,$ahido,,,|aio|,$hd,null,null,null,au
 1221,فَعَلَ,faEala,,,|aaa|,فعل,3,هُوَ,madhi,au
@@ -1248,7 +1248,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1247,يَسْمَعُوا@,yasomaEuwA@,يَ,وا@,ya|oau|wA@,سمع,4,هُمْ,mudhari,aa
 1248,ٱذْكُر,{*okur,,,|*kr|,{ou,null,null,null,au
 1249,يَسْجُدُونَ,yasojuduwna,يَ,ونَ,ya|ouu|wna,سجد,1,هُمْ,mudhari,au
-1250,ذُكِرَ,*ukira,,,|uia|,ذكر,tidak terdefinisi,هُوَ,madhi,ia
+1250,ذُكِرَ,*ukira,,,|uia|,ذكر,not defined,هُوَ,madhi,ia
 1251,رَزَقْ,razaqo,,,|aao|,rzq,null,null,null,au
 1252,يَقْطَعَ,yaqoTaEa,يَ,,ya|oaa|,قطع,4,هُوَ,mudhari,aa
 1253,كَرِهَ,kariha,,,|aia|,كره,4,هُوَ,madhi,ia
@@ -1292,7 +1292,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1291,يَجْعَلَ,yajoEala,يَ,,ya|oaa|,جعل,3,هُوَ,mudhari,aa
 1292,كَفَرُ,kafaru,,,|aau|,kfr,null,null,null,au
 1293,يُغْفَرْ,yugofaro,,,|uoa|,ygf,null,null,null,au
-1294,سَلَفَ,salafa,,,|aaa|,سلف,tidak terdefinisi,هُوَ,madhi,au
+1294,سَلَفَ,salafa,,,|aaa|,سلف,not defined,هُوَ,madhi,au
 1295,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
 1296,ٱعْلَمُ,{Eolamu,,,|Elm|,{oa,null,null,null,au
 1297,نِعْمَ,niEoma,,,|ioa|,nEm,null,null,null,au
@@ -1300,7 +1300,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1299,ٱعْلَمُ,{Eolamu,,,|Elm|,{oa,null,null,null,au
 1300,غَنِمْ,ganimo,,,|aio|,gnm,null,null,null,au
 1301,يَهْلِكَ,yaholika,يَ,,ya|oia|,هلك,2,هُوَ,mudhari,ai
-1302,هَلَكَ,halaka,,,|aaa|,هلك,tidak terdefinisi,هُوَ,madhi,au
+1302,هَلَكَ,halaka,,,|aaa|,هلك,not defined,هُوَ,madhi,au
 1303,فَشِلْتُمْ,fa$ilotumo,,تُمْ,|aio|tumo,فشل,4,أَنْتُمْ,madhi,ia
 1304,تُرْجَعُ,turojaEu,,,|uoa|,trj,null,null,null,au
 1305,ٱذْكُرُوا@,{*okuruwA@,,وا@,|*kr|wA@,{ou,null,null,null,au
@@ -1322,7 +1322,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1321,تَعْلَمُونَ,taEolamuwna,تَ,ونَ,ta|oau|wna,علم,4,أَنْتُمْ,mudhari,aa
 1322,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 1323,تُظْلَمُونَ,tuZolamuwna,,ونَ,|uoa|wna,tZl,null,null,null,au
-1324,جَنَحُوا@,janaHuwA@,,وا@,|aau|wA@,جنح,tidak terdefinisi,هُمْ,madhi,au
+1324,جَنَحُوا@,janaHuwA@,,وا@,|aau|wA@,جنح,not defined,هُمْ,madhi,au
 1325,ٱجْنَحْ,{jonaHo,,,|jnH|,{oa,null,null,null,au
 1326,يَغْلِبُوا@,yagolibuwA@,يَ,وا@,ya|oiu|wA@,غلب,2,هُمْ,mudhari,ai
 1327,يَغْلِبُ,yagolibu,يَ,,ya|oiu|,غلب,2,هُوَ,mudhari,ai
@@ -1331,7 +1331,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1330,يَغْلِبُوا@,yagolibuwA@,يَ,وا@,ya|oiu|wA@,غلب,2,هُمْ,mudhari,ai
 1331,يَغْلِبُ,yagolibu,يَ,,ya|oiu|,غلب,2,هُوَ,mudhari,ai
 1332,سَبَقَ,sabaqa,,,|aaa|,سبق,2,هُوَ,madhi,au
-1333,غَنِمْتُمْ,ganimotumo,,تُمْ,|aio|tumo,غنم,tidak terdefinisi,أَنْتُمْ,madhi,ia
+1333,غَنِمْتُمْ,ganimotumo,,تُمْ,|aio|tumo,غنم,not defined,أَنْتُمْ,madhi,ia
 1334,يَعْلَمِ,yaEolami,يَ,,ya|oai|,Elm,null,null,null,au
 1335,يَغْفِرْ,yagofiro,يَ,,ya|oio|,غفر,2,هُنَّ,mudhari,ai
 1336,نَصَرُ,naSaru,,,|aau|,nSr,null,null,null,au
@@ -1349,14 +1349,14 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1348,يَظْهَرُوا@,yaZoharuwA@,يَ,وا@,ya|oau|wA@,ظهر,3,هُمْ,mudhari,aa
 1349,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
 1350,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
-1351,طَعَنُوا@,TaEanuwA@,,وا@,|aau|wA@,طعن,tidak terdefinisi,هُمْ,madhi,au
+1351,طَعَنُوا@,TaEanuwA@,,وا@,|aau|wA@,طعن,not defined,هُمْ,madhi,au
 1352,يَنصُرْ,yanSuro,يَ,,ya|null|,null,null,null,null,au
 1353,حَسِبْتُمْ,Hasibotumo,,تُمْ,|aio|tumo,حسب,4,أَنْتُمْ,madhi,ia
 1354,تُتْرَكُوا@,tutorakuwA@,,وا@,|uoa|wA@,ttr,null,null,null,au
 1355,يَعْلَمِ,yaEolami,يَ,,ya|oai|,Elm,null,null,null,au
 1356,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
 1357,يَعْمُرُوا@,yaEomuruwA@,يَ,وا@,ya|ouu|wA@,عمر,1,هُمْ,mudhari,au
-1358,حَبِطَتْ,HabiTato,,تْ,|aia|to,حبط,tidak terdefinisi,هِيَ,madhi,ia
+1358,حَبِطَتْ,HabiTato,,تْ,|aia|to,حبط,not defined,هِيَ,madhi,ia
 1359,يَعْمُرُ,yaEomuru,يَ,,ya|ouu|,عمر,1,هُوَ,mudhari,au
 1360,جَعَلْتُمْ,jaEalotumo,,تُمْ,|aao|tumo,جعل,3,أَنْتُمْ,madhi,au
 1361,نَصَرَ,naSara,,,|aaa|,نصر,1,هُوَ,madhi,au
@@ -1402,8 +1402,8 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1401,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 1402,كَفَرْ,kafaro,,,|aao|,kfr,null,null,null,au
 1403,يَقْبِضُونَ,yaqobiDuwna,يَ,ونَ,ya|oiu|wna,قبض,2,هُمْ,mudhari,ai
-1404,لَعَنَ,laEana,,,|aaa|,لعن,tidak terdefinisi,هُوَ,madhi,au
-1405,حَبِطَتْ,HabiTato,,تْ,|aia|to,حبط,tidak terdefinisi,هِيَ,madhi,ia
+1404,لَعَنَ,laEana,,,|aaa|,لعن,not defined,هُوَ,madhi,au
+1405,حَبِطَتْ,HabiTato,,تْ,|aia|to,حبط,not defined,هِيَ,madhi,ia
 1406,يَظْلِمَ,yaZolima,يَ,,ya|oia|,ظلم,2,هُوَ,mudhari,ai
 1407,يَظْلِمُونَ,yaZolimuwna,يَ,ونَ,ya|oiu|wna,ظلم,2,هُمْ,mudhari,ai
 1408,يَحْلِفُونَ,yaHolifuwna,يَ,ونَ,ya|oiu|wna,حلف,2,هُمْ,mudhari,ai
@@ -1440,10 +1440,10 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1439,يَكْسِبُونَ,yakosibuwna,يَ,ونَ,ya|oiu|wna,كسب,2,هُمْ,mudhari,ai
 1440,يَحْلِفُونَ,yaHolifuwna,يَ,ونَ,ya|oiu|wna,حلف,2,هُمْ,mudhari,ai
 1441,يَعْلَمُوا@,yaEolamuwA@,يَ,وا@,ya|oau|wA@,علم,4,هُمْ,mudhari,aa
-1442,مَرَدُوا@,maraduwA@,,وا@,|aau|wA@,مرد,tidak terdefinisi,هُمْ,madhi,au
+1442,مَرَدُوا@,maraduwA@,,وا@,|aau|wA@,مرد,not defined,هُمْ,madhi,au
 1443,تَعْلَمُ,taEolamu,تَ,,ta|oau|,علم,4,أَنْتَ/هِيَ,mudhari,aa
 1444,نَعْلَمُ,naEolamu,نَ,,na|oau|,علم,4,نَحْنُ,mudhari,aa
-1445,خَلَطُوا@,xalaTuwA@,,وا@,|aau|wA@,خلط,tidak terdefinisi,هُمْ,madhi,au
+1445,خَلَطُوا@,xalaTuwA@,,وا@,|aau|wA@,خلط,not defined,هُمْ,madhi,au
 1446,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 1447,ٱعْمَلُوا@,{EomaluwA@,,وا@,|Eml|wA@,{oa,null,null,null,au
 1448,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
@@ -1451,9 +1451,9 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1450,يَشْهَدُ,ya$ohadu,يَ,,ya|oau|,شهد,4,هُوَ,mudhari,aa
 1451,يَقْتُلُونَ,yaqotuluwna,يَ,ونَ,ya|ouu|wna,قتل,1,هُمْ,mudhari,au
 1452,يُقْتَلُونَ,yuqotaluwna,,ونَ,|uoa|wna,yqt,null,null,null,au
-1453,كُتِبَ,kutiba,,,|uia|,كتب,tidak terdefinisi,هُوَ,madhi,ia
+1453,كُتِبَ,kutiba,,,|uia|,كتب,not defined,هُوَ,madhi,ia
 1454,يَقْطَعُونَ,yaqoTaEuwna,يَ,ونَ,ya|oau|wna,قطع,4,هُمْ,mudhari,aa
-1455,كُتِبَ,kutiba,,,|uia|,كتب,tidak terdefinisi,هُوَ,madhi,ia
+1455,كُتِبَ,kutiba,,,|uia|,كتب,not defined,هُوَ,madhi,ia
 1456,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
 1457,يَنفِرُوا@,yanfiruwA@,يَ,وا@,ya|null|wA@,null,null,null,null,au
 1458,نَفَرَ,nafara,,,|aaa|,نفر,2,هُوَ,madhi,au
@@ -1473,7 +1473,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1472,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
 1473,يَكْسِبُونَ,yakosibuwna,يَ,ونَ,ya|oiu|wna,كسب,2,هُمْ,mudhari,ai
 1474,عَمِلُوا@,EamiluwA@,,وا@,|aiu|wA@,عمل,4,هُمْ,madhi,ia
-1475,كَشَفْنَا,ka$afonaA,,نَا,|aao|naA,كشف,tidak terdefinisi,نَحْنُ,madhi,au
+1475,كَشَفْنَا,ka$afonaA,,نَا,|aao|naA,كشف,not defined,نَحْنُ,madhi,au
 1476,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
 1477,ظَلَمُوا@,ZalamuwA@,,وا@,|aau|wA@,ظلم,2,هُمْ,madhi,au
 1478,جَعَلْ,jaEalo,,,|aao|,jEl,null,null,null,au
@@ -1536,7 +1536,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1535,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
 1536,رَزَقْ,razaqo,,,|aao|,rzq,null,null,null,au
 1537,نَفَعَ,nafaEa,,,|aaa|,نفع,3,هُوَ,madhi,au
-1538,كَشَفْنَا,ka$afonaA,,نَا,|aao|naA,كشف,tidak terdefinisi,نَحْنُ,madhi,au
+1538,كَشَفْنَا,ka$afonaA,,نَا,|aao|naA,كشف,not defined,نَحْنُ,madhi,au
 1539,يَجْعَلُ,yajoEalu,يَ,,ya|oau|,جعل,3,هُوَ,mudhari,aa
 1540,يَعْقِلُونَ,yaEoqiluwna,يَ,ونَ,ya|oiu|wna,عقل,2,هُمْ,mudhari,ai
 1541,أَعْبُدُ,>aEobudu,أَ,,>a|ouu|,عبد,1,أَنَا,mudhari,au
@@ -1557,7 +1557,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1556,صَبَرُوا@,SabaruwA@,,وا@,|aau|wA@,صبر,2,هُمْ,madhi,au
 1557,عَمِلُوا@,EamiluwA@,,وا@,|aiu|wA@,عمل,4,هُمْ,madhi,ia
 1558,ٱعْلَمُ,{Eolamu,,,|Elm|,{oa,null,null,null,au
-1559,حَبِطَ,HabiTa,,,|aia|,حبط,tidak terdefinisi,هُوَ,madhi,ia
+1559,حَبِطَ,HabiTa,,,|aia|,حبط,not defined,هُوَ,madhi,ia
 1560,صَنَعُوا@,SanaEuwA@,,وا@,|aau|wA@,صنع,3,هُمْ,madhi,au
 1561,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
 1562,يَكْفُرْ,yakofuro,يَ,,ya|ouo|,كفر,1,هُنَّ,mudhari,au
@@ -1589,7 +1589,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1588,تَعْلَمُ,taEolamu,تَ,,ta|oau|,علم,4,أَنْتَ/هِيَ,mudhari,aa
 1589,ٱصْبِرْ,{Sobiro,,,|Sbr|,{oi,null,null,null,au
 1590,ٱعْبُدُوا@,{EobuduwA@,,وا@,|Ebd|wA@,{ou,null,null,null,au
-1591,فَطَرَ,faTara,,,|aaa|,فطر,tidak terdefinisi,هُوَ,madhi,au
+1591,فَطَرَ,faTara,,,|aaa|,فطر,not defined,هُوَ,madhi,au
 1592,تَعْقِلُونَ,taEoqiluwna,تَ,ونَ,ta|oiu|wna,عقل,2,أَنْتُمْ,mudhari,ai
 1593,ٱشْهَدُ,{$ohadu,,,|$hd|,{oa,null,null,null,au
 1594,جَحَدُوا@,jaHaduwA@,,وا@,|aau|wA@,جحد,3,هُمْ,madhi,au
@@ -1601,7 +1601,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1600,ظَلَمُوا@,ZalamuwA@,,وا@,|aau|wA@,ظلم,2,هُمْ,madhi,au
 1601,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 1602,لَبِثَ,labiva,,,|aia|,لبث,4,هُوَ,madhi,ia
-1603,نَكِرَ,nakira,,,|aia|,نكر,tidak terdefinisi,هُوَ,madhi,ia
+1603,نَكِرَ,nakira,,,|aia|,نكر,not defined,هُوَ,madhi,ia
 1604,تَعْجَبِينَ,taEojabiyna,تَ,ينَ,ta|oai|yna,عجب,tak terdefinisi,أَنْتِ,mudhari,aa
 1605,ذَهَبَ,*ahaba,,,|aaa|,ذهب,3,هُوَ,madhi,au
 1606,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
@@ -1616,10 +1616,10 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1615,ٱعْمَلُوا@,{EomaluwA@,,وا@,|Eml|wA@,{oa,null,null,null,au
 1616,تَعْلَمُونَ,taEolamuwna,تَ,ونَ,ta|oau|wna,علم,4,أَنْتُمْ,mudhari,aa
 1617,ظَلَمُوا@,ZalamuwA@,,وا@,|aau|wA@,ظلم,2,هُمْ,madhi,au
-1618,يَقْدُمُ,yaqodumu,يَ,,ya|ouu|,قدم,tidak terdefinisi,هُوَ,mudhari,au
+1618,يَقْدُمُ,yaqodumu,يَ,,ya|ouu|,قدم,not defined,هُوَ,mudhari,au
 1619,ظَلَمْ,Zalamo,,,|aao|,Zlm,null,null,null,au
 1620,ظَلَمُ,Zalamu,,,|aau|,Zlm,null,null,null,au
-1621,سُعِدُوا@,suEiduwA@,,وا@,|uiu|wA@,سعد,tidak terdefinisi,هُمْ,madhi,ia
+1621,سُعِدُوا@,suEiduwA@,,وا@,|uiu|wA@,سعد,not defined,هُمْ,madhi,ia
 1622,يَعْبُدُ,yaEobudu,يَ,,ya|ouu|,عبد,1,هُوَ,mudhari,au
 1623,يَعْبُدُونَ,yaEobuduwna,يَ,ونَ,ya|ouu|wna,عبد,1,هُمْ,mudhari,au
 1624,يَعْبُدُ,yaEobudu,يَ,,ya|ouu|,عبد,1,هُوَ,mudhari,au
@@ -1653,7 +1653,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1652,شَهِدَ,$ahida,,,|aia|,شهد,4,هُوَ,madhi,ia
 1653,صَدَقَتْ,Sadaqato,,تْ,|aaa|to,صدق,3,هِيَ,madhi,au
 1654,كَذَبَتْ,ka*abato,,تْ,|aaa|to,كذب,2,هِيَ,madhi,au
-1655,شَغَفَ,$agafa,,,|aaa|,شغف,tidak terdefinisi,هُوَ,madhi,au
+1655,شَغَفَ,$agafa,,,|aaa|,شغف,not defined,هُوَ,madhi,au
 1656,سَمِعَتْ,samiEato,,تْ,|aia|to,سمع,4,هِيَ,madhi,ia
 1657,ٱخْرُجْ,{xorujo,,,|xrj|,{ou,null,null,null,au
 1658,يَفْعَلْ,yafoEalo,يَ,,ya|oao|,فعل,3,هُنَّ,mudhari,aa
@@ -1695,7 +1695,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1694,نَرْفَعُ,narofaEu,نَ,,na|oau|,رفع,3,نَحْنُ,mudhari,aa
 1695,يَسْرِقْ,yasoriqo,يَ,,ya|oio|,سرق,2,هُنَّ,mudhari,ai
 1696,سَرَقَ,saraqa,,,|aaa|,سرق,2,هُوَ,madhi,au
-1697,خَلَصُوا@,xalaSuwA@,,وا@,|aau|wA@,خلص,tidak terdefinisi,هُمْ,madhi,au
+1697,خَلَصُوا@,xalaSuwA@,,وا@,|aau|wA@,خلص,not defined,هُمْ,madhi,au
 1698,تَعْلَمُ,taEolamu,تَ,,ta|oau|,علم,4,أَنْتَ/هِيَ,mudhari,aa
 1699,يَحْكُمَ,yaHokuma,يَ,,ya|oua|,حكم,1,هُوَ,mudhari,au
 1700,ٱرْجِعُ,{rojiEu,,,|rjE|,{oi,null,null,null,au
@@ -1747,7 +1747,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1746,صَبَرُوا@,SabaruwA@,,وا@,|aau|wA@,صبر,2,هُمْ,madhi,au
 1747,رَزَقْ,razaqo,,,|aao|,rzq,null,null,null,au
 1748,يَدْخُلُونَ,yadoxuluwna,يَ,ونَ,ya|ouu|wna,دخل,1,هُمْ,mudhari,au
-1749,صَلَحَ,SalaHa,,,|aaa|,صلح,tidak terdefinisi,هُوَ,madhi,au
+1749,صَلَحَ,SalaHa,,,|aaa|,صلح,not defined,هُوَ,madhi,au
 1750,يَدْخُلُونَ,yadoxuluwna,يَ,ونَ,ya|ouu|wna,دخل,1,هُمْ,mudhari,au
 1751,صَبَرْتُمْ,Sabarotumo,,تُمْ,|aao|tumo,صبر,2,أَنْتُمْ,madhi,au
 1752,نِعْمَ,niEoma,,,|ioa|,nEm,null,null,null,au
@@ -1788,7 +1788,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1787,يَقْدِرُونَ,yaqodiruwna,يَ,ونَ,ya|oiu|wna,قدر,2,هُمْ,mudhari,ai
 1788,كَسَبُوا@,kasabuwA@,,وا@,|aau|wA@,كسب,2,هُمْ,madhi,au
 1789,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
-1790,بَرَزُوا@,barazuwA@,,وا@,|aau|wA@,برز,tidak terdefinisi,هُمْ,madhi,au
+1790,بَرَزُوا@,barazuwA@,,وا@,|aau|wA@,برز,not defined,هُمْ,madhi,au
 1791,جَزِعْ,jaziEo,,,|aio|,jzE,null,null,null,au
 1792,صَبَرْنَا,SabaronaA,,نَا,|aao|naA,صبر,2,نَحْنُ,madhi,au
 1793,كَفَرْتُ,kafarotu,,تُ,|aao|tu,كفر,1,أَنَا,madhi,au
@@ -1800,7 +1800,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1799,رَزَقْ,razaqo,,,|aao|,rzq,null,null,null,au
 1800,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
 1801,ٱجْعَلْ,{joEalo,,,|jEl|,{oa,null,null,null,au
-1802,تَبِعَ,tabiEa,,,|aia|,تبع,tidak terdefinisi,هُوَ,madhi,ia
+1802,تَبِعَ,tabiEa,,,|aia|,تبع,not defined,هُوَ,madhi,ia
 1803,ٱجْعَلْ,{joEalo,,,|jEl|,{oa,null,null,null,au
 1804,ٱرْزُقْ,{rozuqo,,,|rzq|,{ou,null,null,null,au
 1805,يَشْكُرُونَ,ya$okuruwna,يَ,ونَ,ya|ouu|wna,شكر,1,هُمْ,mudhari,au
@@ -1815,7 +1815,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1814,ضَرَبْنَا,DarabonaA,,نَا,|aao|naA,ضرب,2,نَحْنُ,madhi,au
 1815,مَكَرُوا@,makaruwA@,,وا@,|aau|wA@,مكر,1,هُمْ,madhi,au
 1816,تَحْسَبَ,taHosaba,تَ,,ta|oaa|,Hsb,null,null,null,au
-1817,بَرَزُوا@,barazuwA@,,وا@,|aau|wA@,برز,tidak terdefinisi,هُمْ,madhi,au
+1817,بَرَزُوا@,barazuwA@,,وا@,|aau|wA@,برز,not defined,هُمْ,madhi,au
 1818,كَسَبَتْ,kasabato,,تْ,|aaa|to,كسب,2,هِيَ,madhi,au
 1819,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 1820,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
@@ -1832,7 +1832,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1831,يَحْشُرُ,yaHo$uru,يَ,,ya|ouu|,حشر,1,هُوَ,mudhari,au
 1832,خَلَقْنَا,xalaqonaA,,نَا,|aao|naA,خلق,1,نَحْنُ,madhi,au
 1833,خَلَقْ,xalaqo,,,|aao|,xlq,null,null,null,au
-1834,نَفَخْتُ,nafaxotu,,تُ,|aao|tu,نفخ,tidak terdefinisi,أَنَا,madhi,au
+1834,نَفَخْتُ,nafaxotu,,تُ,|aao|tu,نفخ,not defined,أَنَا,madhi,au
 1835,سَجَدَ,sajada,,,|aaa|,سجد,1,هُوَ,madhi,au
 1836,أَسْجُدَ,>asojuda,أَ,,>a|oua|,sjd,null,null,null,au
 1837,خَلَقْتَ,xalaqota,,تَ,|aao|ta,خلق,1,أَنْتَ,madhi,au
@@ -1899,7 +1899,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1898,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
 1899,يَسْجُدُ,yasojudu,يَ,,ya|ouu|,سجد,1,هُوَ,mudhari,au
 1900,يَفْعَلُونَ,yafoEaluwna,يَ,ونَ,ya|oau|wna,فعل,3,هُمْ,mudhari,aa
-1901,كَشَفَ,ka$afa,,,|aaa|,كشف,tidak terdefinisi,هُوَ,madhi,au
+1901,كَشَفَ,ka$afa,,,|aaa|,كشف,not defined,هُوَ,madhi,au
 1902,يَكْفُرُوا@,yakofuruwA@,يَ,وا@,ya|ouu|wA@,كفر,1,هُمْ,mudhari,au
 1903,تَعْلَمُونَ,taEolamuwna,تَ,ونَ,ta|oau|wna,علم,4,أَنْتُمْ,mudhari,aa
 1904,يَجْعَلُونَ,yajoEaluwna,يَ,ونَ,ya|oau|wna,جعل,3,هُمْ,mudhari,aa
@@ -1961,7 +1961,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1960,كَفَرَ,kafara,,,|aaa|,كفر,1,هُوَ,madhi,au
 1961,شَرَحَ,$araHa,,,|aaa|,شرح,3,هُوَ,madhi,au
 1962,طَبَعَ,TabaEa,,,|aaa|,طبع,3,هُوَ,madhi,au
-1963,فُتِنُوا@,futinuwA@,,وا@,|uiu|wA@,فتن,tidak terdefinisi,هُمْ,madhi,ia
+1963,فُتِنُوا@,futinuwA@,,وا@,|uiu|wA@,فتن,not defined,هُمْ,madhi,ia
 1964,صَبَرُ,Sabaru,,,|aau|,Sbr,null,null,null,au
 1965,عَمِلَتْ,Eamilato,,تْ,|aia|to,عمل,4,هِيَ,madhi,ia
 1966,يُظْلَمُونَ,yuZolamuwna,,ونَ,|uoa|wna,yZl,null,null,null,au
@@ -1983,7 +1983,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 1982,جَعَلْ,jaEalo,,,|aao|,jEl,null,null,null,au
 1983,حَمَلْنَا,HamalonaA,,نَا,|aao|naA,حمل,2,نَحْنُ,madhi,au
 1984,بَعَثْنَا,baEavonaA,,نَا,|aao|naA,بعث,3,نَحْنُ,madhi,au
-1985,رَدَدْنَا,radadonaA,,نَا,|aao|naA,ردد,tidak terdefinisi,نَحْنُ,madhi,au
+1985,رَدَدْنَا,radadonaA,,نَا,|aao|naA,ردد,not defined,نَحْنُ,madhi,au
 1986,جَعَلْ,jaEalo,,,|aao|,jEl,null,null,null,au
 1987,يَدْخُلُوا@,yadoxuluwA@,يَ,وا@,ya|ouu|wA@,دخل,1,هُمْ,mudhari,au
 1988,دَخَلُ,daxalu,,,|aau|,dxl,null,null,null,au
@@ -2007,7 +2007,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2006,تَقْتُلُ,taqotulu,تَ,,ta|ouu|,قتل,1,أَنْتَ/هِيَ,mudhari,au
 2007,نَرْزُقُ,narozuqu,نَ,,na|ouu|,رزق,1,نَحْنُ,mudhari,au
 2008,تَقْتُلُوا@,taqotuluwA@,تَ,وا@,ta|ouu|wA@,قتل,1,أَنْتُمْ,mudhari,au
-2009,قُتِلَ,qutila,,,|uia|,قتل,tidak terdefinisi,هُوَ,madhi,ia
+2009,قُتِلَ,qutila,,,|uia|,قتل,not defined,هُوَ,madhi,ia
 2010,جَعَلْنَا,jaEalonaA,,نَا,|aao|naA,جعل,3,نَحْنُ,madhi,au
 2011,يَبْلُغَ,yaboluga,يَ,,ya|oua|,بلغ,1,هُوَ,mudhari,au
 2012,تَخْرِقَ,taxoriqa,تَ,,ta|oia|,xrq,null,null,null,au
@@ -2018,7 +2018,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2017,ذَكَرْتَ,*akarota,,تَ,|aao|ta,ذكر,1,أَنْتَ,madhi,au
 2018,ضَرَبُوا@,DarabuwA@,,وا@,|aau|wA@,ضرب,2,هُمْ,madhi,au
 2019,يَكْبُرُ,yakoburu,يَ,,ya|ouu|,كبر,5,هُوَ,mudhari,au
-2020,فَطَرَ,faTara,,,|aaa|,فطر,tidak terdefinisi,هُوَ,madhi,au
+2020,فَطَرَ,faTara,,,|aaa|,فطر,not defined,هُوَ,madhi,au
 2021,زَعَمْ,zaEamo,,,|aao|,zEm,null,null,null,au
 2022,ظَلَمُوا@,ZalamuwA@,,وا@,|aau|wA@,ظلم,2,هُمْ,madhi,au
 2023,جَعَلْنَا,jaEalonaA,,نَا,|aao|naA,جعل,3,نَحْنُ,madhi,au
@@ -2027,7 +2027,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2026,أَسْجُدُ,>asojudu,أَ,,>a|ouu|,سجد,1,أَنَا,mudhari,au
 2027,خَلَقْتَ,xalaqota,,تَ,|aao|ta,خلق,1,أَنْتَ,madhi,au
 2028,ٱذْهَبْ,{*ohabo,,,|*hb|,{oa,null,null,null,au
-2029,تَبِعَ,tabiEa,,,|aia|,تبع,tidak terdefinisi,هُوَ,madhi,ia
+2029,تَبِعَ,tabiEa,,,|aia|,تبع,not defined,هُوَ,madhi,ia
 2030,يَخْسِفَ,yaxosifa,يَ,,ya|oia|,خسف,2,هُوَ,mudhari,ai
 2031,كَفَرْتُمْ,kafarotumo,,تُمْ,|aao|tumo,كفر,1,أَنْتُمْ,madhi,au
 2032,حَمَلْ,Hamalo,,,|aao|,Hml,null,null,null,au
@@ -2038,7 +2038,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2037,يَلْبَثُونَ,yalobavuwna,يَ,ونَ,ya|oau|wna,لبث,4,هُمْ,mudhari,aa
 2038,يَبْعَثَ,yaboEava,يَ,,ya|oaa|,بعث,3,هُوَ,mudhari,aa
 2039,ٱجْعَل,{joEal,,,|jEl|,{oa,null,null,null,au
-2040,زَهَقَ,zahaqa,,,|aaa|,زهق,tidak terdefinisi,هُوَ,madhi,au
+2040,زَهَقَ,zahaqa,,,|aaa|,زهق,not defined,هُوَ,madhi,au
 2041,يَعْمَلُ,yaEomalu,يَ,,ya|oau|,عمل,4,هُوَ,mudhari,aa
 2042,نَذْهَبَ,na*ohaba,نَ,,na|oaa|,*hb,null,null,null,au
 2043,زَعَمْتَ,zaEamota,,تَ,|aao|ta,زعم,1,أَنْتَ,madhi,au
@@ -2096,7 +2096,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2095,يَنْصُرُونَ,yanoSuruwna,يَ,ونَ,ya|ouu|wna,نصر,1,هُمْ,mudhari,au
 2096,ٱضْرِبْ,{Doribo,,,|Drb|,{oi,null,null,null,au
 2097,حَشَرْ,Ha$aro,,,|aao|,H$r,null,null,null,au
-2098,عُرِضُوا@,EuriDuwA@,,وا@,|uiu|wA@,عرض,tidak terdefinisi,هُمْ,madhi,ia
+2098,عُرِضُوا@,EuriDuwA@,,وا@,|uiu|wA@,عرض,not defined,هُمْ,madhi,ia
 2099,خَلَقْ,xalaqo,,,|aao|,xlq,null,null,null,au
 2100,زَعَمْتُمْ,zaEamotumo,,تُمْ,|aao|tumo,زعم,1,أَنْتُمْ,madhi,au
 2101,عَمِلُوا@,EamiluwA@,,وا@,|aiu|wA@,عمل,4,هُمْ,madhi,ia
@@ -2116,8 +2116,8 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2115,أَذْكُرَ,>a*okura,أَ,,>a|oua|,*kr,null,null,null,au
 2116,تَصْبِرُ,taSobiru,تَ,,ta|oiu|,صبر,2,أَنْتَ/هِيَ,mudhari,ai
 2117,رَكِبَا,rakibaA,,ا,|aia|A,ركب,4,هُمَا,madhi,ia
-2118,خَرَقَ,xaraqa,,,|aaa|,خرق,tidak terdefinisi,هُوَ,madhi,au
-2119,خَرَقْتَ,xaraqota,,تَ,|aao|ta,خرق,tidak terdefinisi,أَنْتَ,madhi,au
+2118,خَرَقَ,xaraqa,,,|aaa|,خرق,not defined,هُوَ,madhi,au
+2119,خَرَقْتَ,xaraqota,,تَ,|aao|ta,خرق,not defined,أَنْتَ,madhi,au
 2120,قَتَلَ,qatala,,,|aaa|,قتل,1,هُوَ,madhi,au
 2121,قَتَلْتَ,qatalota,,تَ,|aao|ta,قتل,1,أَنْتَ,madhi,au
 2122,بَلَغْتَ,balagota,,تَ,|aao|ta,بلغ,1,أَنْتَ,madhi,au
@@ -2138,14 +2138,14 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2137,يَظْهَرُ,yaZoharu,يَ,,ya|oau|,ظهر,3,هُوَ,mudhari,aa
 2138,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 2139,تَرَكْنَا,tarakonaA,تَ,نَا,ta|null|naA,null,null,null,null,au
-2140,نُفِخَ,nufixa,,,|uia|,نفخ,tidak terdefinisi,هُوَ,madhi,ia
+2140,نُفِخَ,nufixa,,,|uia|,نفخ,not defined,هُوَ,madhi,ia
 2141,جَمَعْ,jamaEo,,,|aao|,jmE,null,null,null,au
-2142,عَرَضْنَا,EaraDonaA,,نَا,|aao|naA,عرض,tidak terdefinisi,نَحْنُ,madhi,au
+2142,عَرَضْنَا,EaraDonaA,,نَا,|aao|naA,عرض,not defined,نَحْنُ,madhi,au
 2143,حَسِبَ,Hasiba,,,|aia|,حسب,4,هُوَ,madhi,ia
 2144,كَفَرُ,kafaru,,,|aau|,kfr,null,null,null,au
 2145,يَحْسَبُونَ,yaHosabuwna,يَ,ونَ,ya|oau|wna,حسب,4,هُمْ,mudhari,aa
 2146,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
-2147,حَبِطَتْ,HabiTato,,تْ,|aia|to,حبط,tidak terdefinisi,هِيَ,madhi,ia
+2147,حَبِطَتْ,HabiTato,,تْ,|aia|to,حبط,not defined,هِيَ,madhi,ia
 2148,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 2149,عَمِلُوا@,EamiluwA@,,وا@,|aiu|wA@,عمل,4,هُمْ,madhi,ia
 2150,نَفِدَ,nafida,,,|aia|,نفد,4,هُوَ,madhi,ia
@@ -2164,7 +2164,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2163,حَمَلَتْ,Hamalato,,تْ,|aaa|to,حمل,2,هِيَ,madhi,au
 2164,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 2165,ٱشْرَبِ,{$orabi,,,|$rb|,{oa,null,null,null,au
-2166,نَذَرْتُ,na*arotu,,تُ,|aao|tu,نذر,tidak terdefinisi,أَنَا,madhi,au
+2166,نَذَرْتُ,na*arotu,,تُ,|aao|tu,نذر,not defined,أَنَا,madhi,au
 2167,تَحْمِلُ,taHomilu,تَ,,ta|oiu|,حمل,2,أَنْتَ/هِيَ,mudhari,ai
 2168,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 2169,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
@@ -2252,7 +2252,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2251,يَرْجِعُ,yarojiEu,يَ,,ya|oiu|,رجع,2,هُوَ,mudhari,ai
 2252,يَرْجِعَ,yarojiEa,يَ,,ya|oia|,رجع,2,هُوَ,mudhari,ai
 2253,قَبَضْتُ,qabaDotu,,تُ,|aao|tu,قبض,2,أَنَا,madhi,au
-2254,نَبَذْتُ,naba*otu,,تُ,|aao|tu,نبذ,tidak terdefinisi,أَنَا,madhi,au
+2254,نَبَذْتُ,naba*otu,,تُ,|aao|tu,نبذ,not defined,أَنَا,madhi,au
 2255,ٱذْهَبْ,{*ohabo,,,|*hb|,{oa,null,null,null,au
 2256,سَبَقَ,sabaqa,,,|aaa|,سبق,2,هُوَ,madhi,au
 2257,يَحْمِلُ,yaHomilu,يَ,,ya|oiu|,حمل,2,هُوَ,mudhari,ai
@@ -2267,7 +2267,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2266,عَهِدْ,Eahido,,,|aio|,Ehd,null,null,null,au
 2267,ٱسْجُدُوا@,{sojuduwA@,,وا@,|sjd|wA@,{ou,null,null,null,au
 2268,سَجَدُ,sajadu,,,|aau|,sjd,null,null,null,au
-2269,طَفِقَا,TafiqaA,,ا,|aia|A,طفق,tidak terdefinisi,هُمَا,madhi,ia
+2269,طَفِقَا,TafiqaA,,ا,|aia|A,طفق,not defined,هُمَا,madhi,ia
 2270,نَحْشُرُ,naHo$uru,نَ,,na|ouu|,حشر,1,نَحْنُ,mudhari,au
 2271,حَشَرْتَ,Ha$arota,,تَ,|aao|ta,حشر,1,أَنْتَ,madhi,au
 2272,سَبَقَتْ,sabaqato,,تْ,|aaa|to,سبق,2,هِيَ,madhi,au
@@ -2281,7 +2281,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2280,جَعَلْ,jaEalo,,,|aao|,jEl,null,null,null,au
 2281,صَدَقْ,Sadaqo,,,|aao|,Sdq,null,null,null,au
 2282,تَعْقِلُونَ,taEoqiluwna,تَ,ونَ,ta|oiu|wna,عقل,2,أَنْتُمْ,mudhari,ai
-2283,قَصَمْنَا,qaSamonaA,,نَا,|aao|naA,قصم,tidak terdefinisi,نَحْنُ,madhi,au
+2283,قَصَمْنَا,qaSamonaA,,نَا,|aao|naA,قصم,not defined,نَحْنُ,madhi,au
 2284,ٱرْجِعُ,{rojiEu,,,|rjE|,{oi,null,null,null,au
 2285,جَعَلْ,jaEalo,,,|aao|,jEl,null,null,null,au
 2286,خَلَقْنَا,xalaqonaA,,نَا,|aao|naA,خلق,1,نَحْنُ,madhi,au
@@ -2303,7 +2303,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2302,تُرْجَعُونَ,turojaEuwna,,ونَ,|uoa|wna,trj,null,null,null,au
 2303,كَفَرُ,kafaru,,,|aau|,kfr,null,null,null,au
 2304,يَذْكُرُ,ya*okuru,يَ,,ya|ouu|,ذكر,1,هُوَ,mudhari,au
-2305,خُلِقَ,xuliqa,,,|uia|,خلق,tidak terdefinisi,هُوَ,madhi,ia
+2305,خُلِقَ,xuliqa,,,|uia|,خلق,not defined,هُوَ,madhi,ia
 2306,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 2307,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 2308,يُنصَرُونَ,yunSaruwna,,ونَ,|uSr|wna,yna,null,null,null,au
@@ -2312,7 +2312,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2311,يَسْمَعُ,yasomaEu,يَ,,ya|oau|,سمع,4,هُوَ,mudhari,aa
 2312,يُنذَرُونَ,yun*aruwna,,ونَ,|u*r|wna,yna,null,null,null,au
 2313,تُظْلَمُ,tuZolamu,,,|uoa|,tZl,null,null,null,au
-2314,فَطَرَ,faTara,,,|aaa|,فطر,tidak terdefinisi,هُوَ,madhi,au
+2314,فَطَرَ,faTara,,,|aaa|,فطر,not defined,هُوَ,madhi,au
 2315,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 2316,يَرْجِعُونَ,yarojiEuwna,يَ,ونَ,ya|oiu|wna,رجع,2,هُمْ,mudhari,ai
 2317,فَعَلَ,faEala,,,|aaa|,فعل,3,هُوَ,madhi,au
@@ -2322,7 +2322,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2321,فَعَلْتَ,faEalota,,تَ,|aao|ta,فعل,3,أَنْتَ,madhi,au
 2322,فَعَلَ,faEala,,,|aaa|,فعل,3,هُوَ,madhi,au
 2323,رَجَعُ,rajaEu,,,|aau|,rjE,null,null,null,au
-2324,نُكِسُوا@,nukisuwA@,,وا@,|uiu|wA@,نكس,tidak terdefinisi,هُمْ,madhi,ia
+2324,نُكِسُوا@,nukisuwA@,,وا@,|uiu|wA@,نكس,not defined,هُمْ,madhi,ia
 2325,عَلِمْتَ,Ealimota,,تَ,|aio|ta,علم,4,أَنْتَ,madhi,ia
 2326,تَعْبُدُونَ,taEobuduwna,تَ,ونَ,ta|ouu|wna,عبد,1,أَنْتُمْ,mudhari,au
 2327,يَنْفَعُ,yanofaEu,يَ,,ya|oau|,نفع,3,هُوَ,mudhari,aa
@@ -2335,8 +2335,8 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2334,نَصَرْ,naSaro,,,|aao|,nSr,null,null,null,au
 2335,يَحْكُمَانِ,yaHokumaAni,يَ,انِ,ya|oua|Ani,حكم,1,هُمَا,mudhari,au
 2336,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
-2337,كَشَفْنَا,ka$afonaA,,نَا,|aao|naA,كشف,tidak terdefinisi,نَحْنُ,madhi,au
-2338,نَفَخْنَا,nafaxonaA,,نَا,|aao|naA,نفخ,tidak terdefinisi,نَحْنُ,madhi,au
+2337,كَشَفْنَا,ka$afonaA,,نَا,|aao|naA,كشف,not defined,نَحْنُ,madhi,au
+2338,نَفَخْنَا,nafaxonaA,,نَا,|aao|naA,نفخ,not defined,نَحْنُ,madhi,au
 2339,جَعَلْ,jaEalo,,,|aao|,jEl,null,null,null,au
 2340,ٱعْبُدُ,{Eobudu,,,|Ebd|,{ou,null,null,null,au
 2341,يَعْمَلْ,yaEomalo,يَ,,ya|oao|,عمل,4,هُنَّ,mudhari,aa
@@ -2352,7 +2352,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2351,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 2352,تَكْتُمُونَ,takotumuwna,تَ,ونَ,ta|ouu|wna,كتم,1,أَنْتُمْ,mudhari,au
 2353,ٱحْكُم,{Hokum,,,|Hkm|,{ou,null,null,null,au
-2354,كُتِبَ,kutiba,,,|uia|,كتب,tidak terdefinisi,هُوَ,madhi,ia
+2354,كُتِبَ,kutiba,,,|uia|,كتب,not defined,هُوَ,madhi,ia
 2355,خَلَقْ,xalaqo,,,|aao|,xlq,null,null,null,au
 2356,تَبْلُغُ,tabolugu,تَ,,ta|ouu|,بلغ,1,أَنْتَ/هِيَ,mudhari,au
 2357,يَعْلَمَ,yaEolama,يَ,,ya|oaa|,علم,4,هُوَ,mudhari,aa
@@ -2380,7 +2380,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2379,جَعَلْنَا,jaEalonaA,,نَا,|aao|naA,جعل,3,نَحْنُ,madhi,au
 2380,يَذْكُرُوا@,ya*okuruwA@,يَ,وا@,ya|ouu|wA@,ذكر,1,هُمْ,mudhari,au
 2381,رَزَقَ,razaqa,,,|aaa|,رزق,1,هُوَ,madhi,au
-2382,ذُكِرَ,*ukira,,,|uia|,ذكر,tidak terdefinisi,هُوَ,madhi,ia
+2382,ذُكِرَ,*ukira,,,|uia|,ذكر,not defined,هُوَ,madhi,ia
 2383,رَزَقْ,razaqo,,,|aao|,rzq,null,null,null,au
 2384,جَعَلْ,jaEalo,,,|aao|,jEl,null,null,null,au
 2385,ٱذْكُرُوا@,{*okuruwA@,,وا@,|*kr|wA@,{ou,null,null,null,au
@@ -2455,7 +2455,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2454,تُنصَرُونَ,tunSaruwna,,ونَ,|uSr|wna,tna,null,null,null,au
 2455,تَنكِصُونَ,tankiSuwna,تَ,ونَ,ta|null|wna,null,null,null,null,au
 2456,يَعْرِفُوا@,yaEorifuwA@,يَ,وا@,ya|oiu|wA@,عرف,2,هُمْ,mudhari,ai
-2457,كَشَفْنَا,ka$afonaA,,نَا,|aao|naA,كشف,tidak terdefinisi,نَحْنُ,madhi,au
+2457,كَشَفْنَا,ka$afonaA,,نَا,|aao|naA,كشف,not defined,نَحْنُ,madhi,au
 2458,فَتَحْنَا,fataHonaA,,نَا,|aao|naA,فتح,3,نَحْنُ,madhi,au
 2459,تَشْكُرُونَ,ta$okuruwna,تَ,ونَ,ta|ouu|wna,شكر,1,أَنْتُمْ,mudhari,au
 2460,تُحْشَرُونَ,tuHo$aruwna,,ونَ,|uoa|wna,tH$,null,null,null,au
@@ -2472,7 +2472,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2471,أَعْمَلُ,>aEomalu,أَ,,>a|oau|,عمل,4,أَنَا,mudhari,aa
 2472,تَرَكْتُ,tarakotu,,تُ,|aao|tu,ترك,1,أَنَا,madhi,au
 2473,يُبْعَثُونَ,yuboEavuwna,,ونَ,|uoa|wna,ybE,null,null,null,au
-2474,نُفِخَ,nufixa,,,|uia|,نفخ,tidak terdefinisi,هُوَ,madhi,ia
+2474,نُفِخَ,nufixa,,,|uia|,نفخ,not defined,هُوَ,madhi,ia
 2475,خَسِرُ,xasiru,,,|aiu|,xsr,null,null,null,au
 2476,غَلَبَتْ,galabato,,تْ,|aaa|to,غلب,2,هِيَ,madhi,au
 2477,ٱغْفِرْ,{gofiro,,,|gfr|,{oi,null,null,null,au
@@ -2496,7 +2496,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2495,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 2496,تَعْلَمُونَ,taEolamuwna,تَ,ونَ,ta|oau|wna,علم,4,أَنْتُمْ,mudhari,aa
 2497,يَغْفِرَ,yagofira,يَ,,ya|oia|,غفر,2,هُوَ,mudhari,ai
-2498,لُعِنُوا@,luEinuwA@,,وا@,|uiu|wA@,لعن,tidak terdefinisi,هُمْ,madhi,ia
+2498,لُعِنُوا@,luEinuwA@,,وا@,|uiu|wA@,لعن,not defined,هُمْ,madhi,ia
 2499,تَشْهَدُ,ta$ohadu,تَ,,ta|oau|,شهد,4,أَنْتَ/هِيَ,mudhari,aa
 2500,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
 2501,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
@@ -2591,7 +2591,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2590,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 2591,خَلَقْ,xalaqo,,,|aao|,xlq,null,null,null,au
 2592,بَعَثْنَا,baEavonaA,,نَا,|aao|naA,بعث,3,نَحْنُ,madhi,au
-2593,مَرَجَ,maraja,,,|aaa|,مرج,tidak terdefinisi,هُوَ,madhi,au
+2593,مَرَجَ,maraja,,,|aaa|,مرج,not defined,هُوَ,madhi,au
 2594,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 2595,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
 2596,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
@@ -2634,7 +2634,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2633,يَفْعَلُونَ,yafoEaluwna,يَ,ونَ,ya|oau|wna,فعل,3,هُمْ,mudhari,aa
 2634,تَعْبُدُونَ,taEobuduwna,تَ,ونَ,ta|ouu|wna,عبد,1,أَنْتُمْ,mudhari,au
 2635,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
-2636,مَرِضْتُ,mariDotu,,تُ,|aio|tu,مرض,tidak terdefinisi,أَنَا,madhi,ia
+2636,مَرِضْتُ,mariDotu,,تُ,|aio|tu,مرض,not defined,أَنَا,madhi,ia
 2637,يَغْفِرَ,yagofira,يَ,,ya|oia|,غفر,2,هُوَ,mudhari,ai
 2638,ٱجْعَل,{joEal,,,|jEl|,{oa,null,null,null,au
 2639,ٱجْعَلْ,{joEalo,,,|jEl|,{oa,null,null,null,au
@@ -2667,12 +2667,12 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2666,ظَلَمَ,Zalama,,,|aaa|,ظلم,2,هُوَ,madhi,au
 2667,تَخْرُجْ,taxorujo,تَ,,ta|ouo|,خرج,1,أَنْتُنَّ,mudhari,au
 2668,جَحَدُوا@,jaHaduwA@,,وا@,|aau|wA@,جحد,3,هُمْ,madhi,au
-2669,حُشِرَ,Hu$ira,,,|uia|,حشر,tidak terdefinisi,هُوَ,madhi,ia
+2669,حُشِرَ,Hu$ira,,,|uia|,حشر,not defined,هُوَ,madhi,ia
 2670,ٱدْخُلُوا@,{doxuluwA@,,وا@,|dxl|wA@,{ou,null,null,null,au
 2671,أَشْكُرَ,>a$okura,أَ,,>a|oua|,$kr,null,null,null,au
 2672,أَعْمَلَ,>aEomala,أَ,,>a|oaa|,Eml,null,null,null,au
 2673,أَا@ذْبَحَ,>aA@*obaHa,أَ,,>a|@oa|,A*b,null,null,null,au
-2674,مَكَثَ,makava,,,|aaa|,مكث,tidak terdefinisi,هُوَ,madhi,au
+2674,مَكَثَ,makava,,,|aaa|,مكث,not defined,هُوَ,madhi,au
 2675,يَسْجُدُونَ,yasojuduwna,يَ,ونَ,ya|ouu|wna,سجد,1,هُمْ,mudhari,au
 2676,يَسْجُدُوا@,yasojuduwA@,يَ,وا@,ya|ouu|wA@,سجد,1,هُمْ,mudhari,au
 2677,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
@@ -2693,7 +2693,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2692,كَفَرَ,kafara,,,|aaa|,كفر,1,هُوَ,madhi,au
 2693,ٱدْخُلِ,{doxuli,,,|dxl|,{ou,null,null,null,au
 2694,حَسِبَتْ,Hasibato,,تْ,|aia|to,حسب,4,هِيَ,madhi,ia
-2695,كَشَفَتْ,ka$afato,,تْ,|aaa|to,كشف,tidak terdefinisi,هِيَ,madhi,au
+2695,كَشَفَتْ,ka$afato,,تْ,|aaa|to,كشف,not defined,هِيَ,madhi,au
 2696,ظَلَمْتُ,Zalamotu,,تُ,|aao|tu,ظلم,2,أَنَا,madhi,au
 2697,ٱعْبُدُوا@,{EobuduwA@,,وا@,|Ebd|wA@,{ou,null,null,null,au
 2698,تُفْتَنُونَ,tufotanuwna,,ونَ,|uoa|wna,tft,null,null,null,au
@@ -2716,7 +2716,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2715,يُبْعَثُونَ,yuboEavuwna,,ونَ,|uoa|wna,ybE,null,null,null,au
 2716,كَفَرُ,kafaru,,,|aau|,kfr,null,null,null,au
 2717,يَمْكُرُونَ,yamokuruwna,يَ,ونَ,ya|ouu|wna,مكر,1,هُمْ,mudhari,au
-2718,رَدِفَ,radifa,,,|aia|,ردف,tidak terdefinisi,هُوَ,madhi,ia
+2718,رَدِفَ,radifa,,,|aia|,ردف,not defined,هُوَ,madhi,ia
 2719,يَشْكُرُونَ,ya$okuruwna,يَ,ونَ,ya|ouu|wna,شكر,1,هُمْ,mudhari,au
 2720,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 2721,نَحْشُرُ,naHo$uru,نَ,,na|ouu|,حشر,1,نَحْنُ,mudhari,au
@@ -2725,7 +2725,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2724,جَعَلْنَا,jaEalonaA,,نَا,|aao|naA,جعل,3,نَحْنُ,madhi,au
 2725,يَسْكُنُوا@,yasokunuwA@,يَ,وا@,ya|ouu|wA@,سكن,1,هُمْ,mudhari,au
 2726,يُنفَخُ,yunfaxu,,,|ufx|,yna,null,null,null,au
-2727,فَزِعَ,faziEa,,,|aia|,فزع,tidak terdefinisi,هُوَ,madhi,ia
+2727,فَزِعَ,faziEa,,,|aia|,فزع,not defined,هُوَ,madhi,ia
 2728,تَحْسَبُ,taHosabu,تَ,,ta|oau|,حسب,4,أَنْتَ/هِيَ,mudhari,aa
 2729,تَفْعَلُونَ,tafoEaluwna,تَ,ونَ,ta|oau|wna,فعل,3,أَنْتُمْ,mudhari,aa
 2730,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
@@ -2902,7 +2902,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2901,رَزَقْ,razaqo,,,|aao|,rzq,null,null,null,au
 2902,يَعْقِلُونَ,yaEoqiluwna,يَ,ونَ,ya|oiu|wna,عقل,2,هُمْ,mudhari,ai
 2903,ظَلَمُ,Zalamu,,,|aau|,Zlm,null,null,null,au
-2904,فَطَرَ,faTara,,,|aaa|,فطر,tidak terdefinisi,هُوَ,madhi,au
+2904,فَطَرَ,faTara,,,|aaa|,فطر,not defined,هُوَ,madhi,au
 2905,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
 2906,يَكْفُرُوا@,yakofuruwA@,يَ,وا@,ya|ouu|wA@,كفر,1,هُمْ,mudhari,au
 2907,تَعْلَمُونَ,taEolamuwna,تَ,ونَ,ta|oau|wna,علم,4,أَنْتُمْ,mudhari,aa
@@ -2963,10 +2963,10 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2962,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
 2963,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
 2964,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
-2965,نَفَخَ,nafaxa,,,|aaa|,نفخ,tidak terdefinisi,هُوَ,madhi,au
+2965,نَفَخَ,nafaxa,,,|aaa|,نفخ,not defined,هُوَ,madhi,au
 2966,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 2967,تَشْكُرُونَ,ta$okuruwna,تَ,ونَ,ta|ouu|wna,شكر,1,أَنْتُمْ,mudhari,au
-2968,ضَلَلْنَا,DalalonaA,,نَا,|aao|naA,ضلل,tidak terdefinisi,نَحْنُ,madhi,au
+2968,ضَلَلْنَا,DalalonaA,,نَا,|aao|naA,ضلل,not defined,نَحْنُ,madhi,au
 2969,تُرْجَعُونَ,turojaEuwna,,ونَ,|uoa|wna,trj,null,null,null,au
 2970,سَمِعْنَا,samiEonaA,,نَا,|aio|naA,سمع,4,نَحْنُ,madhi,ia
 2971,ٱرْجِعْنَا,{rojiEonaA,,نَا,|rjE|naA,{oi,null,null,null,au
@@ -2997,7 +2997,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 2996,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
 2997,بَلَغَتِ,balagati,,تِ,|aaa|ti,blg,null,null,null,au
 2998,ٱرْجِعُوا@,{rojiEuwA@,,وا@,|rjE|wA@,{oi,null,null,null,au
-2999,دُخِلَتْ,duxilato,,تْ,|uia|to,دخل,tidak terdefinisi,هِيَ,madhi,ia
+2999,دُخِلَتْ,duxilato,,تْ,|uia|to,دخل,not defined,هِيَ,madhi,ia
 3000,يَنفَعَ,yanfaEa,يَ,,ya|null|,null,null,null,null,au
 3001,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 3002,ذَهَبَ,*ahaba,,,|aaa|,ذهب,3,هُوَ,madhi,au
@@ -3017,19 +3017,19 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3016,نَكَحْ,nakaHo,,,|aao|,nkH,null,null,null,au
 3017,عَلِمْنَا,EalimonaA,,نَا,|aio|naA,علم,4,نَحْنُ,madhi,ia
 3018,فَرَضْنَا,faraDonaA,,نَا,|aao|naA,فرض,2,نَحْنُ,madhi,au
-3019,عَزَلْتَ,Eazalota,,تَ,|aao|ta,عزل,tidak terdefinisi,أَنْتَ,madhi,au
+3019,عَزَلْتَ,Eazalota,,تَ,|aao|ta,عزل,not defined,أَنْتَ,madhi,au
 3020,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 3021,تَدْخُلُوا@,tadoxuluwA@,تَ,وا@,ta|ouu|wA@,دخل,1,أَنْتُمْ,mudhari,au
 3022,ٱدْخُلُوا@,{doxuluwA@,,وا@,|dxl|wA@,{ou,null,null,null,au
 3023,طَعِمْتُمْ,TaEimotumo,,تُمْ,|aio|tumo,طعم,4,أَنْتُمْ,madhi,ia
 3024,تَنكِحُ,tankiHu,تَ,,ta|null|,null,null,null,null,au
-3025,لَعَنَ,laEana,,,|aaa|,لعن,tidak terdefinisi,هُوَ,madhi,au
+3025,لَعَنَ,laEana,,,|aaa|,لعن,not defined,هُوَ,madhi,au
 3026,يُعْرَفْنَ,yuEorafona,,نَ,|uoa|na,yEr,null,null,null,au
 3027,ثُقِفُ,vuqifu,,,|uiu|,vqf,null,null,null,au
-3028,لَعَنَ,laEana,,,|aaa|,لعن,tidak terdefinisi,هُوَ,madhi,au
+3028,لَعَنَ,laEana,,,|aaa|,لعن,not defined,هُوَ,madhi,au
 3029,ٱلْعَنْ,{loEano,,,|lEn|,{oa,null,null,null,au
 3030,يَغْفِرْ,yagofiro,يَ,,ya|oio|,غفر,2,هُنَّ,mudhari,ai
-3031,عَرَضْنَا,EaraDonaA,,نَا,|aao|naA,عرض,tidak terdefinisi,نَحْنُ,madhi,au
+3031,عَرَضْنَا,EaraDonaA,,نَا,|aao|naA,عرض,not defined,نَحْنُ,madhi,au
 3032,يَحْمِلْنَ,yaHomilona,يَ,نَ,ya|oio|na,حمل,2,هُنَّ,mudhari,ai
 3033,حَمَلَ,Hamala,,,|aaa|,حمل,2,هُوَ,madhi,au
 3034,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
@@ -3083,8 +3083,8 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3082,يَدْرُسُونَ,yadorusuwna,يَ,ونَ,ya|ouu|wna,درس,1,هُمْ,mudhari,au
 3083,بَلَغُوا@,balaguwA@,,وا@,|aau|wA@,بلغ,1,هُمْ,madhi,au
 3084,يَقْذِفُ,yaqo*ifu,يَ,,ya|oiu|,قذف,2,هُوَ,mudhari,ai
-3085,ضَلَلْتُ,Dalalotu,,تُ,|aao|tu,ضلل,tidak terdefinisi,أَنَا,madhi,au
-3086,فَزِعُوا@,faziEuwA@,,وا@,|aiu|wA@,فزع,tidak terdefinisi,هُمْ,madhi,ia
+3085,ضَلَلْتُ,Dalalotu,,تُ,|aao|tu,ضلل,not defined,أَنَا,madhi,au
+3086,فَزِعُوا@,faziEuwA@,,وا@,|aiu|wA@,فزع,not defined,هُمْ,madhi,ia
 3087,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 3088,يَقْذِفُونَ,yaqo*ifuwna,يَ,ونَ,ya|oiu|wna,قذف,2,هُمْ,mudhari,ai
 3089,فُعِلَ,fuEila,,,|uia|,فعل,4,هُوَ,madhi,ia
@@ -3126,7 +3126,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3125,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 3126,نَرْجُمَ,narojuma,نَ,,na|oua|,rjm,null,null,null,au
 3127,أَعْبُدُ,>aEobudu,أَ,,>a|ouu|,عبد,1,أَنَا,mudhari,au
-3128,فَطَرَ,faTara,,,|aaa|,فطر,tidak terdefinisi,هُوَ,madhi,au
+3128,فَطَرَ,faTara,,,|aaa|,فطر,not defined,هُوَ,madhi,au
 3129,تُرْجَعُونَ,turojaEuwna,,ونَ,|uoa|wna,trj,null,null,null,au
 3130,ٱسْمَعُ,{somaEu,,,|smE|,{oa,null,null,null,au
 3131,ٱدْخُلِ,{doxuli,,,|dxl|,{ou,null,null,null,au
@@ -3145,7 +3145,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3144,رَزَقَ,razaqa,,,|aaa|,رزق,1,هُوَ,madhi,au
 3145,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 3146,يَرْجِعُونَ,yarojiEuwna,يَ,ونَ,ya|oiu|wna,رجع,2,هُمْ,mudhari,ai
-3147,نُفِخَ,nufixa,,,|uia|,نفخ,tidak terdefinisi,هُوَ,madhi,ia
+3147,نُفِخَ,nufixa,,,|uia|,نفخ,not defined,هُوَ,madhi,ia
 3148,بَعَثَنَا,baEavanaA,,نَا,|aaa|naA,bEv,null,null,null,au
 3149,صَدَقَ,Sadaqa,,,|aaa|,صدق,3,هُوَ,madhi,au
 3150,تُظْلَمُ,tuZolamu,,,|uoa|,tZl,null,null,null,au
@@ -3223,9 +3223,9 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3222,ٱصْبِرْ,{Sobiro,,,|Sbr|,{oi,null,null,null,au
 3223,ٱذْكُرْ,{*okuro,,,|*kr|,{ou,null,null,null,au
 3224,"دَاوُ,"daAwu,,,|dAu|,"aw,null,null,null,au
-3225,شَدَدْنَا,$adadonaA,,نَا,|aao|naA,شدد,tidak terdefinisi,نَحْنُ,madhi,au
+3225,شَدَدْنَا,$adadonaA,,نَا,|aao|naA,شدد,not defined,نَحْنُ,madhi,au
 3226,دَخَلُوا@,daxaluwA@,,وا@,|aau|wA@,دخل,1,هُمْ,madhi,au
-3227,فَزِعَ,faziEa,,,|aia|,فزع,tidak terdefinisi,هُوَ,madhi,ia
+3227,فَزِعَ,faziEa,,,|aia|,فزع,not defined,هُوَ,madhi,ia
 3228,ٱحْكُم,{Hokum,,,|Hkm|,{ou,null,null,null,au
 3229,ظَلَمَ,Zalama,,,|aaa|,ظلم,2,هُوَ,madhi,au
 3230,عَمِلُوا@,EamiluwA@,,وا@,|aiu|wA@,عمل,4,هُمْ,madhi,ia
@@ -3240,15 +3240,15 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3239,عَمِلُوا@,EamiluwA@,,وا@,|aiu|wA@,عمل,4,هُمْ,madhi,ia
 3240,نَجْعَلُ,najoEalu,نَ,,na|oau|,جعل,3,نَحْنُ,mudhari,aa
 3241,نِعْمَ,niEoma,,,|ioa|,nEm,null,null,null,au
-3242,عُرِضَ,EuriDa,,,|uia|,عرض,tidak terdefinisi,هُوَ,madhi,ia
-3243,طَفِقَ,Tafiqa,,,|aia|,طفق,tidak terdefinisi,هُوَ,madhi,ia
+3242,عُرِضَ,EuriDa,,,|uia|,عرض,not defined,هُوَ,madhi,ia
+3243,طَفِقَ,Tafiqa,,,|aia|,طفق,not defined,هُوَ,madhi,ia
 3244,ٱغْفِرْ,{gofiro,,,|gfr|,{oi,null,null,null,au
 3245,ٱمْنُنْ,{monuno,,,|mnn|,{ou,null,null,null,au
 3246,ٱذْكُرْ,{*okuro,,,|*kr|,{ou,null,null,null,au
 3247,ٱضْرِب,{Dorib,,,|Drb|,{oi,null,null,null,au
 3248,ٱذْكُرْ,{*okuro,,,|*kr|,{ou,null,null,null,au
 3249,ٱذْكُرْ,{*okuro,,,|*kr|,{ou,null,null,null,au
-3250,نَفَخْتُ,nafaxotu,,تُ,|aao|tu,نفخ,tidak terdefinisi,أَنَا,madhi,au
+3250,نَفَخْتُ,nafaxotu,,تُ,|aao|tu,نفخ,not defined,أَنَا,madhi,au
 3251,سَجَدَ,sajada,,,|aaa|,سجد,1,هُوَ,madhi,au
 3252,تَسْجُدَ,tasojuda,تَ,,ta|oua|,sjd,null,null,null,au
 3253,خَلَقْتُ,xalaqotu,,تُ,|aao|tu,خلق,1,أَنَا,madhi,au
@@ -3256,7 +3256,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3255,خَلَقْتَ,xalaqota,,تَ,|aao|ta,خلق,1,أَنْتَ,madhi,au
 3256,ٱخْرُجْ,{xorujo,,,|xrj|,{ou,null,null,null,au
 3257,يُبْعَثُونَ,yuboEavuwna,,ونَ,|uoa|wna,ybE,null,null,null,au
-3258,تَبِعَ,tabiEa,,,|aia|,تبع,tidak terdefinisi,هُوَ,madhi,ia
+3258,تَبِعَ,tabiEa,,,|aia|,تبع,not defined,هُوَ,madhi,ia
 3259,تَعْلَمُ,taEolamu,تَ,,ta|oau|,علم,4,أَنْتَ/هِيَ,mudhari,aa
 3260,ٱعْبُدِ,{Eobudi,,,|Ebd|,{ou,null,null,null,au
 3261,نَعْبُدُ,naEobudu,نَ,,na|ouu|,عبد,1,نَحْنُ,mudhari,au
@@ -3294,8 +3294,8 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3293,تَعْلَمُونَ,taEolamuwna,تَ,ونَ,ta|oau|wna,علم,4,أَنْتُمْ,mudhari,aa
 3294,يَعْقِلُونَ,yaEoqiluwna,يَ,ونَ,ya|oiu|wna,عقل,2,هُمْ,mudhari,ai
 3295,تُرْجَعُونَ,turojaEuwna,,ونَ,|uoa|wna,trj,null,null,null,au
-3296,ذُكِرَ,*ukira,,,|uia|,ذكر,tidak terdefinisi,هُوَ,madhi,ia
-3297,ذُكِرَ,*ukira,,,|uia|,ذكر,tidak terdefinisi,هُوَ,madhi,ia
+3296,ذُكِرَ,*ukira,,,|uia|,ذكر,not defined,هُوَ,madhi,ia
+3297,ذُكِرَ,*ukira,,,|uia|,ذكر,not defined,هُوَ,madhi,ia
 3298,تَحْكُمُ,taHokumu,تَ,,ta|ouu|,حكم,1,أَنْتَ/هِيَ,mudhari,au
 3299,ظَلَمُوا@,ZalamuwA@,,وا@,|aau|wA@,ظلم,2,هُمْ,madhi,au
 3300,كَسَبُوا@,kasabuwA@,,وا@,|aau|wA@,كسب,2,هُمْ,madhi,au
@@ -3316,9 +3316,9 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3315,يَحْبَطَ,yaHobaTa,يَ,,ya|oaa|,حبط,4,هُوَ,mudhari,aa
 3316,ٱعْبُدْ,{Eobudo,,,|Ebd|,{ou,null,null,null,au
 3317,قَدَرُوا@,qadaruwA@,,وا@,|aau|wA@,قدر,2,هُمْ,madhi,au
-3318,نُفِخَ,nufixa,,,|uia|,نفخ,tidak terdefinisi,هُوَ,madhi,ia
-3319,صَعِقَ,SaEiqa,,,|aia|,صعق,tidak terdefinisi,هُوَ,madhi,ia
-3320,نُفِخَ,nufixa,,,|uia|,نفخ,tidak terdefinisi,هُوَ,madhi,ia
+3318,نُفِخَ,nufixa,,,|uia|,نفخ,not defined,هُوَ,madhi,ia
+3319,صَعِقَ,SaEiqa,,,|aia|,صعق,not defined,هُوَ,madhi,ia
+3320,نُفِخَ,nufixa,,,|uia|,نفخ,not defined,هُوَ,madhi,ia
 3321,يُظْلَمُونَ,yuZolamuwna,,ونَ,|uoa|wna,yZl,null,null,null,au
 3322,عَمِلَتْ,Eamilato,,تْ,|aia|to,عمل,4,هِيَ,madhi,ia
 3323,يَفْعَلُونَ,yafoEaluwna,يَ,ونَ,ya|oau|wna,فعل,3,هُمْ,mudhari,aa
@@ -3334,7 +3334,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3333,كَفَرُ,kafaru,,,|aau|,kfr,null,null,null,au
 3334,يَحْمِلُونَ,yaHomiluwna,يَ,ونَ,ya|oiu|wna,حمل,2,هُمْ,mudhari,ai
 3335,ٱغْفِرْ,{gofiro,,,|gfr|,{oi,null,null,null,au
-3336,صَلَحَ,SalaHa,,,|aaa|,صلح,tidak terdefinisi,هُوَ,madhi,au
+3336,صَلَحَ,SalaHa,,,|aaa|,صلح,not defined,هُوَ,madhi,au
 3337,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 3338,تَكْفُرُونَ,takofuruwna,تَ,ونَ,ta|ouu|wna,كفر,1,أَنْتُمْ,mudhari,au
 3339,كَفَرْتُمْ,kafarotumo,,تُمْ,|aao|tumo,كفر,1,أَنْتُمْ,madhi,au
@@ -3347,7 +3347,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3346,يَكْتُمُ,yakotumu,يَ,,ya|ouu|,كتم,1,هُوَ,mudhari,au
 3347,تَقْتُلُونَ,taqotuluwna,تَ,ونَ,ta|ouu|wna,قتل,1,أَنْتُمْ,mudhari,au
 3348,يَنْصُرُنَا,yanoSurunaA,يَ,نَا,ya|ouu|naA,nSr,null,null,null,au
-3349,هَلَكَ,halaka,,,|aaa|,هلك,tidak terdefinisi,هُوَ,madhi,au
+3349,هَلَكَ,halaka,,,|aaa|,هلك,not defined,هُوَ,madhi,au
 3350,يَبْعَثَ,yaboEava,يَ,,ya|oaa|,بعث,3,هُوَ,mudhari,aa
 3351,كَبُرَ,kabura,,,|aua|,كبر,5,هُوَ,madhi,uu
 3352,يَطْبَعُ,yaTobaEu,يَ,,ya|oau|,طبع,3,هُوَ,mudhari,aa
@@ -3448,14 +3448,14 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3447,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 3448,يَبْسُطُ,yabosuTu,يَ,,ya|ouu|,بسط,1,هُوَ,mudhari,au
 3449,يَقْدِرُ,yaqodiru,يَ,,ya|oiu|,قدر,2,هُوَ,mudhari,ai
-3450,شَرَعَ,$araEa,,,|aaa|,شرع,tidak terdefinisi,هُوَ,madhi,au
+3450,شَرَعَ,$araEa,,,|aaa|,شرع,not defined,هُوَ,madhi,au
 3451,كَبُرَ,kabura,,,|aua|,كبر,5,هُوَ,madhi,uu
 3452,سَبَقَتْ,sabaqato,,تْ,|aaa|to,سبق,2,هِيَ,madhi,au
 3453,أَعْدِلَ,>aEodila,أَ,,>a|oia|,Edl,null,null,null,au
 3454,يَجْمَعُ,yajomaEu,يَ,,ya|oau|,جمع,3,هُوَ,mudhari,aa
 3455,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
 3456,يَرْزُقُ,yarozuqu,يَ,,ya|ouu|,رزق,1,هُوَ,mudhari,au
-3457,شَرَعُوا@,$araEuwA@,,وا@,|aau|wA@,شرع,tidak terdefinisi,هُمْ,madhi,au
+3457,شَرَعُوا@,$araEuwA@,,وا@,|aau|wA@,شرع,not defined,هُمْ,madhi,au
 3458,كَسَبُوا@,kasabuwA@,,وا@,|aau|wA@,كسب,2,هُمْ,madhi,au
 3459,عَمِلُوا@,EamiluwA@,,وا@,|aiu|wA@,عمل,4,هُمْ,madhi,ia
 3460,عَمِلُوا@,EamiluwA@,,وا@,|aiu|wA@,عمل,4,هُمْ,madhi,ia
@@ -3469,7 +3469,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3468,يَظْلَلْنَ,yaZolalona,يَ,نَ,ya|oao|na,ظلل,tak terdefinisi,هُنَّ,mudhari,aa
 3469,كَسَبُوا@,kasabuwA@,,وا@,|aau|wA@,كسب,2,هُمْ,madhi,au
 3470,يَعْلَمَ,yaEolama,يَ,,ya|oaa|,علم,4,هُوَ,mudhari,aa
-3471,غَضِبُوا@,gaDibuwA@,,وا@,|aiu|wA@,غضب,tidak terdefinisi,هُمْ,madhi,ia
+3471,غَضِبُوا@,gaDibuwA@,,وا@,|aiu|wA@,غضب,not defined,هُمْ,madhi,ia
 3472,يَغْفِرُونَ,yagofiruwna,يَ,ونَ,ya|oiu|wna,غفر,2,هُمْ,mudhari,ai
 3473,رَزَقْ,razaqo,,,|aao|,rzq,null,null,null,au
 3474,يَظْلِمُونَ,yaZolimuwna,يَ,ونَ,ya|oiu|wna,ظلم,2,هُمْ,mudhari,ai
@@ -3501,7 +3501,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3500,تُكْتَبُ,tukotabu,,,|uoa|,tkt,null,null,null,au
 3501,عَبَدْ,Eabado,,,|aao|,Ebd,null,null,null,au
 3502,تَعْبُدُونَ,taEobuduwna,تَ,ونَ,ta|ouu|wna,عبد,1,أَنْتُمْ,mudhari,au
-3503,فَطَرَ,faTara,,,|aaa|,فطر,tidak terdefinisi,هُوَ,madhi,au
+3503,فَطَرَ,faTara,,,|aaa|,فطر,not defined,هُوَ,madhi,au
 3504,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 3505,يَرْجِعُونَ,yarojiEuwna,يَ,ونَ,ya|oiu|wna,رجع,2,هُمْ,mudhari,ai
 3506,يَقْسِمُونَ,yaqosimuwna,يَ,ونَ,ya|oiu|wna,قسم,2,هُمْ,mudhari,ai
@@ -3517,8 +3517,8 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3516,جَعَلْنَا,jaEalonaA,,نَا,|aao|naA,جعل,3,نَحْنُ,madhi,au
 3517,يُعْبَدُونَ,yuEobaduwna,,ونَ,|uoa|wna,yEb,null,null,null,au
 3518,يَرْجِعُونَ,yarojiEuwna,يَ,ونَ,ya|oiu|wna,رجع,2,هُمْ,mudhari,ai
-3519,عَهِدَ,Eahida,,,|aia|,عهد,tidak terdefinisi,هُوَ,madhi,ia
-3520,كَشَفْنَا,ka$afonaA,,نَا,|aao|naA,كشف,tidak terdefinisi,نَحْنُ,madhi,au
+3519,عَهِدَ,Eahida,,,|aia|,عهد,not defined,هُوَ,madhi,ia
+3520,كَشَفْنَا,ka$afonaA,,نَا,|aao|naA,كشف,not defined,نَحْنُ,madhi,au
 3521,جَعَلْ,jaEalo,,,|aao|,jEl,null,null,null,au
 3522,ضُرِبَ,Duriba,,,|uia|,ضرب,6,هُوَ,madhi,ia
 3523,ضَرَبُ,Darabu,,,|aau|,Drb,null,null,null,au
@@ -3583,7 +3583,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3582,خَلَقْنَا,xalaqonaA,,نَا,|aao|naA,خلق,1,نَحْنُ,madhi,au
 3583,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 3584,خَلَقُوا@,xalaquwA@,,وا@,|aau|wA@,خلق,1,هُمْ,madhi,au
-3585,حُشِرَ,Hu$ira,,,|uia|,حشر,tidak terdefinisi,هُوَ,madhi,ia
+3585,حُشِرَ,Hu$ira,,,|uia|,حشر,not defined,هُوَ,madhi,ia
 3586,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 3587,يُفْعَلُ,yufoEalu,,,|uoa|,yfE,null,null,null,au
 3588,كَفَرْ,kafaro,,,|aao|,kfr,null,null,null,au
@@ -3625,7 +3625,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3624,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 3625,يَضْرِبُ,yaDoribu,يَ,,ya|oiu|,ضرب,2,هُوَ,mudhari,ai
 3626,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
-3627,قُتِلُوا@,qutiluwA@,,وا@,|uiu|wA@,قتل,tidak terdefinisi,هُمْ,madhi,ia
+3627,قُتِلُوا@,qutiluwA@,,وا@,|uiu|wA@,قتل,not defined,هُمْ,madhi,ia
 3628,تَنصُرُوا@,tanSuruwA@,تَ,وا@,ta|null|wA@,null,null,null,null,au
 3629,يَنصُرْ,yanSuro,يَ,,ya|null|,null,null,null,null,au
 3630,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
@@ -3636,10 +3636,10 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3635,طَبَعَ,TabaEa,,,|aaa|,طبع,3,هُوَ,madhi,au
 3636,ٱعْلَمْ,{Eolamo,,,|Elm|,{oa,null,null,null,au
 3637,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
-3638,ذُكِرَ,*ukira,,,|uia|,ذكر,tidak terdefinisi,هُوَ,madhi,ia
+3638,ذُكِرَ,*ukira,,,|uia|,ذكر,not defined,هُوَ,madhi,ia
 3639,عَزَمَ,Eazama,,,|aaa|,عزم,2,هُوَ,madhi,au
 3640,صَدَقُوا@,SadaquwA@,,وا@,|aau|wA@,صدق,3,هُمْ,madhi,au
-3641,لَعَنَ,laEana,,,|aaa|,لعن,tidak terdefinisi,هُوَ,madhi,au
+3641,لَعَنَ,laEana,,,|aaa|,لعن,not defined,هُوَ,madhi,au
 3642,كَرِهُوا@,karihuwA@,,وا@,|aiu|wA@,كره,4,هُمْ,madhi,ia
 3643,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 3644,يَضْرِبُونَ,yaDoribuwna,يَ,ونَ,ya|oiu|wna,ضرب,2,هُمْ,mudhari,ai
@@ -3659,8 +3659,8 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3658,فَتَحْنَا,fataHonaA,,نَا,|aao|naA,فتح,3,نَحْنُ,madhi,au
 3659,يَغْفِرَ,yagofira,يَ,,ya|oia|,غفر,2,هُوَ,mudhari,ai
 3660,يَنصُرَ,yanSura,يَ,,ya|null|,null,null,null,null,au
-3661,غَضِبَ,gaDiba,,,|aia|,غضب,tidak terdefinisi,هُوَ,madhi,ia
-3662,لَعَنَ,laEana,,,|aaa|,لعن,tidak terdefinisi,هُوَ,madhi,au
+3661,غَضِبَ,gaDiba,,,|aia|,غضب,not defined,هُوَ,madhi,ia
+3662,لَعَنَ,laEana,,,|aaa|,لعن,not defined,هُوَ,madhi,au
 3663,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
 3664,يَغْفِرُ,yagofiru,يَ,,ya|oiu|,غفر,2,هُوَ,mudhari,ai
 3665,تَحْسُدُونَ,taHosuduwna,تَ,ونَ,ta|ouu|wna,حسد,1,أَنْتُمْ,mudhari,au
@@ -3701,14 +3701,14 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3700,مَدَدْ,madado,,,|aao|,mdd,null,null,null,au
 3701,خَلَقْنَا,xalaqonaA,,نَا,|aao|naA,خلق,1,نَحْنُ,madhi,au
 3702,نَعْلَمُ,naEolamu,نَ,,na|oau|,علم,4,نَحْنُ,mudhari,aa
-3703,نُفِخَ,nufixa,,,|uia|,نفخ,tidak terdefinisi,هُوَ,madhi,ia
-3704,كَشَفْنَا,ka$afonaA,,نَا,|aao|naA,كشف,tidak terdefinisi,نَحْنُ,madhi,au
+3703,نُفِخَ,nufixa,,,|uia|,نفخ,not defined,هُوَ,madhi,ia
+3704,كَشَفْنَا,ka$afonaA,,نَا,|aao|naA,كشف,not defined,نَحْنُ,madhi,au
 3705,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 3706,ٱدْخُلُ,{doxulu,,,|dxl|,{ou,null,null,null,au
 3707,خَلَقْنَا,xalaqonaA,,نَا,|aao|naA,خلق,1,نَحْنُ,madhi,au
 3708,ٱصْبِرْ,{Sobiro,,,|Sbr|,{oi,null,null,null,au
 3709,يَسْمَعُونَ,yasomaEuwna,يَ,ونَ,ya|oau|wna,سمع,4,هُمْ,mudhari,aa
-3710,قُتِلَ,qutila,,,|uia|,قتل,tidak terdefinisi,هُوَ,madhi,ia
+3710,قُتِلَ,qutila,,,|uia|,قتل,not defined,هُوَ,madhi,ia
 3711,يُفْتَنُونَ,yufotanuwna,,ونَ,|uoa|wna,yft,null,null,null,au
 3712,دَخَلُوا@,daxaluwA@,,وا@,|aau|wA@,دخل,1,هُمْ,madhi,au
 3713,تَرَكْنَا,tarakonaA,تَ,نَا,ta|null|naA,null,null,null,null,au
@@ -3729,7 +3729,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3728,ٱشْرَبُوا@,{$orabuwA@,,وا@,|$rb|wA@,{oa,null,null,null,au
 3729,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
 3730,كَسَبَ,kasaba,,,|aaa|,كسب,2,هُوَ,madhi,au
-3731,خُلِقُوا@,xuliquwA@,,وا@,|uiu|wA@,خلق,tidak terdefinisi,هُمْ,madhi,ia
+3731,خُلِقُوا@,xuliquwA@,,وا@,|uiu|wA@,خلق,not defined,هُمْ,madhi,ia
 3732,خَلَقُوا@,xalaquwA@,,وا@,|aau|wA@,خلق,1,هُمْ,madhi,au
 3733,يَكْتُبُونَ,yakotubuwna,يَ,ونَ,ya|ouu|wna,كتب,1,هُمْ,mudhari,au
 3734,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
@@ -3748,10 +3748,10 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3747,فَتَحْ,fataHo,,,|aao|,ftH,null,null,null,au
 3748,قُدِرَ,qudira,,,|uia|,قدر,6,هُوَ,madhi,ia
 3749,حَمَلْ,Hamalo,,,|aao|,Hml,null,null,null,au
-3750,كُفِرَ,kufira,,,|uia|,كفر,tidak terdefinisi,هُوَ,madhi,ia
+3750,كُفِرَ,kufira,,,|uia|,كفر,not defined,هُوَ,madhi,ia
 3751,تَنزِعُ,tanziEu,تَ,,ta|null|,null,null,null,null,au
 3752,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
-3753,عَقَرَ,Eaqara,,,|aaa|,عقر,tidak terdefinisi,هُوَ,madhi,au
+3753,عَقَرَ,Eaqara,,,|aaa|,عقر,not defined,هُوَ,madhi,au
 3754,شَكَرَ,$akara,,,|aaa|,شكر,1,هُوَ,madhi,au
 3755,يُهْزَمُ,yuhozamu,,,|uoa|,yhz,null,null,null,au
 3756,خَلَقْ,xalaqo,,,|aao|,xlq,null,null,null,au
@@ -3761,7 +3761,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3760,رَفَعَ,rafaEa,,,|aaa|,رفع,3,هُوَ,madhi,au
 3761,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
 3762,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
-3763,مَرَجَ,maraja,,,|aaa|,مرج,tidak terdefinisi,هُوَ,madhi,au
+3763,مَرَجَ,maraja,,,|aaa|,مرج,not defined,هُوَ,madhi,au
 3764,يَخْرُجُ,yaxoruju,يَ,,ya|ouu|,خرج,1,هُوَ,mudhari,au
 3765,نَفْرُغُ,naforugu,نَ,,na|ouu|,فرغ,1,نَحْنُ,mudhari,au
 3766,يُعْرَفُ,yuEorafu,,,|uoa|,yEr,null,null,null,au
@@ -3812,8 +3812,8 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3811,يَسْمَعُ,yasomaEu,يَ,,ya|oau|,سمع,4,هُوَ,mudhari,aa
 3812,كُمَا^,kumaA^,,,|ua^|,kmA,null,null,null,au
 3813,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
-3814,كُبِتُوا@,kubituwA@,,وا@,|uiu|wA@,كبت,tidak terdefinisi,هُمْ,madhi,ia
-3815,كُبِتَ,kubita,,,|uia|,كبت,tidak terdefinisi,هُوَ,madhi,ia
+3814,كُبِتُوا@,kubituwA@,,وا@,|uiu|wA@,كبت,not defined,هُمْ,madhi,ia
+3815,كُبِتَ,kubita,,,|uia|,كبت,not defined,هُوَ,madhi,ia
 3816,يَبْعَثُ,yaboEavu,يَ,,ya|oau|,بعث,3,هُوَ,mudhari,aa
 3817,عَمِلُ,Eamilu,,,|aiu|,Eml,null,null,null,au
 3818,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
@@ -3825,7 +3825,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3824,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
 3825,تَفْعَلُوا@,tafoEaluwA@,تَ,وا@,ta|oau|wA@,فعل,3,أَنْتُمْ,mudhari,aa
 3826,تَعْمَلُونَ,taEomaluwna,تَ,ونَ,ta|oau|wna,عمل,4,أَنْتُمْ,mudhari,aa
-3827,غَضِبَ,gaDiba,,,|aia|,غضب,tidak terdefinisi,هُوَ,madhi,ia
+3827,غَضِبَ,gaDiba,,,|aia|,غضب,not defined,هُوَ,madhi,ia
 3828,يَحْلِفُونَ,yaHolifuwna,يَ,ونَ,ya|oiu|wna,حلف,2,هُمْ,mudhari,ai
 3829,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
 3830,يَعْمَلُونَ,yaEomaluwna,يَ,ونَ,ya|oau|wna,عمل,4,هُمْ,mudhari,aa
@@ -3881,7 +3881,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3880,ذَهَبَتْ,*ahabato,,تْ,|aaa|to,ذهب,3,هِيَ,madhi,au
 3881,يَسْرِقْنَ,yasoriqona,يَ,نَ,ya|oio|na,سرق,2,هُنَّ,mudhari,ai
 3882,يَقْتُلْنَ,yaqotulona,يَ,نَ,ya|ouo|na,قتل,1,هُنَّ,mudhari,au
-3883,غَضِبَ,gaDiba,,,|aia|,غضب,tidak terdefinisi,هُوَ,madhi,ia
+3883,غَضِبَ,gaDiba,,,|aia|,غضب,not defined,هُوَ,madhi,ia
 3884,تَفْعَلُونَ,tafoEaluwna,تَ,ونَ,ta|oau|wna,فعل,3,أَنْتُمْ,mudhari,aa
 3885,كَبُرَ,kabura,,,|aua|,كبر,5,هُوَ,madhi,uu
 3886,تَفْعَلُونَ,tafoEaluwna,تَ,ونَ,ta|oau|wna,فعل,3,أَنْتُمْ,mudhari,aa
@@ -3952,7 +3952,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3951,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 3952,ٱدْخُلَا,{doxulaA,,ا,|dxl|A,{ou,null,null,null,au
 3953,ضَرَبَ,Daraba,,,|aaa|,ضرب,2,هُوَ,madhi,au
-3954,نَفَخْنَا,nafaxonaA,,نَا,|aao|naA,نفخ,tidak terdefinisi,نَحْنُ,madhi,au
+3954,نَفَخْنَا,nafaxonaA,,نَا,|aao|naA,نفخ,not defined,نَحْنُ,madhi,au
 3955,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
 3956,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
 3957,ٱرْجِعِ,{rojiEi,,,|rjE|,{oi,null,null,null,au
@@ -3986,24 +3986,24 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 3985,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
 3986,يَكْتُبُونَ,yakotubuwna,يَ,ونَ,ya|ouu|wna,كتب,1,هُمْ,mudhari,au
 3987,ٱصْبِرْ,{Sobiro,,,|Sbr|,{oi,null,null,null,au
-3988,نُبِذَ,nubi*a,,,|uia|,نبذ,tidak terdefinisi,هُوَ,madhi,ia
+3988,نُبِذَ,nubi*a,,,|uia|,نبذ,not defined,هُوَ,madhi,ia
 3989,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 3990,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 3991,سَمِعُوا@,samiEuwA@,,وا@,|aiu|wA@,سمع,4,هُمْ,madhi,ia
 3992,حَمَلْ,Hamalo,,,|aao|,Hml,null,null,null,au
 3993,نَجْعَلَ,najoEala,نَ,,na|oaa|,jEl,null,null,null,au
-3994,نُفِخَ,nufixa,,,|uia|,نفخ,tidak terdefinisi,هُوَ,madhi,ia
+3994,نُفِخَ,nufixa,,,|uia|,نفخ,not defined,هُوَ,madhi,ia
 3995,حُمِلَتِ,Humilati,,تِ,|uia|ti,Hml,null,null,null,au
 3996,يَحْمِلُ,yaHomilu,يَ,,ya|oiu|,حمل,2,هُوَ,mudhari,ai
 3997,تُعْرَضُونَ,tuEoraDuwna,,ونَ,|uoa|wna,tEr,null,null,null,au
 3998,ٱشْرَبُوا@,{$orabuwA@,,وا@,|$rb|wA@,{oa,null,null,null,au
-3999,هَلَكَ,halaka,,,|aaa|,هلك,tidak terdefinisi,هُوَ,madhi,au
+3999,هَلَكَ,halaka,,,|aaa|,هلك,not defined,هُوَ,madhi,au
 4000,ٱسْلُكُ,{soluku,,,|slk|,{ou,null,null,null,au
 4001,قَطَعْنَا,qaTaEonaA,,نَا,|aao|naA,قطع,3,نَحْنُ,madhi,au
 4002,نَعْلَمُ,naEolamu,نَ,,na|oau|,علم,4,نَحْنُ,mudhari,aa
 4003,ٱصْبِرْ,{Sobiro,,,|Sbr|,{oi,null,null,null,au
 4004,جَمَعَ,jamaEa,,,|aaa|,جمع,3,هُوَ,madhi,au
-4005,خُلِقَ,xuliqa,,,|uia|,خلق,tidak terdefinisi,هُوَ,madhi,ia
+4005,خُلِقَ,xuliqa,,,|uia|,خلق,not defined,هُوَ,madhi,ia
 4006,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 4007,خَلَقْ,xalaqo,,,|aao|,xlq,null,null,null,au
 4008,يَعْلَمُونَ,yaEolamuwna,يَ,ونَ,ya|oau|wna,علم,4,هُمْ,mudhari,aa
@@ -4026,7 +4026,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 4025,دَخَلَ,daxala,,,|aaa|,دخل,1,هُوَ,madhi,au
 4026,سَمِعْنَا,samiEonaA,,نَا,|aio|naA,سمع,4,نَحْنُ,madhi,ia
 4027,يَبْعَثَ,yaboEava,يَ,,ya|oaa|,بعث,3,هُوَ,mudhari,aa
-4028,لَمَسْنَا,lamasonaA,,نَا,|aao|naA,لمس,tidak terdefinisi,نَحْنُ,madhi,au
+4028,لَمَسْنَا,lamasonaA,,نَا,|aao|naA,لمس,not defined,نَحْنُ,madhi,au
 4029,نَقْعُدُ,naqoEudu,نَ,,na|ouu|,قعد,1,نَحْنُ,mudhari,au
 4030,سَمِعْنَا,samiEonaA,,نَا,|aio|naA,سمع,4,نَحْنُ,madhi,ia
 4031,نَفْتِنَ,nafotina,,نَ,|null|na,null,null,null,null,au
@@ -4045,13 +4045,13 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 4044,يَضْرِبُونَ,yaDoribuwna,يَ,ونَ,ya|oiu|wna,ضرب,2,هُمْ,mudhari,ai
 4045,تَمْنُن,tamonun,تَ,,ta|null|,null,null,null,null,au
 4046,ٱصْبِرْ,{Sobiro,,,|Sbr|,{oi,null,null,null,au
-4047,نُقِرَ,nuqira,,,|uia|,نقر,tidak terdefinisi,هُوَ,madhi,ia
+4047,نُقِرَ,nuqira,,,|uia|,نقر,not defined,هُوَ,madhi,ia
 4048,خَلَقْتُ,xalaqotu,,تُ,|aao|tu,خلق,1,أَنَا,madhi,au
 4049,جَعَلْتُ,jaEalotu,,تُ,|aao|tu,جعل,3,أَنَا,madhi,au
-4050,قُتِلَ,qutila,,,|uia|,قتل,tidak terdefinisi,هُوَ,madhi,ia
-4051,قُتِلَ,qutila,,,|uia|,قتل,tidak terdefinisi,هُوَ,madhi,ia
-4052,عَبَسَ,Eabasa,,,|aaa|,عبس,tidak terdefinisi,هُوَ,madhi,au
-4053,بَسَرَ,basara,,,|aaa|,بسر,tidak terdefinisi,هُوَ,madhi,au
+4050,قُتِلَ,qutila,,,|uia|,قتل,not defined,هُوَ,madhi,ia
+4051,قُتِلَ,qutila,,,|uia|,قتل,not defined,هُوَ,madhi,ia
+4052,عَبَسَ,Eabasa,,,|aaa|,عبس,not defined,هُوَ,madhi,au
+4053,بَسَرَ,basara,,,|aaa|,بسر,not defined,هُوَ,madhi,au
 4054,جَعَلْ,jaEalo,,,|aao|,jEl,null,null,null,au
 4055,جَعَلْنَا,jaEalonaA,,نَا,|aao|naA,جعل,3,نَحْنُ,madhi,au
 4056,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
@@ -4062,7 +4062,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 4061,ذَكَرَ,*akara,,,|aaa|,ذكر,1,هُوَ,madhi,au
 4062,يَذْكُرُونَ,ya*okuruwna,يَ,ونَ,ya|ouu|wna,ذكر,1,هُمْ,mudhari,au
 4063,يَحْسَبُ,yaHosabu,يَ,,ya|oau|,حسب,4,هُوَ,mudhari,aa
-4064,بَرِقَ,bariqa,,,|aia|,برق,tidak terdefinisi,هُوَ,madhi,ia
+4064,بَرِقَ,bariqa,,,|aia|,برق,not defined,هُوَ,madhi,ia
 4065,خَسَفَ,xasafa,,,|aaa|,خسف,2,هُوَ,madhi,au
 4066,جُمِعَ,jumiEa,,,|uia|,جمع,4,هُوَ,madhi,ia
 4067,تَعْجَلَ,taEojala,تَ,,ta|oaa|,Ejl,null,null,null,au
@@ -4110,16 +4110,16 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 4109,حَشَرَ,Ha$ara,,,|aaa|,حشر,1,هُوَ,madhi,au
 4110,رَفَعَ,rafaEa,,,|aaa|,رفع,3,هُوَ,madhi,au
 4111,يَلْبَثُ,yalobavu,يَ,,ya|oau|,لبث,4,هُوَ,mudhari,aa
-4112,عَبَسَ,Eabasa,,,|aaa|,عبس,tidak terdefinisi,هُوَ,madhi,au
+4112,عَبَسَ,Eabasa,,,|aaa|,عبس,not defined,هُوَ,madhi,au
 4113,تَنفَعَ,tanfaEa,تَ,,ta|null|,null,null,null,null,au
 4114,ذَكَرَ,*akara,,,|aaa|,ذكر,1,هُوَ,madhi,au
-4115,قُتِلَ,qutila,,,|uia|,قتل,tidak terdefinisi,هُوَ,madhi,ia
+4115,قُتِلَ,qutila,,,|uia|,قتل,not defined,هُوَ,madhi,ia
 4116,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
 4117,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
-4118,صَبَبْنَا,SababonaA,,نَا,|aao|naA,صبب,tidak terdefinisi,نَحْنُ,madhi,au
-4119,شَقَقْنَا,$aqaqonaA,,نَا,|aao|naA,شقق,tidak terdefinisi,نَحْنُ,madhi,au
-4120,حُشِرَتْ,Hu$irato,,تْ,|uia|to,حشر,tidak terdefinisi,هِيَ,madhi,ia
-4121,قُتِلَتْ,qutilato,,تْ,|uia|to,قتل,tidak terdefinisi,هِيَ,madhi,ia
+4118,صَبَبْنَا,SababonaA,,نَا,|aao|naA,صبب,not defined,نَحْنُ,madhi,au
+4119,شَقَقْنَا,$aqaqonaA,,نَا,|aao|naA,شقق,not defined,نَحْنُ,madhi,au
+4120,حُشِرَتْ,Hu$irato,,تْ,|uia|to,حشر,not defined,هِيَ,madhi,ia
+4121,قُتِلَتْ,qutilato,,تْ,|uia|to,قتل,not defined,هِيَ,madhi,ia
 4122,عَلِمَتْ,Ealimato,,تْ,|aia|to,علم,4,هِيَ,madhi,ia
 4123,تَذْهَبُونَ,ta*ohabuwna,تَ,ونَ,ta|oau|wna,ذهب,3,أَنْتُمْ,mudhari,aa
 4124,عَلِمَتْ,Ealimato,,تْ,|aia|to,علم,4,هِيَ,madhi,ia
@@ -4136,20 +4136,20 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 4135,يَسْجُدُونَ,yasojuduwna,يَ,ونَ,ya|ouu|wna,سجد,1,هُمْ,mudhari,au
 4136,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
 4137,عَمِلُوا@,EamiluwA@,,وا@,|aiu|wA@,عمل,4,هُمْ,madhi,ia
-4138,قُتِلَ,qutila,,,|uia|,قتل,tidak terdefinisi,هُوَ,madhi,ia
+4138,قُتِلَ,qutila,,,|uia|,قتل,not defined,هُوَ,madhi,ia
 4139,يَفْعَلُونَ,yafoEaluwna,يَ,ونَ,ya|oau|wna,فعل,3,هُمْ,mudhari,aa
 4140,نَقَمُوا@,naqamuwA@,نَ,وا@,na|null|wA@,null,null,null,null,au
-4141,فَتَنُوا@,fatanuwA@,,وا@,|aau|wA@,فتن,tidak terdefinisi,هُمْ,madhi,au
+4141,فَتَنُوا@,fatanuwA@,,وا@,|aau|wA@,فتن,not defined,هُمْ,madhi,au
 4142,عَمِلُوا@,EamiluwA@,,وا@,|aiu|wA@,عمل,4,هُمْ,madhi,ia
 4143,كَفَرُوا@,kafaruwA@,,وا@,|aau|wA@,كفر,1,هُمْ,madhi,au
-4144,خُلِقَ,xuliqa,,,|uia|,خلق,tidak terdefinisi,هُوَ,madhi,ia
+4144,خُلِقَ,xuliqa,,,|uia|,خلق,not defined,هُوَ,madhi,ia
 4145,يَخْرُجُ,yaxoruju,يَ,,ya|ouu|,خرج,1,هُوَ,mudhari,au
 4146,خَلَقَ,xalaqa,,,|aaa|,خلق,1,هُوَ,madhi,au
 4147,جَعَلَ,jaEala,,,|aaa|,جعل,3,هُوَ,madhi,au
 4148,يَعْلَمُ,yaEolamu,يَ,,ya|oau|,علم,4,هُوَ,mudhari,aa
 4149,ذَكَرَ,*akara,,,|aaa|,ذكر,1,هُوَ,madhi,au
 4150,تَسْمَعُ,tasomaEu,تَ,,ta|oau|,سمع,4,أَنْتَ/هِيَ,mudhari,aa
-4151,خُلِقَتْ,xuliqato,,تْ,|uia|to,خلق,tidak terdefinisi,هِيَ,madhi,ia
+4151,خُلِقَتْ,xuliqato,,تْ,|uia|to,خلق,not defined,هِيَ,madhi,ia
 4152,رُفِعَتْ,rufiEato,,تْ,|uia|to,رفع,4,هِيَ,madhi,ia
 4153,كَفَرَ,kafara,,,|aaa|,كفر,1,هُوَ,madhi,au
 4154,فَعَلَ,faEala,,,|aaa|,فعل,3,هُوَ,madhi,au
@@ -4169,7 +4169,7 @@ No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern
 4168,بَخِلَ,baxila,,,|aia|,بخل,4,هُوَ,madhi,ia
 4169,نَشْرَحْ,na$oraHo,نَ,,na|oao|,$rH,null,null,null,au
 4170,رَفَعْنَا,rafaEonaA,,نَا,|aao|naA,رفع,3,نَحْنُ,madhi,au
-4171,فَرَغْتَ,faragota,,تَ,|aao|ta,فرغ,tidak terdefinisi,أَنْتَ,madhi,au
+4171,فَرَغْتَ,faragota,,تَ,|aao|ta,فرغ,not defined,أَنْتَ,madhi,au
 4172,خَلَقْنَا,xalaqonaA,,نَا,|aao|naA,خلق,1,نَحْنُ,madhi,au
 4173,رَدَدْ,radado,,,|aao|,rdd,null,null,null,au
 4174,عَمِلُوا@,EamiluwA@,,وا@,|aiu|wA@,عمل,4,هُمْ,madhi,ia
