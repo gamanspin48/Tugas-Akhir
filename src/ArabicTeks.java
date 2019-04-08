@@ -635,20 +635,11 @@ public class ArabicTeks {
                 this.wazan+','+
                 bw.buckwalterToUnicode(this.dhomir)+','+
                 this.fiil+','+
-                listWazan[indexWazan].getPola()+','+
-                ket+'\n';
+                listWazan[indexWazan].getPola()+',';
             
         }catch(NullPointerException e){
             
-            if (harokat==null || root == null ||tokenBuck.contains("{") || tokenBuck.contains("'")){
-                
-                ket = "tidak passive";
-                
-            }else{
-                
-                ket = "passive";
-                
-            }
+     
             
             hasil1 = no+','+
                 tokenArab+','+
@@ -660,8 +651,7 @@ public class ArabicTeks {
                 this.wazan+','+
                 this.dhomir+','+
                 this.fiil+','+
-                listWazan[indexWazan].getPola()+','+
-                ket+'\n';
+                listWazan[indexWazan].getPola()+',';
             
         }
         

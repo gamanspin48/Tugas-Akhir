@@ -189,8 +189,9 @@ public class NewMain {
         System.out.println("salah wazan = "+salahWazan);
         System.out.println("salah input = "+salahInput);
         
-                     String header = "No,Arab,Buckwalter,Awalan,Akhiran,Pola,Root,Wazan,Dhomir,Fiil,Pola Wazan,Keterangan\n";
-         writeToCsv(dataTestObj,header,"hasil.csv");
+         String header = "No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern\n";
+         writeToCsv(dataTestObj,header,"test result.csv");
+         
          ArrayList<String> dataTest2 =  new Kamus().getFiilShahih();
          ArrayList<ArabicTeks> dataTestObj2 = new ArrayList<>();
          
@@ -212,7 +213,7 @@ public class NewMain {
              else
                  dataGagal.add(arabHasil);             
          }
-        writeToCsv(dataHasil,header,"hasil3.csv");
+        writeToCsv(dataHasil,header,"All Fi'il Shahih Result.csv");
         writeToCsv(dataGagal,header,"gagal.csv");
         float totalFiil = dataTestObj2.size(); 
         float totalGagal = totalFiil - dataHasil.size();
