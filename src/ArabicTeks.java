@@ -622,10 +622,14 @@ public class ArabicTeks {
         Buckwalter bw = new Buckwalter();
         
         String hasil1;
+          if (!isComplete())
+            ket = "not identified";
+        else
+            ket = "identified";
         
         try{
             
-            hasil1 = no+','+
+           hasil1 = no+','+
                 tokenArab+','+
                 tokenBuck+','+
                 bw.buckwalterToUnicode(awalan)+','+
@@ -635,7 +639,8 @@ public class ArabicTeks {
                 this.wazan+','+
                 bw.buckwalterToUnicode(this.dhomir)+','+
                 this.fiil+','+
-                listWazan[indexWazan].getPola()+'\n';
+                listWazan[indexWazan].getPola()+','+
+                ket+'\n';
             
         }catch(NullPointerException e){
             
@@ -651,7 +656,8 @@ public class ArabicTeks {
                 this.wazan+','+
                 this.dhomir+','+
                 this.fiil+','+
-                listWazan[indexWazan].getPola()+'\n';
+                listWazan[indexWazan].getPola()+','+
+                ket+'\n';
             
         }
         

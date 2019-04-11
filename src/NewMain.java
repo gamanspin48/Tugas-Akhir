@@ -204,7 +204,7 @@ public class NewMain {
              dataTestObj2.add(new ArabicTeks(arabTest));
              
          }
-         writeToCsv(dataTestObj2,header,"All Fi'il Shahih Result.csv");
+         writeToCsv(dataTestObj2,header2,"All Fi'il Shahih Result.csv");
          
          ArrayList<ArabicTeks> dataHasil = new ArrayList<>();
          ArrayList<ArabicTeks> dataGagal = new ArrayList<>();
