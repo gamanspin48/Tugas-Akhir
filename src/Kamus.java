@@ -17,7 +17,7 @@ import java.util.ArrayList;
  */
 public class Kamus {
     
-    private static final String path = "C:\\Users\\ASUS R.O.G\\Downloads\\Quran Corpus - Data.csv";
+    private static final String path = "C:\\Users\\Teguh-Ikhlas\\Downloads\\Quran Corpus - Data.csv";
      private final String[] listAkhiran = {"A","woA","wA","wA@","to","taA","na","ta","tumaA","tumo","ti",
      "tun~a","tu","Ani","wona","wna","yona","yna","naA"};
 
@@ -183,6 +183,44 @@ public class Kamus {
         
     }
     
+    public int getTotalFiil(){
+        
+        int hasil = 0;
+    
+         
+          BufferedReader br = null;
+        String line = "";
+        String cvsSplitBy = ",";
+
+        try {
+
+            br = new BufferedReader(new FileReader(path));
+            while ((line = br.readLine()) != null) {
+  
+                // use comma as separator
+                String[] column = line.split(cvsSplitBy);
+                if (column[2].equals("V")) hasil++;
+                   
+            }
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            if (br != null) {
+                try {
+                    br.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+        
+        return hasil;
+        
+    }
+    
     public static boolean isPassive(String fiil){
         
         boolean hasil = false;
@@ -237,6 +275,57 @@ public class Kamus {
                 }
             }
         }
+        
+        return hasil;
+        
+    }
+    
+    public ArrayList<String> getListRoot(){
+        
+        ArrayList<String> hasil = new ArrayList<String>();
+    
+        BufferedReader br = null;
+        String line = "";
+        String cvsSplitBy = ",";
+
+        try {
+
+            br = new BufferedReader(new FileReader(path));
+            while ((line = br.readLine()) != null) {
+  
+                // use comma as separator
+                String[] column = line.split(cvsSplitBy);
+                String[] buckSplit = column[3].split("/");
+                
+                   for(String token : buckSplit){
+
+                        if (token.contains("ROOT")){
+                            
+                          String root = token.split(":")[1];
+                          if (!hasil.contains(root))
+                              hasil.add(root);
+                            
+                        }
+              
+                    }
+                
+            }
+
+        } catch (FileNotFoundException e) {
+            e.printStackTrace();
+        } catch (IOException e) {
+            e.printStackTrace();
+        } finally {
+            if (br != null) {
+                try {
+                    br.close();
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            }
+        }
+        
+       
         
         return hasil;
         

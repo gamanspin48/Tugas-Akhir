@@ -70,7 +70,7 @@ public class NewMain {
         ArrayList<ArabicTeks> dataTest = new ArrayList<>();
         ArrayList<ArabicTeks> dataTestObj = new ArrayList<>();
         
-        String csvFile = "C:\\Users\\ASUS R.O.G\\Downloads\\Data Test - Sheet4.csv";
+        String csvFile = "C:\\Users\\Teguh-Ikhlas\\Downloads\\Data Test - Sheet4.csv";
         BufferedReader br = null;
         String line = "";
         String cvsSplitBy = ",";
@@ -193,7 +193,7 @@ public class NewMain {
         
          String header = "No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern\n";
          String header2 = "No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern,Result\n";
-         writeToCsv2(dataTestObj,header2,"Test Result.csv",streak,soft);
+         //writeToCsv2(dataTestObj,header2,"Test Result.csv",streak,soft);
          
          ArrayList<String> dataTest2 =  new Kamus().getFiilShahih();
          ArrayList<ArabicTeks> dataTestObj2 = new ArrayList<>();
@@ -204,7 +204,7 @@ public class NewMain {
              dataTestObj2.add(new ArabicTeks(arabTest));
              
          }
-         writeToCsv(dataTestObj2,header2,"All Fi'il Shahih Result.csv");
+         //writeToCsv(dataTestObj2,header2,"All Fi'il Shahih Result.csv");
          
          ArrayList<ArabicTeks> dataHasil = new ArrayList<>();
          ArrayList<ArabicTeks> dataGagal = new ArrayList<>();
@@ -226,6 +226,14 @@ public class NewMain {
         System.out.println("Total Fiil = "+ totalFiil);
         System.out.println("Fiil Gagal = "+totalGagal+" ("+(totalGagalP*100)+") %");
         System.out.println("Fiil Berhasil = "+(totalBerhasil)+" ("+(totalBerhasilP*100)+") %");
+        int tot = new Kamus().getTotalFiil();
+        System.out.println("Total Semua Fiil = "+tot);
+        System.out.println("Mengcover = "+(totalBerhasil/tot*100)+" %");
+        
+        String headerRoot = "No,Root,Jenis\n";
+        ArrayList<String> listRoot = new Kamus().getListRoot();
+        writeToCsvRoot(listRoot, headerRoot, "List All Root.csv");
+        System.out.println("Jumlah Root = "+listRoot.size());
         
 //        ArrayList<ArabicTeks> dataGagalPasif = new ArrayList<>();
 //        ArrayList<ArabicTeks> dataGagalAktif = new ArrayList<>();
@@ -335,7 +343,7 @@ public class NewMain {
                  
              }
              sb.append("\n");
-             sb.append(",Streak Accuracy,"+streak+" %\n");
+             sb.append(",Streak Accuracy,"+streak+" %,,,,,,,,\n");
              sb.append(",Soft Accuracy,"+soft+"%");
              writer.write(sb.toString());
              
@@ -365,6 +373,43 @@ public class NewMain {
 //        writer.write(sb.toString());
 //
 //        System.out.println("done!");
+
+      } catch (FileNotFoundException e) {
+        System.out.println(e.getMessage());
+      }
+        
+    }
+     
+     private static void writeToCsvRoot(ArrayList<String> data,String header,String fileName){
+        
+         try (PrintWriter writer = new PrintWriter(new File(fileName))) {
+           
+             StringBuilder sb = new StringBuilder();
+             int jmlMutal = 0;
+             int jmlShahih = 0;
+
+             sb.append(header);
+             
+             for (int i = 0; i < data.size(); i++) {
+                 
+                 if(data.get(i).contains("w")||data.get(i).contains("A")||data.get(i).contains("y")){
+                     
+                     sb.append((i+1)+","+data.get(i)+",Mu'tal\n");
+                     jmlMutal++;
+                     
+                 }else{
+                     
+                     sb.append((i+1)+","+data.get(i)+",Shahih\n");
+                     jmlShahih++;
+                     
+                 }
+                 
+             }
+             
+             sb.append(",Root Mu'tal,"+jmlMutal+"\n");
+             sb.append(",Root Shahih,"+jmlShahih);
+             writer.write(sb.toString());
+             
 
       } catch (FileNotFoundException e) {
         System.out.println(e.getMessage());
