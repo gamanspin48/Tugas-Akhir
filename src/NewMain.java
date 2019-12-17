@@ -126,7 +126,7 @@ public class NewMain {
             
             ArabicTeks testing = new ArabicTeks(data.getTokenBuck());
             
-            System.out.println(testing.getTokenArab());
+//            System.out.println(testing.getTokenArab());
             //System.out.println(testing.getTengah());
            if (testing.isValidInput()){
                
