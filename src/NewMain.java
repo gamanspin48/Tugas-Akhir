@@ -70,7 +70,8 @@ public class NewMain {
         ArrayList<ArabicTeks> dataTest = new ArrayList<>();
         ArrayList<ArabicTeks> dataTestObj = new ArrayList<>();
         
-        String csvFile = "C:\\Users\\Teguh-Ikhlas\\Downloads\\Data Test - Sheet4.csv";
+        
+        String csvFile = "D:\\Program Files Laptop Opik\\Gdrive\\Folder Data Utama\\Kuliah\\S2\\Thesis\\program\\Data Test - Sheet4.csv";
         BufferedReader br = null;
         String line = "";
         String cvsSplitBy = ",";
@@ -126,7 +127,7 @@ public class NewMain {
             
             ArabicTeks testing = new ArabicTeks(data.getTokenBuck());
             
-            System.out.println(testing.getTokenArab());
+//            System.out.println(testing.getTokenArab());
             //System.out.println(testing.getTengah());
            if (testing.isValidInput()){
                
@@ -191,49 +192,49 @@ public class NewMain {
         System.out.println("salah wazan = "+salahWazan);
         System.out.println("salah input = "+salahInput);
         
-         String header = "No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern\n";
-         String header2 = "No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern,Result\n";
-         //writeToCsv2(dataTestObj,header2,"Test Result.csv",streak,soft);
-         
-         ArrayList<String> dataTest2 =  new Kamus().getFiilShahih();
-         ArrayList<ArabicTeks> dataTestObj2 = new ArrayList<>();
-         
-         for(String arabTest : dataTest2){
-             
-            // System.out.println(arabTest);
-             dataTestObj2.add(new ArabicTeks(arabTest));
-             
-         }
-         //writeToCsv(dataTestObj2,header2,"All Fi'il Shahih Result.csv");
-         
-         ArrayList<ArabicTeks> dataHasil = new ArrayList<>();
-         ArrayList<ArabicTeks> dataGagal = new ArrayList<>();
-         
-         for(ArabicTeks arabHasil : dataTestObj2){
-             
-             if(arabHasil.isComplete())
-                 dataHasil.add(arabHasil);
-             else
-                 dataGagal.add(arabHasil);             
-         }
-        //writeToCsv(dataHasil,header,"All Fi'il Shahih Result good.csv");
-        //writeToCsv(dataGagal,header,"gagal.csv");
-        float totalFiil = dataTestObj2.size(); 
-        float totalGagal = totalFiil - dataHasil.size();
-        float totalGagalP = totalGagal / totalFiil;
-        float totalBerhasil = dataHasil.size();
-        float totalBerhasilP = totalBerhasil / totalFiil;
-        System.out.println("Total Fiil = "+ totalFiil);
-        System.out.println("Fiil Gagal = "+totalGagal+" ("+(totalGagalP*100)+") %");
-        System.out.println("Fiil Berhasil = "+(totalBerhasil)+" ("+(totalBerhasilP*100)+") %");
-        int tot = new Kamus().getTotalFiil();
-        System.out.println("Total Semua Fiil = "+tot);
-        System.out.println("Mengcover = "+(totalBerhasil/tot*100)+" %");
-        
-        String headerRoot = "No,Root,Jenis\n";
-        ArrayList<String> listRoot = new Kamus().getListRoot();
-        writeToCsvRoot(listRoot, headerRoot, "List All Root.csv");
-        System.out.println("Jumlah Root = "+listRoot.size());
+//         String header = "No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern\n";
+//         String header2 = "No,Arab,Buckwalter,Prefix,Suffix,Pattern,Root,Wazan,Dhomir,Fi'il,Wazan Pattern,Result\n";
+//         //writeToCsv2(dataTestObj,header2,"Test Result.csv",streak,soft);
+//         
+//         ArrayList<String> dataTest2 =  new Kamus().getFiilShahih();
+//         ArrayList<ArabicTeks> dataTestObj2 = new ArrayList<>();
+//         
+//         for(String arabTest : dataTest2){
+//             
+//            // System.out.println(arabTest);
+//             dataTestObj2.add(new ArabicTeks(arabTest));
+//             
+//         }
+//         //writeToCsv(dataTestObj2,header2,"All Fi'il Shahih Result.csv");
+//         
+//         ArrayList<ArabicTeks> dataHasil = new ArrayList<>();
+//         ArrayList<ArabicTeks> dataGagal = new ArrayList<>();
+//         
+//         for(ArabicTeks arabHasil : dataTestObj2){
+//             
+//             if(arabHasil.isComplete())
+//                 dataHasil.add(arabHasil);
+//             else
+//                 dataGagal.add(arabHasil);             
+//         }
+//        //writeToCsv(dataHasil,header,"All Fi'il Shahih Result good.csv");
+//        //writeToCsv(dataGagal,header,"gagal.csv");
+//        float totalFiil = dataTestObj2.size(); 
+//        float totalGagal = totalFiil - dataHasil.size();
+//        float totalGagalP = totalGagal / totalFiil;
+//        float totalBerhasil = dataHasil.size();
+//        float totalBerhasilP = totalBerhasil / totalFiil;
+//        System.out.println("Total Fiil = "+ totalFiil);
+//        System.out.println("Fiil Gagal = "+totalGagal+" ("+(totalGagalP*100)+") %");
+//        System.out.println("Fiil Berhasil = "+(totalBerhasil)+" ("+(totalBerhasilP*100)+") %");
+//        int tot = new Kamus().getTotalFiil();
+//        System.out.println("Total Semua Fiil = "+tot);
+//        System.out.println("Mengcover = "+(totalBerhasil/tot*100)+" %");
+//        
+//        String headerRoot = "No,Root,Jenis\n";
+//        ArrayList<String> listRoot = new Kamus().getListRoot();
+//        writeToCsvRoot(listRoot, headerRoot, "List All Root.csv");
+//        System.out.println("Jumlah Root = "+listRoot.size());
         
 //        ArrayList<ArabicTeks> dataGagalPasif = new ArrayList<>();
 //        ArrayList<ArabicTeks> dataGagalAktif = new ArrayList<>();

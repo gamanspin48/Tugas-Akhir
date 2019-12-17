@@ -17,7 +17,7 @@ import java.util.ArrayList;
  */
 public class Kamus {
     
-    private static final String path = "C:\\Users\\Teguh-Ikhlas\\Downloads\\Quran Corpus - Data.csv";
+    private static final String path = "D:\\Program Files Laptop Opik\\Gdrive\\Folder Data Utama\\Kuliah\\S2\\Thesis\\program\\Quran Corpus - Data.csv";
      private final String[] listAkhiran = {"A","woA","wA","wA@","to","taA","na","ta","tumaA","tumo","ti",
      "tun~a","tu","Ani","wona","wna","yona","yna","naA"};
 
